@@ -1,0 +1,2192 @@
+{
+  "best.pt": {
+    "checkpoint_sha256": "22a57df380820d3296411a3b0fd808bd62223640472eb5453e389b3bfc6384bc",
+    "manifest_sha256": "504e970ee33f04de94e8bf4b96e8ce53c8ae410771f659e0b448c643e1c775ee",
+    "stage": "head",
+    "epoch": 5,
+    "validation": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "per_class_recall": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "support": [
+        27,
+        14,
+        13,
+        10,
+        6
+      ],
+      "confusion_matrix_true_rows": [
+        [
+          27,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          14,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          13,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          10,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          6
+        ]
+      ],
+      "loss": 0.07857395218951362
+    },
+    "metrics": {
+      "accuracy": 0.8524590163934426,
+      "macro_f1": 0.8411860295901044,
+      "per_class_recall": [
+        0.9,
+        0.90625,
+        0.7941176470588235,
+        1.0,
+        0.7222222222222222
+      ],
+      "support": [
+        30,
+        32,
+        34,
+        8,
+        18
+      ],
+      "confusion_matrix_true_rows": [
+        [
+          27,
+          3,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          29,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          27,
+          2,
+          4
+        ],
+        [
+          0,
+          0,
+          0,
+          8,
+          0
+        ],
+        [
+          2,
+          0,
+          2,
+          1,
+          13
+        ]
+      ]
+    },
+    "predictions": [
+      {
+        "image": "images/향원정/Hyangwonjeong_108033707.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_108845215.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_109137402.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_128654168.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_14921261.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_150342009.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_1705372.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_27116185.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_29915335.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_31711461.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_326450.jpg",
+        "true": "향원정",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_3338906.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_45011879.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_45638747.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_51827776.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_51857591.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_51880109.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_59057282.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_62686770.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_62795692.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_69826445.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_9192127.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr11318924513.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr11318924973.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr1510258602.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr15524420256.jpg",
+        "true": "향원정",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr298496298.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr36530172785.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr4021575900.jpg",
+        "true": "향원정",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr4270309133.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/경회루/11706_11105_264.jpg",
+        "true": "경회루",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/경회루/120170321kyung700p.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/18093-medium-size.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/18095-medium-size.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/2935_craw2.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/2fe70ab5c2695dda96d080fa0d5d2121.jpeg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/360_F_626214549_nz1sLfqHPb4dG4Pgwmpl2PBQTPs3Jo5m.jpg",
+        "true": "경회루",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/경회루/5002_3562_3017.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/caption.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/dTH6fA4KcKEl7NGvYHVhVldh5iM.jpeg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_108033706.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_1599615.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_21939963.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_25673873.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_32183786.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_375733.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_45011878.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_46498008.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_51827775.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_54512369.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_57874718.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_59057463.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_62839658.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_6413705.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_69723205.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_flickr17714809.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_flickr22773244031.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_flickr298495911.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_flickr8052823243.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/images (1).jpeg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/images (2).jpeg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/images.jpeg",
+        "true": "경회루",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_108853136.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_109086725.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_115562042.jpg",
+        "true": "근정전",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_128654162.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_155457097.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_1705401.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_31701611.jpg",
+        "true": "근정전",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_352382.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_35512790.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_360550.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_43967862.jpg",
+        "true": "근정전",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_44351671.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_51170135.jpg",
+        "true": "근정전",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_51660519.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_51754237.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_53236963.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_54512401.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_56435042.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_57828406.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_59410296.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_61594285.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_61680983.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_62710423.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_62795700.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_83590987.jpg",
+        "true": "근정전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_89452566.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_9328705.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr1509434791.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr2338539405.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr3118360407.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr31665136.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr31667286.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr32957992201.jpg",
+        "true": "근정전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr8052824603.jpg",
+        "true": "근정전",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/교태전/389728_473590_5121.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/5379.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/Gyotaejeon_108033782.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/Gyotaejeon_163348555.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/Gyotaejeon_1633958.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/Gyotaejeon_3339564.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/Gyotaejeon_3339568.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/images (3).jpeg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_115671491.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_163565479.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_26973498.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_29915312.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_41949544.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_43219335.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_45011894.jpg",
+        "true": "광화문",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_53414461.jpg",
+        "true": "광화문",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_56310192.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_62117037.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_62896370.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_71443289.jpg",
+        "true": "광화문",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_flickr22762054755.jpg",
+        "true": "광화문",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_flickr31667441.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_flickr36530170735.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_flickr40419261054.jpg",
+        "true": "광화문",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_flickr51845763109.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_flickr5539093088.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      }
+    ],
+    "purpose": "development comparison on previously examined external set, not independent final test"
+  },
+  "best_head.pt": {
+    "checkpoint_sha256": "fcb175599e08d0ec389ae84d1d37245c1b455c8538aca05b155e5060d472f601",
+    "manifest_sha256": "504e970ee33f04de94e8bf4b96e8ce53c8ae410771f659e0b448c643e1c775ee",
+    "stage": "head",
+    "epoch": 5,
+    "validation": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "per_class_recall": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "support": [
+        27,
+        14,
+        13,
+        10,
+        6
+      ],
+      "confusion_matrix_true_rows": [
+        [
+          27,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          14,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          13,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          10,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          6
+        ]
+      ],
+      "loss": 0.07857395218951362
+    },
+    "metrics": {
+      "accuracy": 0.8524590163934426,
+      "macro_f1": 0.8411860295901044,
+      "per_class_recall": [
+        0.9,
+        0.90625,
+        0.7941176470588235,
+        1.0,
+        0.7222222222222222
+      ],
+      "support": [
+        30,
+        32,
+        34,
+        8,
+        18
+      ],
+      "confusion_matrix_true_rows": [
+        [
+          27,
+          3,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          29,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          27,
+          2,
+          4
+        ],
+        [
+          0,
+          0,
+          0,
+          8,
+          0
+        ],
+        [
+          2,
+          0,
+          2,
+          1,
+          13
+        ]
+      ]
+    },
+    "predictions": [
+      {
+        "image": "images/향원정/Hyangwonjeong_108033707.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_108845215.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_109137402.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_128654168.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_14921261.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_150342009.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_1705372.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_27116185.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_29915335.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_31711461.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_326450.jpg",
+        "true": "향원정",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_3338906.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_45011879.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_45638747.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_51827776.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_51857591.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_51880109.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_59057282.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_62686770.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_62795692.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_69826445.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_9192127.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr11318924513.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr11318924973.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr1510258602.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr15524420256.jpg",
+        "true": "향원정",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr298496298.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr36530172785.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr4021575900.jpg",
+        "true": "향원정",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr4270309133.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/경회루/11706_11105_264.jpg",
+        "true": "경회루",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/경회루/120170321kyung700p.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/18093-medium-size.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/18095-medium-size.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/2935_craw2.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/2fe70ab5c2695dda96d080fa0d5d2121.jpeg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/360_F_626214549_nz1sLfqHPb4dG4Pgwmpl2PBQTPs3Jo5m.jpg",
+        "true": "경회루",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/경회루/5002_3562_3017.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/caption.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/dTH6fA4KcKEl7NGvYHVhVldh5iM.jpeg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_108033706.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_1599615.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_21939963.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_25673873.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_32183786.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_375733.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_45011878.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_46498008.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_51827775.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_54512369.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_57874718.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_59057463.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_62839658.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_6413705.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_69723205.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_flickr17714809.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_flickr22773244031.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_flickr298495911.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_flickr8052823243.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/images (1).jpeg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/images (2).jpeg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/images.jpeg",
+        "true": "경회루",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_108853136.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_109086725.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_115562042.jpg",
+        "true": "근정전",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_128654162.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_155457097.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_1705401.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_31701611.jpg",
+        "true": "근정전",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_352382.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_35512790.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_360550.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_43967862.jpg",
+        "true": "근정전",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_44351671.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_51170135.jpg",
+        "true": "근정전",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_51660519.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_51754237.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_53236963.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_54512401.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_56435042.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_57828406.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_59410296.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_61594285.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_61680983.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_62710423.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_62795700.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_83590987.jpg",
+        "true": "근정전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_89452566.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_9328705.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr1509434791.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr2338539405.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr3118360407.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr31665136.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr31667286.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr32957992201.jpg",
+        "true": "근정전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr8052824603.jpg",
+        "true": "근정전",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/교태전/389728_473590_5121.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/5379.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/Gyotaejeon_108033782.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/Gyotaejeon_163348555.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/Gyotaejeon_1633958.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/Gyotaejeon_3339564.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/Gyotaejeon_3339568.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/images (3).jpeg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_115671491.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_163565479.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_26973498.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_29915312.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_41949544.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_43219335.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_45011894.jpg",
+        "true": "광화문",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_53414461.jpg",
+        "true": "광화문",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_56310192.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_62117037.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_62896370.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_71443289.jpg",
+        "true": "광화문",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_flickr22762054755.jpg",
+        "true": "광화문",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_flickr31667441.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_flickr36530170735.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_flickr40419261054.jpg",
+        "true": "광화문",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_flickr51845763109.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_flickr5539093088.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      }
+    ],
+    "purpose": "development comparison on previously examined external set, not independent final test"
+  },
+  "best_finetune.pt": {
+    "checkpoint_sha256": "c40ddeff7c7b682a304acc07e596ca585f06ddc330b1c0146e03b802d7b536a8",
+    "manifest_sha256": "504e970ee33f04de94e8bf4b96e8ce53c8ae410771f659e0b448c643e1c775ee",
+    "stage": "finetune",
+    "epoch": 1,
+    "validation": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "per_class_recall": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "support": [
+        27,
+        14,
+        13,
+        10,
+        6
+      ],
+      "confusion_matrix_true_rows": [
+        [
+          27,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          14,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          13,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          10,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          6
+        ]
+      ],
+      "loss": 0.17621162193162102
+    },
+    "metrics": {
+      "accuracy": 0.8278688524590164,
+      "macro_f1": 0.8238880340868742,
+      "per_class_recall": [
+        1.0,
+        0.71875,
+        0.8529411764705882,
+        0.75,
+        0.7222222222222222
+      ],
+      "support": [
+        30,
+        32,
+        34,
+        8,
+        18
+      ],
+      "confusion_matrix_true_rows": [
+        [
+          30,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          6,
+          23,
+          2,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          29,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          1,
+          6,
+          0
+        ],
+        [
+          3,
+          0,
+          2,
+          0,
+          13
+        ]
+      ]
+    },
+    "predictions": [
+      {
+        "image": "images/향원정/Hyangwonjeong_108033707.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_108845215.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_109137402.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_128654168.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_14921261.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_150342009.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_1705372.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_27116185.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_29915335.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_31711461.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_326450.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_3338906.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_45011879.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_45638747.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_51827776.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_51857591.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_51880109.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_59057282.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_62686770.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_62795692.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_69826445.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_9192127.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr11318924513.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr11318924973.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr1510258602.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr15524420256.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr298496298.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr36530172785.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr4021575900.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/향원정/Hyangwonjeong_flickr4270309133.jpg",
+        "true": "향원정",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/경회루/11706_11105_264.jpg",
+        "true": "경회루",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/경회루/120170321kyung700p.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/18093-medium-size.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/18095-medium-size.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/2935_craw2.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/2fe70ab5c2695dda96d080fa0d5d2121.jpeg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/360_F_626214549_nz1sLfqHPb4dG4Pgwmpl2PBQTPs3Jo5m.jpg",
+        "true": "경회루",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/경회루/5002_3562_3017.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/caption.jpg",
+        "true": "경회루",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/경회루/dTH6fA4KcKEl7NGvYHVhVldh5iM.jpeg",
+        "true": "경회루",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_108033706.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_1599615.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_21939963.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_25673873.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_32183786.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_375733.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_45011878.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_46498008.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_51827775.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_54512369.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_57874718.jpg",
+        "true": "경회루",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_59057463.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_62839658.jpg",
+        "true": "경회루",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_6413705.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_69723205.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_flickr17714809.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_flickr22773244031.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_flickr298495911.jpg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/Gyeonghoeru_flickr8052823243.jpg",
+        "true": "경회루",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/경회루/images (1).jpeg",
+        "true": "경회루",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/경회루/images (2).jpeg",
+        "true": "경회루",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/경회루/images.jpeg",
+        "true": "경회루",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_108853136.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_109086725.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_115562042.jpg",
+        "true": "근정전",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_128654162.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_155457097.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_1705401.jpg",
+        "true": "근정전",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_31701611.jpg",
+        "true": "근정전",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_352382.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_35512790.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_360550.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_43967862.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_44351671.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_51170135.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_51660519.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_51754237.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_53236963.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_54512401.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_56435042.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_57828406.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_59410296.jpg",
+        "true": "근정전",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_61594285.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_61680983.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_62710423.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_62795700.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_83590987.jpg",
+        "true": "근정전",
+        "predicted": "경회루"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_89452566.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_9328705.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr1509434791.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr2338539405.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr3118360407.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr31665136.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr31667286.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr32957992201.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/근정전/Geunjeongjeon_flickr8052824603.jpg",
+        "true": "근정전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/교태전/389728_473590_5121.jpg",
+        "true": "교태전",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/교태전/5379.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/Gyotaejeon_108033782.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/Gyotaejeon_163348555.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/Gyotaejeon_1633958.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/Gyotaejeon_3339564.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/Gyotaejeon_3339568.jpg",
+        "true": "교태전",
+        "predicted": "교태전"
+      },
+      {
+        "image": "images/교태전/images (3).jpeg",
+        "true": "교태전",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_115671491.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_163565479.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_26973498.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_29915312.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_41949544.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_43219335.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_45011894.jpg",
+        "true": "광화문",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_53414461.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_56310192.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_62117037.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_62896370.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_71443289.jpg",
+        "true": "광화문",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_flickr22762054755.jpg",
+        "true": "광화문",
+        "predicted": "근정전"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_flickr31667441.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_flickr36530170735.jpg",
+        "true": "광화문",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_flickr40419261054.jpg",
+        "true": "광화문",
+        "predicted": "향원정"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_flickr51845763109.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      },
+      {
+        "image": "images/광화문/Gwanghwamun_flickr5539093088.jpg",
+        "true": "광화문",
+        "predicted": "광화문"
+      }
+    ],
+    "purpose": "development comparison on previously examined external set, not independent final test"
+  }
+}

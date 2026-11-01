@@ -1,0 +1,55 @@
+{
+  "mode": "train",
+  "manifest": "prepared/manifest.json",
+  "out": "runs/effb0_plus9",
+  "checkpoint": null,
+  "device": "cuda",
+  "size": 224,
+  "batch_size": 32,
+  "workers": 2,
+  "head_epochs": 5,
+  "finetune_epochs": 20,
+  "patience": 5,
+  "seed": 20261011,
+  "class_weights": false,
+  "torch": "2.5.1+cu121",
+  "manifest_sha256": "f56df4db6b8a2fa14ded84fc9e483a1679475a52da84c827d0aac4e47ab8c96f",
+  "classes": [
+    {
+      "index": 0,
+      "class": "24_향원정",
+      "name_ko": "향원정",
+      "service_id": "building:175",
+      "id_status": "provisional"
+    },
+    {
+      "index": 1,
+      "class": "25_경회루",
+      "name_ko": "경회루",
+      "service_id": "building:174",
+      "id_status": "provisional"
+    },
+    {
+      "index": 2,
+      "class": "31_근정전",
+      "name_ko": "근정전",
+      "service_id": "building:161",
+      "id_status": "provisional"
+    },
+    {
+      "index": 3,
+      "class": "36_교태전",
+      "name_ko": "교태전",
+      "service_id": "building:165",
+      "id_status": "provisional"
+    },
+    {
+      "index": 4,
+      "class": "51_광화문",
+      "name_ko": "광화문",
+      "service_id": "building:151",
+      "id_status": "provisional"
+    }
+  ],
+  "preprocessing": "aspect-preserving letterbox, ImageNet normalization"
+}

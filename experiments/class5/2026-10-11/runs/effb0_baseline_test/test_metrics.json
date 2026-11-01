@@ -1,0 +1,95 @@
+{
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "per_class_recall": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "support": [
+    27,
+    15,
+    14,
+    10,
+    6
+  ],
+  "confusion_matrix_true_rows": [
+    [
+      27,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      15,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      14,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      10,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      6
+    ]
+  ],
+  "loss": 0.07211634351147546,
+  "classes": [
+    {
+      "index": 0,
+      "class": "24_향원정",
+      "name_ko": "향원정",
+      "service_id": "building:175",
+      "id_status": "provisional"
+    },
+    {
+      "index": 1,
+      "class": "25_경회루",
+      "name_ko": "경회루",
+      "service_id": "building:174",
+      "id_status": "provisional"
+    },
+    {
+      "index": 2,
+      "class": "31_근정전",
+      "name_ko": "근정전",
+      "service_id": "building:161",
+      "id_status": "provisional"
+    },
+    {
+      "index": 3,
+      "class": "36_교태전",
+      "name_ko": "교태전",
+      "service_id": "building:165",
+      "id_status": "provisional"
+    },
+    {
+      "index": 4,
+      "class": "51_광화문",
+      "name_ko": "광화문",
+      "service_id": "building:151",
+      "id_status": "provisional"
+    }
+  ],
+  "manifest_sha256": "17ee35dc724a294b1c6485f432e1bb5d24bed90aba299a7d54834a537e7936c3",
+  "checkpoint_sha256": "ebcab96ead77299d1c4fb3d78a7e4e44c45499b10aed860d3c296a879e659b03"
+}
