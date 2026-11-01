@@ -1,0 +1,470 @@
+[
+  {
+    "file": "08_건길문/01. 건축물/kbui_gb_fhd_08_f.jpg",
+    "size": 2113494,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\08_건길문\\\\01. 건축물\\\\kbui_gb_fhd_08_f.jpg'"
+  },
+  {
+    "file": "08_건길문/01. 건축물/kbui_gb_fhd_08_m_003.jpg",
+    "size": 2159274,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\08_건길문\\\\01. 건축물\\\\kbui_gb_fhd_08_m_003.jpg'"
+  },
+  {
+    "file": "08_건길문/01. 건축물/kbui_gb_fhd_08_m_004.jpg",
+    "size": 2217486,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\08_건길문\\\\01. 건축물\\\\kbui_gb_fhd_08_m_004.jpg'"
+  },
+  {
+    "file": "08_건길문/01. 건축물/kbui_gb_fhd_08_m_012.jpg",
+    "size": 2106238,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\08_건길문\\\\01. 건축물\\\\kbui_gb_fhd_08_m_012.jpg'"
+  },
+  {
+    "file": "08_건길문/01. 건축물/kbui_gb_fhd_08_m_016.jpg",
+    "size": 2218773,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\08_건길문\\\\01. 건축물\\\\kbui_gb_fhd_08_m_016.jpg'"
+  },
+  {
+    "file": "08_건길문/01. 건축물/kbui_gb_fhd_08_m_018.jpg",
+    "size": 2158192,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\08_건길문\\\\01. 건축물\\\\kbui_gb_fhd_08_m_018.jpg'"
+  },
+  {
+    "file": "09_영사재/01. 건축물/kbui_gb_fhd_09_m_023.jpg",
+    "size": 2198193,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\09_영사재\\\\01. 건축물\\\\kbui_gb_fhd_09_m_023.jpg'"
+  },
+  {
+    "file": "09_영사재/01. 건축물/kbui_gb_fhd_09_m_024.jpg",
+    "size": 2209323,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\09_영사재\\\\01. 건축물\\\\kbui_gb_fhd_09_m_024.jpg'"
+  },
+  {
+    "file": "09_영사재/01. 건축물/kbui_gb_fhd_09_m_026.jpg",
+    "size": 2186645,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\09_영사재\\\\01. 건축물\\\\kbui_gb_fhd_09_m_026.jpg'"
+  },
+  {
+    "file": "21_곤녕합/01. 건축물/kbui_gb_fhd_21_m_039.jpg",
+    "size": 1354547,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\21_곤녕합\\\\01. 건축물\\\\kbui_gb_fhd_21_m_039.jpg'"
+  },
+  {
+    "file": "21_곤녕합/01. 건축물/kbui_gb_fhd_21_m_040.jpg",
+    "size": 1221244,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\21_곤녕합\\\\01. 건축물\\\\kbui_gb_fhd_21_m_040.jpg'"
+  },
+  {
+    "file": "21_곤녕합/01. 건축물/kbui_gb_fhd_21_m_046.jpg",
+    "size": 1335850,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\21_곤녕합\\\\01. 건축물\\\\kbui_gb_fhd_21_m_046.jpg'"
+  },
+  {
+    "file": "28_흥복전/01. 건축물/kbui_gb_fhd_28_m_059.jpg",
+    "size": 1382321,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\28_흥복전\\\\01. 건축물\\\\kbui_gb_fhd_28_m_059.jpg'"
+  },
+  {
+    "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_040.jpg",
+    "size": 1282560,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\44_연생전\\\\01. 건축물\\\\kbui_gb_fhd_44_m_040.jpg'"
+  },
+  {
+    "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_041.jpg",
+    "size": 1250266,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\44_연생전\\\\01. 건축물\\\\kbui_gb_fhd_44_m_041.jpg'"
+  },
+  {
+    "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_043.jpg",
+    "size": 1236344,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\44_연생전\\\\01. 건축물\\\\kbui_gb_fhd_44_m_043.jpg'"
+  },
+  {
+    "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_044.jpg",
+    "size": 1290092,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\44_연생전\\\\01. 건축물\\\\kbui_gb_fhd_44_m_044.jpg'"
+  },
+  {
+    "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_045.jpg",
+    "size": 1346227,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\44_연생전\\\\01. 건축물\\\\kbui_gb_fhd_44_m_045.jpg'"
+  },
+  {
+    "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_046.jpg",
+    "size": 1363313,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\44_연생전\\\\01. 건축물\\\\kbui_gb_fhd_44_m_046.jpg'"
+  },
+  {
+    "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_047.jpg",
+    "size": 1211976,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\44_연생전\\\\01. 건축물\\\\kbui_gb_fhd_44_m_047.jpg'"
+  },
+  {
+    "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_050.jpg",
+    "size": 1220691,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\44_연생전\\\\01. 건축물\\\\kbui_gb_fhd_44_m_050.jpg'"
+  },
+  {
+    "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_051.jpg",
+    "size": 1275820,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\44_연생전\\\\01. 건축물\\\\kbui_gb_fhd_44_m_051.jpg'"
+  },
+  {
+    "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_052.jpg",
+    "size": 1333425,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\44_연생전\\\\01. 건축물\\\\kbui_gb_fhd_44_m_052.jpg'"
+  },
+  {
+    "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_053.jpg",
+    "size": 1309397,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\44_연생전\\\\01. 건축물\\\\kbui_gb_fhd_44_m_053.jpg'"
+  },
+  {
+    "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_054.jpg",
+    "size": 1332990,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\44_연생전\\\\01. 건축물\\\\kbui_gb_fhd_44_m_054.jpg'"
+  },
+  {
+    "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_055.jpg",
+    "size": 1317329,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\44_연생전\\\\01. 건축물\\\\kbui_gb_fhd_44_m_055.jpg'"
+  },
+  {
+    "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_056.jpg",
+    "size": 1298725,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\44_연생전\\\\01. 건축물\\\\kbui_gb_fhd_44_m_056.jpg'"
+  },
+  {
+    "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_058.jpg",
+    "size": 1322254,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\44_연생전\\\\01. 건축물\\\\kbui_gb_fhd_44_m_058.jpg'"
+  },
+  {
+    "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_059.jpg",
+    "size": 1341453,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\44_연생전\\\\01. 건축물\\\\kbui_gb_fhd_44_m_059.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_b.jpg",
+    "size": 1316319,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_b.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_f.jpg",
+    "size": 1136524,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_f.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_l.jpg",
+    "size": 1296427,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_l.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_001.jpg",
+    "size": 1187832,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_001.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_002.jpg",
+    "size": 1176677,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_002.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_003.jpg",
+    "size": 1305974,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_003.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_005.jpg",
+    "size": 1325168,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_005.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_006.jpg",
+    "size": 1234565,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_006.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_007.jpg",
+    "size": 1214860,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_007.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_008.jpg",
+    "size": 1166833,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_008.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_009.jpg",
+    "size": 1243815,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_009.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_010.jpg",
+    "size": 1232947,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_010.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_011.jpg",
+    "size": 1180404,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_011.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_012.jpg",
+    "size": 1256043,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_012.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_013.jpg",
+    "size": 1188355,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_013.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_014.jpg",
+    "size": 1275035,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_014.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_015.jpg",
+    "size": 1208755,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_015.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_016.jpg",
+    "size": 1163217,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_016.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_017.jpg",
+    "size": 1151346,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_017.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_018.jpg",
+    "size": 1115230,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_018.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_019.jpg",
+    "size": 1206974,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_019.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_020.jpg",
+    "size": 1104712,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_020.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_021.jpg",
+    "size": 1240411,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_021.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_022.jpg",
+    "size": 1189902,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_022.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_023.jpg",
+    "size": 1215788,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_023.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_024.jpg",
+    "size": 1282943,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_024.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_025.jpg",
+    "size": 1332121,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_025.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_027.jpg",
+    "size": 1376554,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_027.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_039.jpg",
+    "size": 1367134,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_039.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_045.jpg",
+    "size": 1328298,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_045.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_046.jpg",
+    "size": 1373674,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_046.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_049.jpg",
+    "size": 1379279,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_049.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_050.jpg",
+    "size": 1197778,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_050.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_051.jpg",
+    "size": 1159998,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_051.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_052.jpg",
+    "size": 1191177,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_052.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_053.jpg",
+    "size": 1192720,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_053.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_054.jpg",
+    "size": 1123059,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_054.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_055.jpg",
+    "size": 1270319,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_055.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_056.jpg",
+    "size": 1238570,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_056.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_057.jpg",
+    "size": 1255488,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_057.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_058.jpg",
+    "size": 1264119,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_058.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_059.jpg",
+    "size": 1242003,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_059.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_060.jpg",
+    "size": 1240546,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_060.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_061.jpg",
+    "size": 1262673,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_061.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_062.jpg",
+    "size": 1193090,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_062.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_063.jpg",
+    "size": 1257351,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_063.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_064.jpg",
+    "size": 1285865,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_064.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_065.jpg",
+    "size": 1175128,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_m_065.jpg'"
+  },
+  {
+    "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_r.jpg",
+    "size": 1310493,
+    "head_hex": "00000000000000000000000000000000",
+    "decode": "cannot identify image file '../dataset_clean\\\\48_자선당\\\\01. 건축물\\\\kbui_gb_fhd_48_r.jpg'"
+  }
+]

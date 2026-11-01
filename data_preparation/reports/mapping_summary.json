@@ -1,0 +1,66 @@
+{
+  "source": "user pasted GPU audit, 2026-10-10",
+  "service_sources": [
+    {
+      "file": "경복궁_용어집.xlsx",
+      "sha256": "7f85fe0ab10c9852e154f84c10747fffbfeb9570d1e4bd041e47500fc57d022a"
+    },
+    {
+      "file": "경복궁_전각해설.xlsx",
+      "sha256": "bd9a89322ae9533be843cf6424c56a0b6ac09a2df51d3f352b3e444444a718aa"
+    }
+  ],
+  "mapped_classes": 60,
+  "image_count": 3438,
+  "service_entries_without_dataset_class": [
+    {
+      "id": "building:153",
+      "name": "영추문"
+    },
+    {
+      "id": "building:154",
+      "name": "신무문"
+    },
+    {
+      "id": "building:155",
+      "name": "동십자각"
+    },
+    {
+      "id": "building:157",
+      "name": "영제교"
+    },
+    {
+      "id": "building:160",
+      "name": "근정전 조정"
+    },
+    {
+      "id": "building:162",
+      "name": "근정전 내부"
+    },
+    {
+      "id": "building:166",
+      "name": "아미산"
+    },
+    {
+      "id": "building:171",
+      "name": "십장생 굴뚝"
+    },
+    {
+      "id": "building:172",
+      "name": "꽃담"
+    },
+    {
+      "id": "building:173",
+      "name": "동궁전"
+    },
+    {
+      "id": "building:184",
+      "name": "소주방"
+    },
+    {
+      "id": "building:186",
+      "name": "궐내각사 터"
+    }
+  ],
+  "note": "Name-based provisional mapping, not visual verification or official ID approval."
+}
