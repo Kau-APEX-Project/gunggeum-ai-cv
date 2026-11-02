@@ -1,0 +1,31 @@
+{
+  "frozen_at_utc": "2026-10-12T11:51:18.070667+00:00",
+  "decision": "All 16 proposed pairs visually confirmed same-photo variants before inference; keep first sorted file from each pair. Originals and copied files retained.",
+  "removed_from_evaluation": [
+    "images/경회루/1611732.jpg",
+    "images/경회루/Gyeonghoeru_flickr1510194264.jpg",
+    "images/경회루/Gyeonghoeru_flickr298496073.jpg",
+    "images/경회루/Gyeonghoeru_flickr41086487602.jpg",
+    "images/경회루/Gyeonghoeru_flickr5550099497.jpg",
+    "images/광화문/Gwanghwamun_flickr10099405366.jpg",
+    "images/교태전/Gyotaejeon_flickr285840850.jpg",
+    "images/교태전/Gyotaejeon_flickr285840865.jpg",
+    "images/근정전/Geunjeongjeon_163348589.jpg",
+    "images/근정전/Geunjeongjeon_flickr2338672707.jpg",
+    "images/근정전/Geunjeongjeon_flickr32928637462.jpg",
+    "images/근정전/Geunjeongjeon_flickr8629944993.jpg",
+    "images/향원정/Hyangwonjeong_flickr10099408536.jpg",
+    "images/향원정/Hyangwonjeong_flickr15524420176.jpg",
+    "images/향원정/Hyangwonjeong_flickr17994549.jpg",
+    "images/향원정/Hyangwonjeong_flickr4117196332.jpg"
+  ],
+  "counts": {
+    "향원정": 30,
+    "경회루": 32,
+    "근정전": 34,
+    "교태전": 8,
+    "광화문": 18
+  },
+  "count": 122,
+  "manifest_sha256": "504e970ee33f04de94e8bf4b96e8ce53c8ae410771f659e0b448c643e1c775ee"
+}

@@ -1,0 +1,114 @@
+{
+  "created_at_utc": "2026-10-12T11:50:45.146717+00:00",
+  "counts": {
+    "향원정": 34,
+    "경회루": 37,
+    "근정전": 38,
+    "교태전": 10,
+    "광화문": 19
+  },
+  "count": 138,
+  "errors": [],
+  "exact_pixel_duplicates": [],
+  "near_duplicate_candidates": [
+    {
+      "a": "images/향원정/Hyangwonjeong_109137402.jpg",
+      "b": "images/향원정/Hyangwonjeong_flickr15524420176.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0
+    },
+    {
+      "a": "images/향원정/Hyangwonjeong_1705372.jpg",
+      "b": "images/향원정/Hyangwonjeong_flickr17994549.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0
+    },
+    {
+      "a": "images/향원정/Hyangwonjeong_29915335.jpg",
+      "b": "images/향원정/Hyangwonjeong_flickr10099408536.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 1
+    },
+    {
+      "a": "images/향원정/Hyangwonjeong_9192127.jpg",
+      "b": "images/향원정/Hyangwonjeong_flickr4117196332.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 2
+    },
+    {
+      "a": "images/경회루/120170321kyung700p.jpg",
+      "b": "images/경회루/1611732.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 4
+    },
+    {
+      "a": "images/경회루/Gyeonghoeru_1599615.jpg",
+      "b": "images/경회루/Gyeonghoeru_flickr298496073.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0
+    },
+    {
+      "a": "images/경회루/Gyeonghoeru_25673873.jpg",
+      "b": "images/경회루/Gyeonghoeru_flickr5550099497.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0
+    },
+    {
+      "a": "images/경회루/Gyeonghoeru_32183786.jpg",
+      "b": "images/경회루/Gyeonghoeru_flickr1510194264.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 1
+    },
+    {
+      "a": "images/경회루/Gyeonghoeru_69723205.jpg",
+      "b": "images/경회루/Gyeonghoeru_flickr41086487602.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 1
+    },
+    {
+      "a": "images/근정전/Geunjeongjeon_108853136.jpg",
+      "b": "images/근정전/Geunjeongjeon_163348589.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 1
+    },
+    {
+      "a": "images/근정전/Geunjeongjeon_109086725.jpg",
+      "b": "images/근정전/Geunjeongjeon_flickr32928637462.jpg",
+      "phash_distance": 2,
+      "dhash_distance": 5
+    },
+    {
+      "a": "images/근정전/Geunjeongjeon_115562042.jpg",
+      "b": "images/근정전/Geunjeongjeon_flickr8629944993.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0
+    },
+    {
+      "a": "images/근정전/Geunjeongjeon_9328705.jpg",
+      "b": "images/근정전/Geunjeongjeon_flickr2338672707.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 1
+    },
+    {
+      "a": "images/교태전/Gyotaejeon_3339564.jpg",
+      "b": "images/교태전/Gyotaejeon_flickr285840865.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0
+    },
+    {
+      "a": "images/교태전/Gyotaejeon_3339568.jpg",
+      "b": "images/교태전/Gyotaejeon_flickr285840850.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0
+    },
+    {
+      "a": "images/광화문/Gwanghwamun_29915312.jpg",
+      "b": "images/광화문/Gwanghwamun_flickr10099405366.jpg",
+      "phash_distance": 0,
+      "dhash_distance": 0
+    }
+  ],
+  "internal_near_candidates": [],
+  "ignored": [],
+  "manifest_sha256": "c366f671252f733ba9baf63a682dd847b34e3c196b8d709f5d352840a211d51e"
+}

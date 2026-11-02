@@ -1,0 +1,2072 @@
+[
+  {
+    "image": "images/향원정/Hyangwonjeong_108033707.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_108033707.jpg",
+    "sha256": "d627cfd697b9103cb1bbadb3be7e98ffe8a8f94866868e93e5d5fb5a4ff13203",
+    "pixel_sha256": "801dbe04c1bb52d836d2392a484ed0e0bf82bca8aa8e0f1b0a4ef7be79b37a3a",
+    "size": [
+      1280,
+      852
+    ],
+    "phash": 2045630831497154607,
+    "dhash": 9243798979667843252,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_108845215.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_108845215.jpg",
+    "sha256": "6df01be4cefe7890183d7b6fe13cce87df8508d7fdc6a9f070814be23ff736e9",
+    "pixel_sha256": "4cf5ea504614fc7c3cfaa6ffd383ece4c18225d2cfcfdbf40af25b1f28a4655f",
+    "size": [
+      1280,
+      540
+    ],
+    "phash": 1533520966224013213,
+    "dhash": 15182021855021954684,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_109137402.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_109137402.jpg",
+    "sha256": "f2479c0cea7eb32a2d1b62135daa8f7b30dbb93a51f6d86a3c81443a86d8fcff",
+    "pixel_sha256": "ca4e740e764fdd0d09866785ce17dfb946f6745d3484552757cfa2e8d681458e",
+    "size": [
+      1280,
+      797
+    ],
+    "phash": 6819965139305801061,
+    "dhash": 16204163084975614400,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_128654168.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_128654168.jpg",
+    "sha256": "13e9741f6c3df0ac2fd628be032ddc9e0be29e78f935e22e61bbedbcc0eda060",
+    "pixel_sha256": "5530f9a00ce66416cef61a85144a6977aca2b94d620b7948d7c874fdca858f48",
+    "size": [
+      1280,
+      853
+    ],
+    "phash": 4530199292769425730,
+    "dhash": 15033925123888541695,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_14921261.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_14921261.jpg",
+    "sha256": "66e2d314b5d71f6ad979a18da3a79367302b01aee56eb248cf89df6b588e8fd5",
+    "pixel_sha256": "1a9cae8e8368ed8111c494dfab6c3402237ce4d83b077ee50f737ad19378f947",
+    "size": [
+      1280,
+      851
+    ],
+    "phash": 6173073929293764851,
+    "dhash": 13889629982506927208,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_150342009.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_150342009.jpg",
+    "sha256": "e6ae81cbf9858126fccf7f87cb07ce67007ffb5d7a1a981710b126763c2e7728",
+    "pixel_sha256": "cbf7712b7b345c6eee2caa5a1db6315912e879fdc531c90fb0e2445ad9389553",
+    "size": [
+      1280,
+      761
+    ],
+    "phash": 6189553988759898345,
+    "dhash": 9530340937640741014,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_1705372.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_1705372.jpg",
+    "sha256": "c7a0a09ff207d70b5af58c3cb268dc047220c3232a1d9f011ad8fb29ab2f00c2",
+    "pixel_sha256": "2c683d512846ce997958e074f84fb7897f71f1c4261dadd3760bd214c9f93d14",
+    "size": [
+      1280,
+      1164
+    ],
+    "phash": 8837967411919742754,
+    "dhash": 1210359009992871953,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_27116185.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_27116185.jpg",
+    "sha256": "e1a463004570b7e39f47c0d1f859e043eee8692e1ea0c45eadae6c08486de91f",
+    "pixel_sha256": "ba269c610f75fcaa6c1d567e67a4ef370e534aad8b9950882ee735239a46960f",
+    "size": [
+      1280,
+      960
+    ],
+    "phash": 5879428040159277461,
+    "dhash": 13642204646852052754,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_29915335.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_29915335.jpg",
+    "sha256": "c40fa1b97015a06ca543db0a3118609e343492d0703e6b46b79a7d95c2ee560d",
+    "pixel_sha256": "c513546eb4f71768cda2cd89bb14c9cbeeca28325314d3651afb8715560d1bf4",
+    "size": [
+      1280,
+      960
+    ],
+    "phash": 7044912184399729695,
+    "dhash": 16551729798528458398,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_31711461.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_31711461.jpg",
+    "sha256": "80866e159e3d427f98317c109791f5f07941f64aae732a82ae8eb7f5a1c56767",
+    "pixel_sha256": "e2bd9a0a085b34eb7082aeba6ea228b0bc5193525a39bb7b1de51f136c466c0c",
+    "size": [
+      1280,
+      746
+    ],
+    "phash": 5255022599943390009,
+    "dhash": 9226683358184051121,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_326450.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_326450.jpg",
+    "sha256": "0e5e39029a9df9cfc145515bfa8643bfaa052b497fc499eb1a91c3ba91021d4a",
+    "pixel_sha256": "d97929da8e32e8f56a9040017b5fa37370535b6461cec3d00fc01666ced7bff2",
+    "size": [
+      442,
+      586
+    ],
+    "phash": 1729365695596099692,
+    "dhash": 13843568139453664480,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_3338906.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_3338906.jpg",
+    "sha256": "f732e96b276b4c96227db9760b03ffef91cc70b96910465913c929fb5a677319",
+    "pixel_sha256": "77505dbc1bed1e21d8b31f6c7235351c6610fbc3c00e05d0800635e08c68a862",
+    "size": [
+      1280,
+      853
+    ],
+    "phash": 1576236455114113734,
+    "dhash": 17349264834238937329,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_45011879.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_45011879.jpg",
+    "sha256": "e095ae63637c127d4f544d0961be6954e2c25503f692ab9c1df52e19109561d1",
+    "pixel_sha256": "c3c23d83838af6603435d1a594e409a7a6adfd55fb2da4367343ca3cd60335ee",
+    "size": [
+      1280,
+      820
+    ],
+    "phash": 1561458538552375181,
+    "dhash": 18410574539108708856,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_45638747.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_45638747.jpg",
+    "sha256": "ecc4352272b943687e1880096a820c38abc50767e96f16e0cd4b2c25447c8b9a",
+    "pixel_sha256": "fabed04b0723f16be20ec3d1e48e500fad1a373da916432cae1bb676ec97348e",
+    "size": [
+      1280,
+      960
+    ],
+    "phash": 4872020231416778746,
+    "dhash": 580526577085236163,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_51827776.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_51827776.jpg",
+    "sha256": "4388c9d5619673d72eb26b3486c4ce3998663840fe2bda302b801760e7ddaf0f",
+    "pixel_sha256": "389f846f85fd0f78276e1015a5612d7f9868b2e259cd5f20870f1edf1272984c",
+    "size": [
+      1280,
+      853
+    ],
+    "phash": 6122728368133452483,
+    "dhash": 9332193127912235752,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_51857591.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_51857591.jpg",
+    "sha256": "5a22fda5109d54c7ff565a375128ed15d9f5619a1d317a9c0b8fbdd70960cd93",
+    "pixel_sha256": "3fd5d0f5254b0f65e4721185420d2c9c5d89da22af3a7a30fb17e889f8e09454",
+    "size": [
+      1280,
+      853
+    ],
+    "phash": 4668521313135601960,
+    "dhash": 14106560369401833491,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_51880109.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_51880109.jpg",
+    "sha256": "44ebdc586c34fac8b1387f5901b912b4d43a2c8fdcad119f60660e775b5dacbd",
+    "pixel_sha256": "8c554258a63d540f5d867a3666e2b7ae1db7c3d30dc008156ee46438e578145f",
+    "size": [
+      1280,
+      853
+    ],
+    "phash": 1695033626989159637,
+    "dhash": 17560914603493849473,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_59057282.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_59057282.jpg",
+    "sha256": "c38b77cb4d19a52fb211d4209939e8b9c07d77d3e6d5baa3e101a02ea296c170",
+    "pixel_sha256": "9f09258c6e3d359bfc0911108543e3f00e4058af92536b6ca5d28717697f3ab9",
+    "size": [
+      903,
+      1600
+    ],
+    "phash": 420477961552683656,
+    "dhash": 18230275488404733932,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_62686770.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_62686770.jpg",
+    "sha256": "fdb199938bfb1e71e422e51e92e56f6810c3bc6159b2d132e8bcbf37480bcd29",
+    "pixel_sha256": "94041cb82328b247407b3ef0e37af84b33af1518a73cbdf8573e3b0ed2c4a522",
+    "size": [
+      1280,
+      853
+    ],
+    "phash": 476211814803447234,
+    "dhash": 8787082444724939919,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_62795692.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_62795692.jpg",
+    "sha256": "923a22a0ce230c87f604c7513a405beb9a1dba02a4319e704ff093452a93dd2b",
+    "pixel_sha256": "8f4fb040a59ca026526c7048355eaa2c7927156a9d47205c7b5dfaab44777eed",
+    "size": [
+      1200,
+      1600
+    ],
+    "phash": 6420292367559135125,
+    "dhash": 1022440645997911112,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_69826445.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_69826445.jpg",
+    "sha256": "052b390b4184bccb1cb0f4c8126569ef96ee7d7bb95064a1dece73e6ce83fabd",
+    "pixel_sha256": "3fea98329ffcf11009384c68cf5784d6f3fc84582218903b841593eca4feb1f7",
+    "size": [
+      1280,
+      853
+    ],
+    "phash": 580805464859903879,
+    "dhash": 7161817082050422007,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_9192127.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_9192127.jpg",
+    "sha256": "f88c4cdc8e12d400b3ce1f8eb572cba7b2bf8156f95e6f5902dbc8f484873f84",
+    "pixel_sha256": "e277b26336c6a87db5ed56bd2ac68b0107382314daceb4bbfe0947c46c9be88f",
+    "size": [
+      1280,
+      853
+    ],
+    "phash": 2085880084780512020,
+    "dhash": 12373772401665205810,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_flickr10099408536.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_flickr10099408536.jpg",
+    "sha256": "6c2e430e537c5b2fcca8c1be5c2a9db6c0c99c57ebc9dc10493889bd6257ac4d",
+    "pixel_sha256": "7833f3559b1eadeefbdbb6a85ecffcde1c049257abd391cdef534180cd6aa23c",
+    "size": [
+      1024,
+      768
+    ],
+    "phash": 7044912184399729695,
+    "dhash": 16551729798528458399,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_flickr11318924513.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_flickr11318924513.jpg",
+    "sha256": "19f788f8d0417c8e10055108a9a5ee87f1679a49c45d8055fe2677282b51b9fc",
+    "pixel_sha256": "3f0f846148ddf9a012139918abeebbfe488a4cdccec6d8e24912b5f3c48cbeb4",
+    "size": [
+      1023,
+      673
+    ],
+    "phash": 7904022195778635717,
+    "dhash": 2242729419932374799,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_flickr11318924973.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_flickr11318924973.jpg",
+    "sha256": "4850c0e2206f3feb596ac7196dc3b8918afcd87fcd5abbb290d05d2c31f5bc12",
+    "pixel_sha256": "f48477625733d822298c374301c6744df2427e37ba876d632c7074cab08cc63b",
+    "size": [
+      1024,
+      630
+    ],
+    "phash": 5833188522434089084,
+    "dhash": 90512725749332208,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_flickr1510258602.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_flickr1510258602.jpg",
+    "sha256": "321b8096b2b0697264dfdc8753a0f629e9203a15f027771a9ce45802c6271bea",
+    "pixel_sha256": "ea4bc2d6843c77be7bca5a3c69f478b6de3004610ecb5ca746bb2ccf32d07f3c",
+    "size": [
+      1023,
+      763
+    ],
+    "phash": 6761736673393705161,
+    "dhash": 14141426062528238282,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_flickr15524420176.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_flickr15524420176.jpg",
+    "sha256": "a0e450f2928c416cb2cf21935cac6dd5367ee0caf838baa7782d0190a85105db",
+    "pixel_sha256": "635e374f3bbf6db22d88926bacdee58ea3990c279ac980c041fe8735f0f4e322",
+    "size": [
+      1024,
+      638
+    ],
+    "phash": 6819965139305801061,
+    "dhash": 16204163084975614400,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_flickr15524420256.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_flickr15524420256.jpg",
+    "sha256": "d46efb85f7cc32505ba0a5e11a7ca193280d8c61ed0141ca5dfe01a34e2ff4ab",
+    "pixel_sha256": "a1d2dfcd09dd0f54f977e1501cc4304251feff8eda6c8082f411b1f471f42054",
+    "size": [
+      1024,
+      600
+    ],
+    "phash": 6739340150949201569,
+    "dhash": 18365151724854972444,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_flickr17994549.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_flickr17994549.jpg",
+    "sha256": "3ebb506c9c602ad081ba5931534f0459d0331effa938a92e4eea4c808d7e2b9c",
+    "pixel_sha256": "ff9b6e2e924196bbe0f6dea220251dfeade74097429311b2ccbadc9323c59082",
+    "size": [
+      1024,
+      932
+    ],
+    "phash": 8837967411919742754,
+    "dhash": 1210359009992871953,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_flickr298496298.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_flickr298496298.jpg",
+    "sha256": "73cfa6062f0663053e143db91761babd067f39d358527e9e5c2f69b3ed466584",
+    "pixel_sha256": "b65515dfde4ebd44c34eb8bb06013565c603d38e4147c4e73ea8849b990eb7ce",
+    "size": [
+      1024,
+      768
+    ],
+    "phash": 1786745653894473101,
+    "dhash": 12993432190615189993,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_flickr36530172785.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_flickr36530172785.jpg",
+    "sha256": "51f310884747551cf005beacbeab01b1b70829a1ba33b75c902dfc494e73e8b7",
+    "pixel_sha256": "723a775d3052a0f6c7f061cdc89224ac84878c9275e83efb5e938b8492afcad5",
+    "size": [
+      1024,
+      768
+    ],
+    "phash": 259226150826285699,
+    "dhash": 3804074815884184190,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_flickr4021575900.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_flickr4021575900.jpg",
+    "sha256": "992c7ea0ecce272c186f32e8187d1c3d5eb91631b80b8cefa04d07f217a2cf2b",
+    "pixel_sha256": "f633f669fc52486db5a24399c2201520c4d66c2862693fc7efaee22ec05b0e79",
+    "size": [
+      1024,
+      768
+    ],
+    "phash": 200121660892989100,
+    "dhash": 17935242236124830522,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_flickr4117196332.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_flickr4117196332.jpg",
+    "sha256": "a7620ff41e2cc61749f618334bf56bf416a14787e37f4c1c0f82281d26bb9843",
+    "pixel_sha256": "2a2f80de6bcaae214add6dd08d5c2b05c3dd42e75901c8264a9d5382f40d2196",
+    "size": [
+      1024,
+      683
+    ],
+    "phash": 2067865686271030068,
+    "dhash": 12229657214663091762,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/향원정/Hyangwonjeong_flickr4270309133.jpg",
+    "name_ko": "향원정",
+    "original_path": "external_dataset_root/images/향원정/Hyangwonjeong_flickr4270309133.jpg",
+    "sha256": "26836885dafdcf8ef40c6863ca35ee73f84e413a75264850cd5a011f40b5f4be",
+    "pixel_sha256": "9f88ad54dc6821e8c650ebd98c0b94cb7425eb6d49c7842b0f23fba8cde9c37a",
+    "size": [
+      1000,
+      642
+    ],
+    "phash": 1425921662218008308,
+    "dhash": 45018737602694,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/11706_11105_264.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/11706_11105_264.jpg",
+    "sha256": "8ea95f72dc3928e472cad1e8c809d01c0541664fba97b495b2c205dcabd029d9",
+    "pixel_sha256": "6675f58abea7b1f59f4de258e7de5ea49c12b1811275658cb9b23178fd1d38dd",
+    "size": [
+      600,
+      400
+    ],
+    "phash": 2021223236128011516,
+    "dhash": 17359184357209727200,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/120170321kyung700p.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/120170321kyung700p.jpg",
+    "sha256": "9a2d91ff2112e621bbc15f60d203e46e32906946fd5f7303d7ceb8cd2cc0f916",
+    "pixel_sha256": "8201eab28ad6bfc5ae7608070630e99af6c4b39b48deada86cac9053353ca0ba",
+    "size": [
+      700,
+      418
+    ],
+    "phash": 7257880753539948302,
+    "dhash": 1673411101243246499,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/1611732.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/1611732.jpg",
+    "sha256": "3c403a9129044070f4b6a763d72511e1c68b92b25b98b1629bb9c8d1a23a23dc",
+    "pixel_sha256": "e83b5f67516b596303731e7b333b3ff8a6f63a4da0aa40f924244f6be9443d9a",
+    "size": [
+      800,
+      439
+    ],
+    "phash": 7257880749244981007,
+    "dhash": 2240864654294026019,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/18093-medium-size.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/18093-medium-size.jpg",
+    "sha256": "367f01e68c98630c9ff955ed8afcf9061e7848bd9a5a5137021c2e238b9b72d8",
+    "pixel_sha256": "cdc67864cc6927d08594ebc43043ebb68f0499f146a77a51d839d2c5a8036b7a",
+    "size": [
+      1024,
+      681
+    ],
+    "phash": 4436840306607905546,
+    "dhash": 17921567995641082675,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/18095-medium-size.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/18095-medium-size.jpg",
+    "sha256": "a8add4ae8835a4c438f41fcfdd904d91a963908aff9a8556d679a75f9d44cbd0",
+    "pixel_sha256": "9329ab40ddfb69ef9da4082824dab863b388507b66d7a267e1c3f3fe45e2b1c6",
+    "size": [
+      1024,
+      683
+    ],
+    "phash": 3239165035827998356,
+    "dhash": 11342710004892513909,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/2935_craw2.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/2935_craw2.jpg",
+    "sha256": "9581961740d9bdc50c47901f29218c51815d41a6e388224e08f31a22ca3e616c",
+    "pixel_sha256": "4dd1938f557c16544237ac2bf12083e9daadd5550ff232fed1408b1ead295bf8",
+    "size": [
+      660,
+      440
+    ],
+    "phash": 287441012307801032,
+    "dhash": 12004425809199487449,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/2fe70ab5c2695dda96d080fa0d5d2121.jpeg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/2fe70ab5c2695dda96d080fa0d5d2121.jpeg",
+    "sha256": "5e33fe5658679fa54c16c6b9bf9337685efee25a46cdccb335384296ce748b4f",
+    "pixel_sha256": "f59fc8dbf6c7a5b1e758e75928e339e0ffbc10028b85a120c1829e7f89569075",
+    "size": [
+      1200,
+      800
+    ],
+    "phash": 7195231086813762134,
+    "dhash": 1400703628021532431,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/360_F_626214549_nz1sLfqHPb4dG4Pgwmpl2PBQTPs3Jo5m.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/360_F_626214549_nz1sLfqHPb4dG4Pgwmpl2PBQTPs3Jo5m.jpg",
+    "sha256": "27e434f7b920fc785c0f9dae6cfb41c62679c804ccaeccd6c6ed4f987ba7054a",
+    "pixel_sha256": "5e9464a3f390d81f2bde47eaea9931e45165c8571d7e84c4f5f6673a7db866ec",
+    "size": [
+      480,
+      360
+    ],
+    "phash": 1691217841876275489,
+    "dhash": 7580645473580010646,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/5002_3562_3017.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/5002_3562_3017.jpg",
+    "sha256": "39d49dd244216f542591eb3b8405c5182ac728fce0ac1db6b4ef8032cae002fa",
+    "pixel_sha256": "b87233df82a7c58037a9a184d5350c64cc12047c761ffffa1533f48f69bbcd8d",
+    "size": [
+      839,
+      581
+    ],
+    "phash": 6260423006041993509,
+    "dhash": 577213026278407,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/caption.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/caption.jpg",
+    "sha256": "fd50a1df97d0acb893b71a311901030a50d812487fce30c5a255c5fa0dddd499",
+    "pixel_sha256": "e9b52db97418e401ae85d0807e9b1b327b76ab8009f83381ccd0977a0a95eb65",
+    "size": [
+      550,
+      371
+    ],
+    "phash": 2145099713839246456,
+    "dhash": 9068757284304698,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/dTH6fA4KcKEl7NGvYHVhVldh5iM.jpeg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/dTH6fA4KcKEl7NGvYHVhVldh5iM.jpeg",
+    "sha256": "004c29b49564b393672e6322ef117e8cf685b333076479c8a2ed51a100a3f996",
+    "pixel_sha256": "42215711d915c5ede9ac5075e55761874abef8ece75c2faa26730ed7474a5bc0",
+    "size": [
+      3500,
+      2334
+    ],
+    "phash": 7682270276131980006,
+    "dhash": 3473332770037140929,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_108033706.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_108033706.jpg",
+    "sha256": "eefd961cf9402cd7bc4a306fa76080cdbe35753ebe7a4a6c246a457762fa0c87",
+    "pixel_sha256": "753de7fde93fee2eb3507f000fe466b0d393db1cd2eefc5d5dc359d10b1c9aa1",
+    "size": [
+      1280,
+      852
+    ],
+    "phash": 3185119353303358305,
+    "dhash": 18356244806665384135,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_1599615.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_1599615.jpg",
+    "sha256": "cd7d33f77cc26a8f0f661ae96b735de731a4300b8ab17d0a2f6d83173b18ee09",
+    "pixel_sha256": "a0ac7d68b6983ce35fb83b09895a3a72a84df2853929bf030f9abc38547a3bab",
+    "size": [
+      1280,
+      960
+    ],
+    "phash": 2879164485500627332,
+    "dhash": 3516413900504387272,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_21939963.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_21939963.jpg",
+    "sha256": "4bd048c5d3ed22c356deb6744a8d8f498fa39202a52da2ed265d131dfc6f5819",
+    "pixel_sha256": "7fd43a2194d338de300601a438b2a66d580fa9aa6274685d3772b2e27e1d6790",
+    "size": [
+      1280,
+      960
+    ],
+    "phash": 4463301157916214576,
+    "dhash": 4622451351979701767,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_25673873.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_25673873.jpg",
+    "sha256": "0c232f999b802459ed3e96934f8b41f4efbc2f93ddffb06e365f28a2f8c14979",
+    "pixel_sha256": "7cf318165974d5dd0f8237759ab282c67473b5e55bedfda165d25d3a7aa11ef1",
+    "size": [
+      1280,
+      732
+    ],
+    "phash": 8142446014577246800,
+    "dhash": 63074685353834014,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_32183786.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_32183786.jpg",
+    "sha256": "255da70e1041a49069a2f81325fb6e515ffe5638954d288dfbde215e16bf6a11",
+    "pixel_sha256": "c6e681c6893741e34d5479ca034596bad8cd8e6d05a6092d27d8b9db590cf70a",
+    "size": [
+      1280,
+      883
+    ],
+    "phash": 7559736818170243969,
+    "dhash": 2306690739637233951,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_375733.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_375733.jpg",
+    "sha256": "b0eeaced41650be7156801b74ec9711955bfda39ace864c974021373c083e0fb",
+    "pixel_sha256": "55c117416592e9f3f06100ea028392680467ed006440be9ad213fbb550dc55ba",
+    "size": [
+      1280,
+      960
+    ],
+    "phash": 2995759254313997894,
+    "dhash": 11502172092436517779,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_45011878.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_45011878.jpg",
+    "sha256": "7e1ebb4bee6351171d3f16753b383a600bf1f77c38935176d30cdcb0292f630a",
+    "pixel_sha256": "4ac0979e47160e0346bb28d0ca4f6c3e9ad573bb5a90dc8215e987831ed7e713",
+    "size": [
+      1280,
+      820
+    ],
+    "phash": 2149730790026098380,
+    "dhash": 13884659465161751399,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_46498008.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_46498008.jpg",
+    "sha256": "8c6c24631337270bca23adda84af413af02bcb5fac7d10de39d2fb2be3e02f3e",
+    "pixel_sha256": "cbf8c0b6701470b77dfaf8ca49e23469b2fc2c05fcf6f790614469b21dd81e8b",
+    "size": [
+      1024,
+      768
+    ],
+    "phash": 3312327570570498123,
+    "dhash": 10866760936374392947,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_51827775.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_51827775.jpg",
+    "sha256": "dbc154dd79fdcd2b8600f67eeab57308571bc64ce9ed27e66c0c463b5734cef1",
+    "pixel_sha256": "f9edddf4dc2b28a72d1f000ac8a4d8cee0a3d15f443050ed22928f0676f6ad42",
+    "size": [
+      1280,
+      853
+    ],
+    "phash": 4091466794100957474,
+    "dhash": 8098763090329222167,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_54512369.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_54512369.jpg",
+    "sha256": "036a7b80da0cb6a9f84e4bca786021129b08f66de203834e075a02225f3b6a6a",
+    "pixel_sha256": "8c80dddfb660a3a2258a655f628db3843b78654f925da368882814d53070155f",
+    "size": [
+      1280,
+      859
+    ],
+    "phash": 8811999000564934062,
+    "dhash": 14549306392730979377,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_57874718.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_57874718.jpg",
+    "sha256": "16a99550a1934d5d8b3492698ab85259c1dad291c7ac4d8360155c9de545f793",
+    "pixel_sha256": "8db8a71aad614b34f2316c46ec9427ef4a49e1d350179fa217983d7f9dd0ab64",
+    "size": [
+      1280,
+      442
+    ],
+    "phash": 7117605891685640167,
+    "dhash": 14088611413753827203,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_59057463.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_59057463.jpg",
+    "sha256": "37bd06b74f30bbcefc2351000a7c4228320b9b1c134d696d56bc12f024661ecc",
+    "pixel_sha256": "a6f04b7480d4c0d30efd0e336fc5df69aaa4fcb064415c776c8ab0d03862e4fa",
+    "size": [
+      1280,
+      723
+    ],
+    "phash": 3801965204336166693,
+    "dhash": 289568156295247423,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_62839658.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_62839658.jpg",
+    "sha256": "08be2a38114091a96dd31329a25056fcb7d9f73f010412126e5128956963c153",
+    "pixel_sha256": "63dc0493a1fcd660f58495bd84cce5b5868293b362effad99ac68d2f00451948",
+    "size": [
+      1280,
+      853
+    ],
+    "phash": 5131905416559014014,
+    "dhash": 11095267230918820550,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_6413705.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_6413705.jpg",
+    "sha256": "1f01f160388ae35539f7da0376233297ddb18fd5c0e0d886fb9f23140e85a574",
+    "pixel_sha256": "49343f2a691f6191d997d2add775b29875f4d62b82a9e88c800ffdfccf3f8c4e",
+    "size": [
+      1280,
+      857
+    ],
+    "phash": 8785347292438212762,
+    "dhash": 10959284391847541529,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_69723205.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_69723205.jpg",
+    "sha256": "8df09e78fc9aeb584e3cbd48f63ae7962c6f5c8efa4e830da2ad5a515e331fd8",
+    "pixel_sha256": "3aa2c8011802ae5e383bfbc10c0593b5bd97cbc1779731fabaef6e3095b6e79d",
+    "size": [
+      1280,
+      849
+    ],
+    "phash": 1068426583675491177,
+    "dhash": 18208190073804220199,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_flickr1510194264.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_flickr1510194264.jpg",
+    "sha256": "ac4b39753b59af1731901b1c2507b7d6d0c40401ca19fa67250fe18b0a009e5d",
+    "pixel_sha256": "7f70dbca36b4cbbf2d42681363c9abd1bcbb385c6ff27aa2675701706ed5e896",
+    "size": [
+      1024,
+      706
+    ],
+    "phash": 7559736818170243969,
+    "dhash": 2306690739637234463,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_flickr17714809.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_flickr17714809.jpg",
+    "sha256": "4fc3f9c3768c1da44f035f19fde1a1eb574fafaef0e84502377a7116764c91ab",
+    "pixel_sha256": "6340a8af92abc222776b8221ff9545bce0f6788eb1a9273a6b33c9919d296052",
+    "size": [
+      1024,
+      768
+    ],
+    "phash": 8995260229916477057,
+    "dhash": 3512244772475767851,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_flickr22773244031.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_flickr22773244031.jpg",
+    "sha256": "51bab237b46995781847d2c7f9acbf681e6c2ac9ba03b0114cc07b587c073d9b",
+    "pixel_sha256": "cd2e9ee69b8e35fe097b1601b5b529766e6a801000e0faecd3b88c2eb25f5d99",
+    "size": [
+      1024,
+      769
+    ],
+    "phash": 3224246106379485300,
+    "dhash": 5709463954980898359,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_flickr298495911.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_flickr298495911.jpg",
+    "sha256": "b8c6784c8787af5ff06dfee864464b6199e799df67e8278b06a86babdb439b76",
+    "pixel_sha256": "9713ff28dbcf65d3826f5abd30269972a3b388924440c1bebeba6ac43bddefe9",
+    "size": [
+      1024,
+      768
+    ],
+    "phash": 7686867780518860922,
+    "dhash": 17980363736556838145,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_flickr298496073.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_flickr298496073.jpg",
+    "sha256": "9800f8fc1630a222d85d4ec3ce3c3288077116870c9c90e2712b30c098048391",
+    "pixel_sha256": "0d74381d01b13fc02a698f89a94f92b220c15d617e64b8ecfc28c84e6627df67",
+    "size": [
+      1024,
+      768
+    ],
+    "phash": 2879164485500627332,
+    "dhash": 3516413900504387272,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_flickr41086487602.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_flickr41086487602.jpg",
+    "sha256": "03836135d7a3d4a0e20a8b35161612345328919d7a294488a0120dbb739c2d58",
+    "pixel_sha256": "699670b67d32b81940a18722ee47b90cfffdebcec73c87cddfc6ed48fad2331f",
+    "size": [
+      1024,
+      679
+    ],
+    "phash": 1068426583675491177,
+    "dhash": 18210441873617905447,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_flickr5550099497.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_flickr5550099497.jpg",
+    "sha256": "f2bfdcc940b5cedcab4a3585e2c332549bb88d827ac9425ad8ddfe7ee44241a1",
+    "pixel_sha256": "ea75e3856bd2f7763d8e66fe69107151341e79ccb32bf03e6c0caf68d32281af",
+    "size": [
+      1024,
+      586
+    ],
+    "phash": 8142446014577246800,
+    "dhash": 63074685353834014,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/Gyeonghoeru_flickr8052823243.jpg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/Gyeonghoeru_flickr8052823243.jpg",
+    "sha256": "2d2c3f1a41fb5074bff498b42f7c7b07850aa0da429b82cd4e4f5f33ea1ab67d",
+    "pixel_sha256": "b024495f480d3b3152b7cd83b5f42d330d599ba9f724ea8530ec33590cb12c00",
+    "size": [
+      1023,
+      639
+    ],
+    "phash": 1531909180075898677,
+    "dhash": 9225233168770185230,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/images (1).jpeg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/images (1).jpeg",
+    "sha256": "037f75d333abe3cc9b8155cab1dde20d6ec6a93a17861e59ce58da9c9f386428",
+    "pixel_sha256": "dc12abb47541aee8f7ab4a579876b3976f43efbbe313701cfba705481a1ab4c8",
+    "size": [
+      447,
+      447
+    ],
+    "phash": 4096730581981621168,
+    "dhash": 15977715118829444863,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/images (2).jpeg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/images (2).jpeg",
+    "sha256": "b11d87bf45c9650578f5762a84475c1702e7b0c958eeb22d3b0864f0820456db",
+    "pixel_sha256": "3ca4ddf2122bd9a870b1dc21a9ceacbabe10e306cbd4efef3fb6d996f2c07471",
+    "size": [
+      510,
+      392
+    ],
+    "phash": 7858440920097908123,
+    "dhash": 11756477710217414897,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/경회루/images.jpeg",
+    "name_ko": "경회루",
+    "original_path": "external_dataset_root/images/경회루/images.jpeg",
+    "sha256": "75a6468573512d7270b85af1be1542ab4988511e232161b2ac2cf6e4e6c4e25e",
+    "pixel_sha256": "37665d050f2aa3f10dba54a5d08f5a7a7ad795d669511e9fd8c8bfbaf0e2bc89",
+    "size": [
+      645,
+      310
+    ],
+    "phash": 2222856596077934630,
+    "dhash": 3978424943925028718,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_108853136.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_108853136.jpg",
+    "sha256": "a669efa39383f491dbd793123146e8a269840706df7e78062a598c4def1149d5",
+    "pixel_sha256": "48fefff83e3fdef44d4fb2b60af448c938f871081cd7580c22d0335551735dde",
+    "size": [
+      1280,
+      737
+    ],
+    "phash": 4764417007129812278,
+    "dhash": 7329953424589512900,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_109086725.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_109086725.jpg",
+    "sha256": "a157d2c03f41582f92c94dd448267d3e4d0c89ab168fc98b2c06a08b4e06e9b6",
+    "pixel_sha256": "0e305d7ffd74de6a3356ad2dc9b9511420d0fc4876aac5c3b67836205480176e",
+    "size": [
+      1280,
+      764
+    ],
+    "phash": 5581870359373788921,
+    "dhash": 16172791231194395162,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_115562042.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_115562042.jpg",
+    "sha256": "fe478e019530139fdbd0e16a79eaf9a7f201a615823bcaec2fd6f545586a23be",
+    "pixel_sha256": "cc06140d0798c3a2f3505dc5b4b3f3030c7ebfc0c68110b68e218e8ab67c9129",
+    "size": [
+      1280,
+      360
+    ],
+    "phash": 7849088166706680802,
+    "dhash": 145846951168108421,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_128654162.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_128654162.jpg",
+    "sha256": "8922448408910ab35324a0a6f8074a56e2aa7881cf0842bdb48c1f970854f2c0",
+    "pixel_sha256": "a94a84eeed23db055c62cd3ec8b9af43e9f9ff70c5d0190a51ca3a282e29259e",
+    "size": [
+      1280,
+      818
+    ],
+    "phash": 7942613162911228203,
+    "dhash": 5347781786286072192,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_155457097.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_155457097.jpg",
+    "sha256": "3872303e484341012f53e3fa9206ba861e3719ec3cdb377848492361ff2574c0",
+    "pixel_sha256": "88b858a2a99fd2a8c160bc8d10cbb9f1d2b1d745c150008105f008616d4bb4b1",
+    "size": [
+      1280,
+      820
+    ],
+    "phash": 7614609314574848480,
+    "dhash": 14928050779935757855,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_163348589.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_163348589.jpg",
+    "sha256": "a19588c115d670bda2f0a16a35974588ed11c61fb29e8f5f6457c3c66ff0e18f",
+    "pixel_sha256": "8bc680e668392234d7bc66f5221d723d28ca68ec7bb864a83968477fce5a35bf",
+    "size": [
+      1280,
+      737
+    ],
+    "phash": 4764417007129812278,
+    "dhash": 7257895830551584964,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_1705401.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_1705401.jpg",
+    "sha256": "4c7efae904349d2954073e1623dd968c58feb76b4c845ff15cc750e1ebc1266a",
+    "pixel_sha256": "2dfb02e52b9ffe63b4ee85a6a3743ebbe6ee72105c11bb954af47fdb453cff51",
+    "size": [
+      1280,
+      1213
+    ],
+    "phash": 5605350490357988742,
+    "dhash": 6424141682701950934,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_31701611.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_31701611.jpg",
+    "sha256": "fcdf488cdba8564e39f5b9dfb4d24dd08d776132b3c27392918b55134ab368fd",
+    "pixel_sha256": "ad10e661631bc9e62b78eae5583051f2913bdced52ca25971ae443ec11773465",
+    "size": [
+      1280,
+      601
+    ],
+    "phash": 3474753402862482248,
+    "dhash": 16768199509001959672,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_352382.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_352382.jpg",
+    "sha256": "3b14edabb7e6bafb415d5431d59c9c3b66bd121f1be247183997a5ff6e47fd7f",
+    "pixel_sha256": "c997c77c1b50634064f8f50b4cf9bd7f405b86e04a0536751a0761530c7c44db",
+    "size": [
+      1280,
+      960
+    ],
+    "phash": 3434228639131598635,
+    "dhash": 2321380375723395692,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_35512790.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_35512790.jpg",
+    "sha256": "563d971b2a5815c1cac3d3ddc941b306582e7144fae9507f1f96b3b0d7275db4",
+    "pixel_sha256": "789ad57f9e2ab019593146541e7b1407923469b3138a94e082393f246e788a45",
+    "size": [
+      878,
+      654
+    ],
+    "phash": 3254647679180684917,
+    "dhash": 18165030739990868144,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_360550.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_360550.jpg",
+    "sha256": "e50642be874a3466967d82fc80447b410bb1c7b4d7a7af9103ac145829c2f0e2",
+    "pixel_sha256": "f797459cb9c20db305f1c0aff89e04af745aac8f34f6fa31ffdcb0a9269d02dc",
+    "size": [
+      800,
+      600
+    ],
+    "phash": 8897853718968433772,
+    "dhash": 14721478965770056884,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_43967862.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_43967862.jpg",
+    "sha256": "a230e6c0413bb7f761a905463af8de0f3d82c03cef4aa56abe167ab810609637",
+    "pixel_sha256": "f6f47f920b1567b22424db9a798c214a512ce235da3a26e7cf09edbdaa35b63f",
+    "size": [
+      1280,
+      960
+    ],
+    "phash": 490391196079452112,
+    "dhash": 17033283259429436224,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_44351671.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_44351671.jpg",
+    "sha256": "b3ed36bc4d815eef7adaf04baf8f471698f3a842644640fe8de27467ae93149e",
+    "pixel_sha256": "ff0a4512a84ba5105f0a8df6c4e12b9c3935fa77c0c37f677e5c993afe84ba3f",
+    "size": [
+      871,
+      602
+    ],
+    "phash": 3038757207414732090,
+    "dhash": 10815151612568711416,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_51170135.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_51170135.jpg",
+    "sha256": "b280a7529b75ef551825e7d93f1bb1232a946ce979a40ba1be73ed860a8d7e22",
+    "pixel_sha256": "19b70ef4dc26838b33ea64df2bd3d94d60a6ee7d332920fc0163995f48590341",
+    "size": [
+      1280,
+      960
+    ],
+    "phash": 1530777885705860263,
+    "dhash": 3490411597258879200,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_51660519.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_51660519.jpg",
+    "sha256": "c6ff4fddeb5372b7ee066930b687be3122d3563ea8944574b7897dba5a426fff",
+    "pixel_sha256": "a5bdaf04434da66377fbf972a5c39f86a90aa983181c90e0d59f82568e8807bf",
+    "size": [
+      1280,
+      913
+    ],
+    "phash": 1619442657149742554,
+    "dhash": 6954237137439746063,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_51754237.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_51754237.jpg",
+    "sha256": "91f5b27a4d9d39a9997b8e6211ff5527acc0fe1475cced7c1584550e323aae74",
+    "pixel_sha256": "08c5c8588cac61a2a5c47dd4ebe56920013244ad89698ae4e1db399fc31ed0c2",
+    "size": [
+      1280,
+      853
+    ],
+    "phash": 1194372883564579174,
+    "dhash": 15620977993268125920,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_53236963.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_53236963.jpg",
+    "sha256": "3221961e45075ef47401a6c8c9b1e849e1ba98e0c529dcac2f04a37192ef4b16",
+    "pixel_sha256": "6469e0805392af8203b8cec23bf8282360085a13b2850b55b621dbba69bf0ee3",
+    "size": [
+      1280,
+      812
+    ],
+    "phash": 3068500207901237077,
+    "dhash": 18442364973345502665,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_54512401.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_54512401.jpg",
+    "sha256": "82f000549edd096c52daf390f5c4f4bdd0615b1a87d6538d2c0d40aed226ef0f",
+    "pixel_sha256": "7e48a1da16d1427bbb9318556d48e1265ebf64251373716b2accf372bb6f4ba7",
+    "size": [
+      1280,
+      859
+    ],
+    "phash": 4573546723586598151,
+    "dhash": 13239790324684220512,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_56435042.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_56435042.jpg",
+    "sha256": "1fc4c7ec54606d232e8212edf4722c69d167ef10242fe4290122e4ea89361810",
+    "pixel_sha256": "f90a06b0ee6627c42ca644e007424268f7db773b530a95f37e54dd1a4d815492",
+    "size": [
+      1280,
+      970
+    ],
+    "phash": 3394518135296831242,
+    "dhash": 12891671799886720982,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_57828406.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_57828406.jpg",
+    "sha256": "56cc26133071bdb33d00aa247f982a14eab829a0c3040245888f28127d83542c",
+    "pixel_sha256": "829e2a03cf647cabbc651b7edd067eec99a683a384aa2f7f51da409b7bfdb932",
+    "size": [
+      1280,
+      960
+    ],
+    "phash": 5150311041068229155,
+    "dhash": 18343376006171708620,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_59410296.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_59410296.jpg",
+    "sha256": "85676205af72a1e1c1fa298da2cecf7cc01c1d04642c5b069876da7e11498695",
+    "pixel_sha256": "1fe41755e546ee8e221da4c564fa7337e75188082664e8737566c9cd9b3cbea9",
+    "size": [
+      1080,
+      1440
+    ],
+    "phash": 1051669430628970980,
+    "dhash": 6951508049643529672,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_61594285.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_61594285.jpg",
+    "sha256": "fbe5bca4c70898660f1893bc4e145b70d7834c7319c537d801a4606e6fd2dbe8",
+    "pixel_sha256": "3cd0fff87b9f8b980dbdea1801e15aa3a0fdcb3b3351dcb1f6005d5d4ad30665",
+    "size": [
+      1200,
+      1600
+    ],
+    "phash": 2995903367639864956,
+    "dhash": 9214075249832406919,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_61680983.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_61680983.jpg",
+    "sha256": "2e744c92053dc5a645e45c9b582d39f483fa55bf64b0147ccd60682ca9cb40f3",
+    "pixel_sha256": "ab5db7da4862fbefddd91573c30294d56e44db75cd90a252f85b4f04609f314b",
+    "size": [
+      1200,
+      1600
+    ],
+    "phash": 9180447742143596731,
+    "dhash": 14757296819666131608,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_62710423.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_62710423.jpg",
+    "sha256": "65d4a0e6638bc7c4fcb98d065b64f29bc1a0fac9e46ec87799f9486cff1f91db",
+    "pixel_sha256": "5427913ae154b4cdb1a4b3d4ccf25d6edac5130d844e2d8cd485c5581df5bcfd",
+    "size": [
+      1280,
+      853
+    ],
+    "phash": 1890216146594034958,
+    "dhash": 1818220843998156016,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_62795700.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_62795700.jpg",
+    "sha256": "327ffa6825b92c01f403b6cb692fb42fdf05628e3c7b93d1d407d4e9ba5c9ab4",
+    "pixel_sha256": "db9ee65caefd35b9357f23552c6ec27d5fc1cc2e1e45f675fd8522809e3fd480",
+    "size": [
+      1280,
+      898
+    ],
+    "phash": 8443298341364057768,
+    "dhash": 18228572957659630720,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_83590987.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_83590987.jpg",
+    "sha256": "1ae7aec56e8d1526f9d2eeb793bb63e94e35c2254b074d33a8714abd900d321d",
+    "pixel_sha256": "cda5528f0109940ccd167cb710a06b5b6ab3f4c3c8a47aa9b768180b6338693b",
+    "size": [
+      1280,
+      757
+    ],
+    "phash": 8125493425504423593,
+    "dhash": 5184712775015077603,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_89452566.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_89452566.jpg",
+    "sha256": "cfd77ae68169584d5c7a3c5d4082e51dadd6ef604cac09f5d2702386a81fc6e8",
+    "pixel_sha256": "5982572d0de3cd31154cb5b3a45c364a3fb5802c4a5b70b9e5e84586db83bfdb",
+    "size": [
+      1280,
+      739
+    ],
+    "phash": 3075628712096377538,
+    "dhash": 16569430409204181212,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_9328705.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_9328705.jpg",
+    "sha256": "23ca79d6689ce908f595fe48b18a790e4c82ed2a7c0eccb3eec4e9055e75f0bc",
+    "pixel_sha256": "9492d02ab86d34abe36b880a182fc4edd05b6ee1fe8f4343201138c803c14dca",
+    "size": [
+      1280,
+      857
+    ],
+    "phash": 5353295139864733541,
+    "dhash": 13326648164921435349,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_flickr1509434791.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_flickr1509434791.jpg",
+    "sha256": "cbd147a00700ef3003cb2c7ca1a9e9cb585717f03f12e8b94114b5cb2c7901ba",
+    "pixel_sha256": "66023ec86a9788fe7b6de2097f57fa95dbc2393b19e2d37decd96834b0c3d50c",
+    "size": [
+      1023,
+      706
+    ],
+    "phash": 8423015096220426500,
+    "dhash": 17619935617268624050,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_flickr2338539405.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_flickr2338539405.jpg",
+    "sha256": "92c1fbcb473320ab417aabace84262a74eed35e58d6fd0728f7d239290fa8053",
+    "pixel_sha256": "18524df6150de2903dff27788c10c52c6cb11072cec15726d23bcb80210eac49",
+    "size": [
+      686,
+      1024
+    ],
+    "phash": 9217790378198051626,
+    "dhash": 221560337792183096,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_flickr2338672707.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_flickr2338672707.jpg",
+    "sha256": "802668b2cc01bd787b179b6d9cafe41d19fabfc6708761a6cfe190641b96af9d",
+    "pixel_sha256": "76430f5d4fb43e4f0502c4cb35da9c1f1362ca9c90bb800480473f09cfb67235",
+    "size": [
+      1023,
+      685
+    ],
+    "phash": 5353295139864733541,
+    "dhash": 13326507427433080021,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_flickr3118360407.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_flickr3118360407.jpg",
+    "sha256": "6f13e351addf2abe7d398d5691d09fed101e5abca162e707465cb2c98c3cb79e",
+    "pixel_sha256": "b52da8959d42644c1b42f93822e2baed4a5b90f29315ed2b47daead2ce95c1f6",
+    "size": [
+      1024,
+      679
+    ],
+    "phash": 3793370776675597867,
+    "dhash": 17835977692079364104,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_flickr31665136.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_flickr31665136.jpg",
+    "sha256": "b37f18de435861b29f39a211c0e7b18f5bad27026ce142f99b5020df2d34be09",
+    "pixel_sha256": "ca4d69d1aa43dd54f171e3983ecd91b7dd260e6ef2d367ba51ec373ba4ca7908",
+    "size": [
+      1024,
+      768
+    ],
+    "phash": 3944812155498833765,
+    "dhash": 2322782282464817868,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_flickr31667286.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_flickr31667286.jpg",
+    "sha256": "44095d9f098e0307ab615b7ce22fdc9fff5dce6d89ad0e5003de8e49af14bb12",
+    "pixel_sha256": "f770d177e7a5635635702bba7831e7b2a4a798b1f2bf0c07e97adc7ff8284f19",
+    "size": [
+      1024,
+      768
+    ],
+    "phash": 3882628580110048322,
+    "dhash": 144140573852465604,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_flickr32928637462.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_flickr32928637462.jpg",
+    "sha256": "4820740ce70cea52d59d912445eee0a6f134484c4397ff7918bbbed060d34f88",
+    "pixel_sha256": "809dcbab04ec59f33992161e0b6519fe9afed28847d29a5ca0b14c101a810988",
+    "size": [
+      1023,
+      611
+    ],
+    "phash": 5581870360447530729,
+    "dhash": 16172784565438706202,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_flickr32957992201.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_flickr32957992201.jpg",
+    "sha256": "89f1f428b13149aa94cf5ba046c7462602f18f2ba886798feed5d2b86fe50397",
+    "pixel_sha256": "1403b1ad39f04b587f233607deb7e2059ee4dcdf08ca52f239789f3b8e124990",
+    "size": [
+      1024,
+      642
+    ],
+    "phash": 9184740178311311609,
+    "dhash": 13835390108854057670,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_flickr8052824603.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_flickr8052824603.jpg",
+    "sha256": "9aedbd6b7fe99a9418dc8b1b534824d90859e564ba8a5f211f723e3e43f3847c",
+    "pixel_sha256": "60623dc8a8f001fe0379e7b5bdb1ad7a932bad3eb8c1c0f259373e9a35affa4a",
+    "size": [
+      1024,
+      547
+    ],
+    "phash": 5329502514984393956,
+    "dhash": 140742642292771,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/근정전/Geunjeongjeon_flickr8629944993.jpg",
+    "name_ko": "근정전",
+    "original_path": "external_dataset_root/images/근정전/Geunjeongjeon_flickr8629944993.jpg",
+    "sha256": "86996a1926d9f64d6889845b5d5fc24b2f4720cab5c4ff452e32c5f68b7f69ad",
+    "pixel_sha256": "975929d04404ab64f93fb13fab6ef045999c69e70e2e07589583bae247677b54",
+    "size": [
+      1024,
+      288
+    ],
+    "phash": 7849088166706680802,
+    "dhash": 145846951168108421,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/교태전/389728_473590_5121.jpg",
+    "name_ko": "교태전",
+    "original_path": "external_dataset_root/images/교태전/389728_473590_5121.jpg",
+    "sha256": "65c3919220ad6d5f5f4f40843988a9e2eec3ca8996847763c263018944d9a5c4",
+    "pixel_sha256": "b2cbe24b066f496d2f4e8726c461db502a2b221888b0b3cfceb95bc780c4eecc",
+    "size": [
+      720,
+      323
+    ],
+    "phash": 3926572635748113765,
+    "dhash": 1012806811422091306,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/교태전/5379.jpg",
+    "name_ko": "교태전",
+    "original_path": "external_dataset_root/images/교태전/5379.jpg",
+    "sha256": "afa4603aa87b568adb296b30566ad9ffcc8a43584fe9666b42929d2cccad89ff",
+    "pixel_sha256": "a55ec7f041d5f155942fa885b00d1340396806e5935eecbc9844703490de98cb",
+    "size": [
+      1080,
+      960
+    ],
+    "phash": 567405587417095883,
+    "dhash": 16168046352081940728,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/교태전/Gyotaejeon_108033782.jpg",
+    "name_ko": "교태전",
+    "original_path": "external_dataset_root/images/교태전/Gyotaejeon_108033782.jpg",
+    "sha256": "c0269cc9144698e6ec4b650a2ebfbf9b5cc82657475dffcdf95266d38343174c",
+    "pixel_sha256": "0c2ec8a7055d396038c25a683b23646c7daa7482c40be4cee33ebfbeb9984784",
+    "size": [
+      1280,
+      634
+    ],
+    "phash": 533895884265012807,
+    "dhash": 1107743258286389866,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/교태전/Gyotaejeon_163348555.jpg",
+    "name_ko": "교태전",
+    "original_path": "external_dataset_root/images/교태전/Gyotaejeon_163348555.jpg",
+    "sha256": "3bd88eb469fe7bb5abd892da6c580181ac2f507af50f0deaef4ee222cc8ce9f2",
+    "pixel_sha256": "ceefcebbca77601da7d8e712593a8cf3156a05592833fdee9a4fe258b46ec0b3",
+    "size": [
+      1280,
+      658
+    ],
+    "phash": 6148738674054940831,
+    "dhash": 2169807888858544366,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/교태전/Gyotaejeon_1633958.jpg",
+    "name_ko": "교태전",
+    "original_path": "external_dataset_root/images/교태전/Gyotaejeon_1633958.jpg",
+    "sha256": "2b1f0ffe2da2b9fdf8add57f5085349cbb16127fbb235b8becc2536f753b181b",
+    "pixel_sha256": "b09aeba0d0084e7cba6ed05681aa12cf0af7457448abd878479ea5a1bddf78b1",
+    "size": [
+      1280,
+      960
+    ],
+    "phash": 6163885463645984749,
+    "dhash": 13889911041142849632,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/교태전/Gyotaejeon_3339564.jpg",
+    "name_ko": "교태전",
+    "original_path": "external_dataset_root/images/교태전/Gyotaejeon_3339564.jpg",
+    "sha256": "01b662f9977ed27e9a63642c0cc3521c7b274d4d3fc269569d18918083296e17",
+    "pixel_sha256": "3f81f6b3d8e9e25360b55cda818cad3620445bda811ad885f1392613b5262915",
+    "size": [
+      800,
+      600
+    ],
+    "phash": 7608453791937566265,
+    "dhash": 18228599733844417447,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/교태전/Gyotaejeon_3339568.jpg",
+    "name_ko": "교태전",
+    "original_path": "external_dataset_root/images/교태전/Gyotaejeon_3339568.jpg",
+    "sha256": "71a732b900bd1c59406cf1061a75266b32a0a9b53517ddb7081ce93b41c9321f",
+    "pixel_sha256": "84d54abe56e8d6ac51f05340100bdf17e0a3e8e90dd3a705e01791cb59a20915",
+    "size": [
+      800,
+      600
+    ],
+    "phash": 2740890917134841141,
+    "dhash": 18446251010604445008,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/교태전/Gyotaejeon_flickr285840850.jpg",
+    "name_ko": "교태전",
+    "original_path": "external_dataset_root/images/교태전/Gyotaejeon_flickr285840850.jpg",
+    "sha256": "f8b6f8d72adb2c619668a0bf10823f84fc051094b634f214ab58bba3aad3e5c6",
+    "pixel_sha256": "e24284110d9e309e2ffede6bdbf7000fdfce9894c73bfeb2796f14fefc2868db",
+    "size": [
+      640,
+      480
+    ],
+    "phash": 2740890917134841141,
+    "dhash": 18446251010604445008,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/교태전/Gyotaejeon_flickr285840865.jpg",
+    "name_ko": "교태전",
+    "original_path": "external_dataset_root/images/교태전/Gyotaejeon_flickr285840865.jpg",
+    "sha256": "03773e5f3af822dee93a62d893fef278b49ca9f7e910b4531e8a1fd798790dfe",
+    "pixel_sha256": "516698797f86d8d3006790e59759172c51eca060fb50773d4d1a628a6a79c681",
+    "size": [
+      640,
+      480
+    ],
+    "phash": 7608453791937566265,
+    "dhash": 18228599733844417447,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/교태전/images (3).jpeg",
+    "name_ko": "교태전",
+    "original_path": "external_dataset_root/images/교태전/images (3).jpeg",
+    "sha256": "6b14011324e1355d0daa3c2cc074dc46771d64f589f33509dd488d1d1b292414",
+    "pixel_sha256": "7abfe89041e49a70497996418d4c04f017d9721fed8f1a32c469b14c928e67dd",
+    "size": [
+      654,
+      468
+    ],
+    "phash": 26246882196014777,
+    "dhash": 3725214191889189514,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/광화문/Gwanghwamun_115671491.jpg",
+    "name_ko": "광화문",
+    "original_path": "external_dataset_root/images/광화문/Gwanghwamun_115671491.jpg",
+    "sha256": "3a3f439ae8010a46a5a35ad8e220c2488647138e6b8618bbbe30307b783e1bef",
+    "pixel_sha256": "456749219e522149c27d45540662ad28e536bc378da86f4f43f8ead3a28f9c7c",
+    "size": [
+      1280,
+      853
+    ],
+    "phash": 2336667404422184035,
+    "dhash": 5771248077411113177,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/광화문/Gwanghwamun_163565479.jpg",
+    "name_ko": "광화문",
+    "original_path": "external_dataset_root/images/광화문/Gwanghwamun_163565479.jpg",
+    "sha256": "12f143976e4b9b1f4c00e7eac99ec4cdf9509cfb007fec8ae3e74d07239c4775",
+    "pixel_sha256": "26e52d05e58b6c883e72ed2f96d11fbb758288a98d7ec353449f7aad48503471",
+    "size": [
+      1280,
+      960
+    ],
+    "phash": 1484370566692850087,
+    "dhash": 17940362396282840647,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/광화문/Gwanghwamun_26973498.jpg",
+    "name_ko": "광화문",
+    "original_path": "external_dataset_root/images/광화문/Gwanghwamun_26973498.jpg",
+    "sha256": "d6c942fd08801b383460ac936fa09309553c2a72485f6a2796a0609d0b4baa18",
+    "pixel_sha256": "aaae4924ff4dbe5a5271e797ba866b4d0597f1a065bc505d433cc92cfcb03420",
+    "size": [
+      1280,
+      960
+    ],
+    "phash": 6982698846381508076,
+    "dhash": 598431288492725892,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/광화문/Gwanghwamun_29915312.jpg",
+    "name_ko": "광화문",
+    "original_path": "external_dataset_root/images/광화문/Gwanghwamun_29915312.jpg",
+    "sha256": "26dbd1fa72a8f3fa33a910f3e75dcfe7f18c899bb76264619b60da4f7fa3aeb3",
+    "pixel_sha256": "3c7a06e7b4ce574c6833a6add94c3f620cb3bc33141e5d2487e2b99bfa059335",
+    "size": [
+      1280,
+      853
+    ],
+    "phash": 7632352967536332408,
+    "dhash": 2311053901058971358,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/광화문/Gwanghwamun_41949544.jpg",
+    "name_ko": "광화문",
+    "original_path": "external_dataset_root/images/광화문/Gwanghwamun_41949544.jpg",
+    "sha256": "bb25f3b6cf8971887aae90e4778020b03166526932750faf375143b9eb66dbd5",
+    "pixel_sha256": "3ec43522d4d202e4d15584b90211acf2cd17903ea2849059b37b52218a80dcb6",
+    "size": [
+      1280,
+      720
+    ],
+    "phash": 7776821081899787912,
+    "dhash": 17794640391569233920,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/광화문/Gwanghwamun_43219335.jpg",
+    "name_ko": "광화문",
+    "original_path": "external_dataset_root/images/광화문/Gwanghwamun_43219335.jpg",
+    "sha256": "818895da0c554df6637f0850200144ac9e85dbbd40be23da7a0367cfd4f7f6e2",
+    "pixel_sha256": "4152052bd33b90174e9fc5ed2d699799e6732c98dbcb01509c4234200b99c4f2",
+    "size": [
+      1280,
+      721
+    ],
+    "phash": 2785152396054491802,
+    "dhash": 3784165833509755452,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/광화문/Gwanghwamun_45011894.jpg",
+    "name_ko": "광화문",
+    "original_path": "external_dataset_root/images/광화문/Gwanghwamun_45011894.jpg",
+    "sha256": "8f3e22012d701abe53a11c5c98f274b01ef291f9579af169158fe5c932dda1c9",
+    "pixel_sha256": "0c9fedf26b047a11a85c3a6750204ce425c77dbac8284a84c71b209ae8803cd3",
+    "size": [
+      1280,
+      717
+    ],
+    "phash": 8397803568171606414,
+    "dhash": 3476435750424155678,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/광화문/Gwanghwamun_53414461.jpg",
+    "name_ko": "광화문",
+    "original_path": "external_dataset_root/images/광화문/Gwanghwamun_53414461.jpg",
+    "sha256": "88b9634397bb88f51013eb2223cc60b88dccdc0f39dfd6f2e0132c5385e98fa7",
+    "pixel_sha256": "2a41ff2d056a2effd53ac1da0254aba54b877a720833e44c17f06fb5e79c6f47",
+    "size": [
+      1280,
+      720
+    ],
+    "phash": 1581858368244674944,
+    "dhash": 5647688458196284658,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/광화문/Gwanghwamun_56310192.jpg",
+    "name_ko": "광화문",
+    "original_path": "external_dataset_root/images/광화문/Gwanghwamun_56310192.jpg",
+    "sha256": "e1d1062d3a2f718f81b2a185a8c9c72c8b5b2a91f3b06e2971254228307b6cef",
+    "pixel_sha256": "792d06ebeb7a8d98d23ebd55f0c9b29ca83e0e2d1f676eebc10ec74d35bedaa5",
+    "size": [
+      1280,
+      852
+    ],
+    "phash": 8694911375924363386,
+    "dhash": 10103037496639760981,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/광화문/Gwanghwamun_62117037.jpg",
+    "name_ko": "광화문",
+    "original_path": "external_dataset_root/images/광화문/Gwanghwamun_62117037.jpg",
+    "sha256": "a0b059fa5a430eaf2d73b9fd33379033147c43ec7e08cdf346eda2fc5c7ef648",
+    "pixel_sha256": "721e53671249f091516a1bcfd0f955841ae04a39c120b71402a7a40fb2753c57",
+    "size": [
+      1280,
+      853
+    ],
+    "phash": 5589977112622124429,
+    "dhash": 13889384951150937895,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/광화문/Gwanghwamun_62896370.jpg",
+    "name_ko": "광화문",
+    "original_path": "external_dataset_root/images/광화문/Gwanghwamun_62896370.jpg",
+    "sha256": "01849355b5b263818e5252a4096d599fcf46b575e67eaa92180fc2ad493e194c",
+    "pixel_sha256": "32423712e4d86f0bc9e0a55a309de38dbac1c2ac61e5144da9dc751f34bdf5c2",
+    "size": [
+      1280,
+      853
+    ],
+    "phash": 1114765866438179011,
+    "dhash": 1598841022750909178,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/광화문/Gwanghwamun_71443289.jpg",
+    "name_ko": "광화문",
+    "original_path": "external_dataset_root/images/광화문/Gwanghwamun_71443289.jpg",
+    "sha256": "bb3687eac587a5c05f4b7f30a2042f9d3a1d44b84c7976f49964dcaf206c4864",
+    "pixel_sha256": "3f5b8dd0ef68d7a92c0e508b3a382a57587ffcf704ff8c6d2df743631791696f",
+    "size": [
+      1280,
+      1335
+    ],
+    "phash": 717812906165017062,
+    "dhash": 3434263496,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/광화문/Gwanghwamun_flickr10099405366.jpg",
+    "name_ko": "광화문",
+    "original_path": "external_dataset_root/images/광화문/Gwanghwamun_flickr10099405366.jpg",
+    "sha256": "7337edcdf82bb57ff16a6cdec8850b28d0b240ef44ab9f7563157cb813432cc3",
+    "pixel_sha256": "6809d3381ee458b6b065416a17730356382d513bd52b23221e2d60beda274f75",
+    "size": [
+      1024,
+      683
+    ],
+    "phash": 7632352967536332408,
+    "dhash": 2311053901058971358,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/광화문/Gwanghwamun_flickr22762054755.jpg",
+    "name_ko": "광화문",
+    "original_path": "external_dataset_root/images/광화문/Gwanghwamun_flickr22762054755.jpg",
+    "sha256": "bec9364e20b5787e140446b3c2a5fd7399fdfa9d69175ba0660488aa84f685ff",
+    "pixel_sha256": "6cd25707060c2630659c06323125d7180fb7cb0bbfa089359552b3b72305a5db",
+    "size": [
+      1024,
+      768
+    ],
+    "phash": 9097446279121005849,
+    "dhash": 7816335004038283120,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/광화문/Gwanghwamun_flickr31667441.jpg",
+    "name_ko": "광화문",
+    "original_path": "external_dataset_root/images/광화문/Gwanghwamun_flickr31667441.jpg",
+    "sha256": "2145d7068ea3bb7f315d37317ba4047687630f7ee11cfffba3f1d9d193c947a9",
+    "pixel_sha256": "318a34a80c2b48e79f1ffd6edde84a35764de0dd68288cae092f981e6065ee71",
+    "size": [
+      1024,
+      768
+    ],
+    "phash": 7037400903845554209,
+    "dhash": 16143038029140189378,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/광화문/Gwanghwamun_flickr36530170735.jpg",
+    "name_ko": "광화문",
+    "original_path": "external_dataset_root/images/광화문/Gwanghwamun_flickr36530170735.jpg",
+    "sha256": "d7229800c2bf7b11c7a394171c56e0b8ffdffc9a22deba11c91c38d3ab100858",
+    "pixel_sha256": "80b46ea02d230bd251f99a5da6b251f166dbbae6da7d0f8b011be4f9cbb1be2a",
+    "size": [
+      1024,
+      768
+    ],
+    "phash": 4592753083402011203,
+    "dhash": 3692613493436691194,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/광화문/Gwanghwamun_flickr40419261054.jpg",
+    "name_ko": "광화문",
+    "original_path": "external_dataset_root/images/광화문/Gwanghwamun_flickr40419261054.jpg",
+    "sha256": "2b3b464b3cb5897c59b5a52464fcc12d90b331bc15fcb22e9f33107d739f4573",
+    "pixel_sha256": "8d59095ff94f391af822a5a8d707d67aa3be99d780d4d9859c3b2b15b7cf03b5",
+    "size": [
+      1024,
+      683
+    ],
+    "phash": 1220123935538450286,
+    "dhash": 10142168194656803898,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/광화문/Gwanghwamun_flickr51845763109.jpg",
+    "name_ko": "광화문",
+    "original_path": "external_dataset_root/images/광화문/Gwanghwamun_flickr51845763109.jpg",
+    "sha256": "5fc473a47009ca5eb9c4084ccc41bf23e505011be90bbe6db27ac4c25f8a3b47",
+    "pixel_sha256": "d5068e18b166fa1cbadf19e29ca52c194ab93eda4552b388cd5cd8be162d4207",
+    "size": [
+      1024,
+      576
+    ],
+    "phash": 7655497612391011777,
+    "dhash": 5562811042664950571,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  },
+  {
+    "image": "images/광화문/Gwanghwamun_flickr5539093088.jpg",
+    "name_ko": "광화문",
+    "original_path": "external_dataset_root/images/광화문/Gwanghwamun_flickr5539093088.jpg",
+    "sha256": "c4b34849b6d5fbf20584fb4c6406b98f98b316cb6be3aef69299b82c2b2ab918",
+    "pixel_sha256": "788e7347961e8f135179ba4c3ee0ced53398c4972a016d8a213f7a896f2af941",
+    "size": [
+      1024,
+      683
+    ],
+    "phash": 3937352012700568009,
+    "dhash": 15531963413388872607,
+    "gt_status": "user_folder_label",
+    "source_status": "not_recorded_by_user"
+  }
+]
