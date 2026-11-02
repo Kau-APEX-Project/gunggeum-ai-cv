@@ -1,0 +1,16 @@
+{
+  "python": "3.12.14",
+  "pillow": "12.3.0",
+  "torch_available": false,
+  "torchvision_available": false,
+  "split_counts": {
+    "train": 2402,
+    "validation": 511,
+    "test": 522
+  },
+  "classes": 60,
+  "decoded_samples": 180,
+  "class_indices_identical_across_splits": true,
+  "status": "pass",
+  "scope": "All manifest paths/groups checked; one image per class per split decoded. No tensor batch, model forward, gradient or GPU test."
+}

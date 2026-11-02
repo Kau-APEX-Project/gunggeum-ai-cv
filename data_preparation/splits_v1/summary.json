@@ -1,0 +1,15 @@
+{
+  "status": "internal_benchmark_v1",
+  "images": 3435,
+  "classes": 60,
+  "groups": 839,
+  "split_counts": {
+    "test": 522,
+    "train": 2402,
+    "validation": 511
+  },
+  "label_review_excluded_images": 3,
+  "known_threshold_pairs_crossing_splits": 0,
+  "nearest_only_pairs_crossing_splits": 0,
+  "limitations": "0 known pair leakage is only for the selected hash thresholds. It does not prove session independence or eliminate missed near duplicates. Review boundaries and large components before use."
+}

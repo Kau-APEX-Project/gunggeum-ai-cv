@@ -1,0 +1,12 @@
+{
+  "reproducible": true,
+  "coverage_complete": true,
+  "group_overlap": 0,
+  "classes_in_all_splits": 60,
+  "min_class_images": {
+    "train": 10,
+    "validation": 2,
+    "test": 2
+  },
+  "scope": "Internal grouping protocol only, not verified independent shooting sessions."
+}
