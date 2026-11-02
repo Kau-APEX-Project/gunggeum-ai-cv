@@ -1,0 +1,7997 @@
+{
+  "checkpoint_sha256": "8eb9a40a380d2b43c4b75ff2b6fd7bcb86cef84825234944d16177c3bd2f4b37",
+  "onnx_sha256": "285414d5a36dfb8ecc259fbfa0ad0a1702ad3a539aadd6f90809be400cd81ce6",
+  "model_bytes": 16327628,
+  "epoch": 16,
+  "versions": {
+    "torch": "2.5.1+cpu",
+    "onnx": "1.23.2",
+    "onnxruntime": "1.31.0"
+  },
+  "allclose_1e4": false,
+  "max_abs_logit_error": 0.0030040740966796875,
+  "top1_agree": 568,
+  "top3_order_agree": 567,
+  "saved_reference_agree": 567,
+  "metrics": {
+    "public": {
+      "n": 511,
+      "correct_top1_top2_top3": [
+        483,
+        501,
+        505
+      ]
+    },
+    "external": {
+      "n": 57,
+      "correct_top1_top2_top3": [
+        44,
+        49,
+        51
+      ]
+    },
+    "mixed": {
+      "n": 568,
+      "correct_top1_top2_top3": [
+        527,
+        550,
+        556
+      ]
+    }
+  },
+  "predictions": [
+    {
+      "source": "public",
+      "file": "01_기원문/01. 건축물/kbui_gb_fhd_01_m_030.jpg",
+      "truth": "기원문",
+      "top3": [
+        "기원문",
+        "인수문",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007343292236328125
+    },
+    {
+      "source": "public",
+      "file": "01_기원문/01. 건축물/kbui_gb_fhd_01_m_031.jpg",
+      "truth": "기원문",
+      "top3": [
+        "기원문",
+        "인수문",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00091552734375
+    },
+    {
+      "source": "public",
+      "file": "01_기원문/01. 건축물/kbui_gb_fhd_01_m_032.jpg",
+      "truth": "기원문",
+      "top3": [
+        "기원문",
+        "인수문",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0006313323974609375
+    },
+    {
+      "source": "public",
+      "file": "01_기원문/01. 건축물/kbui_gb_fhd_01_m_033.jpg",
+      "truth": "기원문",
+      "top3": [
+        "기원문",
+        "인수문",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001117706298828125
+    },
+    {
+      "source": "public",
+      "file": "01_기원문/01. 건축물/kbui_gb_fhd_01_m_034.jpg",
+      "truth": "기원문",
+      "top3": [
+        "기원문",
+        "인수문",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0006809234619140625
+    },
+    {
+      "source": "public",
+      "file": "01_기원문/01. 건축물/kbui_gb_fhd_01_m_035.jpg",
+      "truth": "기원문",
+      "top3": [
+        "기원문",
+        "인수문",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0008916854858398438
+    },
+    {
+      "source": "public",
+      "file": "01_기원문/01. 건축물/kbui_gb_fhd_01_m_036.jpg",
+      "truth": "기원문",
+      "top3": [
+        "기원문",
+        "인수문",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0006470680236816406
+    },
+    {
+      "source": "public",
+      "file": "01_기원문/01. 건축물/kbui_gb_fhd_01_m_037.jpg",
+      "truth": "기원문",
+      "top3": [
+        "기원문",
+        "인수문",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000640869140625
+    },
+    {
+      "source": "public",
+      "file": "01_기원문/01. 건축물/kbui_gb_fhd_01_m_038.jpg",
+      "truth": "기원문",
+      "top3": [
+        "기원문",
+        "인수문",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009746551513671875
+    },
+    {
+      "source": "public",
+      "file": "02_건숙문/01. 건축물/kbui_gb_fhd_02_b.jpg",
+      "truth": "건숙문",
+      "top3": [
+        "건숙문",
+        "일중문",
+        "협생문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001129150390625
+    },
+    {
+      "source": "public",
+      "file": "02_건숙문/01. 건축물/kbui_gb_fhd_02_m_008.jpg",
+      "truth": "건숙문",
+      "top3": [
+        "건숙문",
+        "경안문",
+        "일중문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001300811767578125
+    },
+    {
+      "source": "public",
+      "file": "02_건숙문/01. 건축물/kbui_gb_fhd_02_m_009.jpg",
+      "truth": "건숙문",
+      "top3": [
+        "건숙문",
+        "경안문",
+        "협생문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010833740234375
+    },
+    {
+      "source": "public",
+      "file": "02_건숙문/01. 건축물/kbui_gb_fhd_02_m_010.jpg",
+      "truth": "건숙문",
+      "top3": [
+        "건숙문",
+        "일중문",
+        "협생문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012798309326171875
+    },
+    {
+      "source": "public",
+      "file": "02_건숙문/01. 건축물/kbui_gb_fhd_02_m_011.jpg",
+      "truth": "건숙문",
+      "top3": [
+        "건숙문",
+        "일중문",
+        "협생문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009822845458984375
+    },
+    {
+      "source": "public",
+      "file": "02_건숙문/01. 건축물/kbui_gb_fhd_02_m_012.jpg",
+      "truth": "건숙문",
+      "top3": [
+        "건숙문",
+        "일중문",
+        "복수당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001117706298828125
+    },
+    {
+      "source": "public",
+      "file": "02_건숙문/01. 건축물/kbui_gb_fhd_02_m_013.jpg",
+      "truth": "건숙문",
+      "top3": [
+        "건숙문",
+        "일중문",
+        "협생문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001667022705078125
+    },
+    {
+      "source": "public",
+      "file": "03_경안문/01. 건축물/kbui_gb_fhd_03_m_007.jpg",
+      "truth": "경안문",
+      "top3": [
+        "경안문",
+        "인수문",
+        "중광문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0018444061279296875
+    },
+    {
+      "source": "public",
+      "file": "03_경안문/01. 건축물/kbui_gb_fhd_03_m_008.jpg",
+      "truth": "경안문",
+      "top3": [
+        "경안문",
+        "태원전",
+        "인수문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0013580322265625
+    },
+    {
+      "source": "public",
+      "file": "03_경안문/01. 건축물/kbui_gb_fhd_03_m_023.jpg",
+      "truth": "경안문",
+      "top3": [
+        "경안문",
+        "양의문",
+        "건숙문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001239776611328125
+    },
+    {
+      "source": "public",
+      "file": "03_경안문/01. 건축물/kbui_gb_fhd_03_m_024.jpg",
+      "truth": "경안문",
+      "top3": [
+        "경안문",
+        "양의문",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000823974609375
+    },
+    {
+      "source": "public",
+      "file": "03_경안문/01. 건축물/kbui_gb_fhd_03_m_025.jpg",
+      "truth": "경안문",
+      "top3": [
+        "경안문",
+        "만춘전",
+        "기원문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0008754730224609375
+    },
+    {
+      "source": "public",
+      "file": "04_인수문/01. 건축물/kbui_gb_fhd_04_m_001.jpg",
+      "truth": "인수문",
+      "top3": [
+        "인수문",
+        "기별청",
+        "중광문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000762939453125
+    },
+    {
+      "source": "public",
+      "file": "04_인수문/01. 건축물/kbui_gb_fhd_04_m_003.jpg",
+      "truth": "인수문",
+      "top3": [
+        "인수문",
+        "기별청",
+        "중광문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0004749298095703125
+    },
+    {
+      "source": "public",
+      "file": "04_인수문/01. 건축물/kbui_gb_fhd_04_m_012.jpg",
+      "truth": "인수문",
+      "top3": [
+        "인수문",
+        "중광문",
+        "기별청"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00045037269592285156
+    },
+    {
+      "source": "public",
+      "file": "04_인수문/01. 건축물/kbui_gb_fhd_04_m_013.jpg",
+      "truth": "인수문",
+      "top3": [
+        "인수문",
+        "중광문",
+        "기별청"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000576019287109375
+    },
+    {
+      "source": "public",
+      "file": "04_인수문/01. 건축물/kbui_gb_fhd_04_m_014.jpg",
+      "truth": "인수문",
+      "top3": [
+        "인수문",
+        "중광문",
+        "기별청"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000675201416015625
+    },
+    {
+      "source": "public",
+      "file": "04_인수문/01. 건축물/kbui_gb_fhd_04_m_015.jpg",
+      "truth": "인수문",
+      "top3": [
+        "인수문",
+        "중광문",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007476806640625
+    },
+    {
+      "source": "public",
+      "file": "05_공묵재/01. 건축물/kbui_gb_fhd_05_l.jpg",
+      "truth": "공묵재",
+      "top3": [
+        "영사재",
+        "태원전",
+        "집경당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0018596649169921875
+    },
+    {
+      "source": "public",
+      "file": "05_공묵재/01. 건축물/kbui_gb_fhd_05_m_004.jpg",
+      "truth": "공묵재",
+      "top3": [
+        "공묵재",
+        "함화당",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0011768341064453125
+    },
+    {
+      "source": "public",
+      "file": "05_공묵재/01. 건축물/kbui_gb_fhd_05_m_005.jpg",
+      "truth": "공묵재",
+      "top3": [
+        "공묵재",
+        "함화당",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0011882781982421875
+    },
+    {
+      "source": "public",
+      "file": "05_공묵재/01. 건축물/kbui_gb_fhd_05_m_006.jpg",
+      "truth": "공묵재",
+      "top3": [
+        "공묵재",
+        "함화당",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001590728759765625
+    },
+    {
+      "source": "public",
+      "file": "05_공묵재/01. 건축물/kbui_gb_fhd_05_m_011.jpg",
+      "truth": "공묵재",
+      "top3": [
+        "공묵재",
+        "함화당",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001338958740234375
+    },
+    {
+      "source": "public",
+      "file": "05_공묵재/01. 건축물/kbui_gb_fhd_05_m_012.jpg",
+      "truth": "공묵재",
+      "top3": [
+        "공묵재",
+        "함화당",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0013065338134765625
+    },
+    {
+      "source": "public",
+      "file": "05_공묵재/01. 건축물/kbui_gb_fhd_05_m_013.jpg",
+      "truth": "공묵재",
+      "top3": [
+        "공묵재",
+        "함화당",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0014362335205078125
+    },
+    {
+      "source": "public",
+      "file": "06_숙문당/01. 건축물/kbui_gb_fhd_06_b.jpg",
+      "truth": "숙문당",
+      "top3": [
+        "숙문당",
+        "기별청",
+        "일중문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009746551513671875
+    },
+    {
+      "source": "public",
+      "file": "06_숙문당/01. 건축물/kbui_gb_fhd_06_l.jpg",
+      "truth": "숙문당",
+      "top3": [
+        "숙문당",
+        "기별청",
+        "일중문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000949859619140625
+    },
+    {
+      "source": "public",
+      "file": "06_숙문당/01. 건축물/kbui_gb_fhd_06_m_003.jpg",
+      "truth": "숙문당",
+      "top3": [
+        "숙문당",
+        "기별청",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0008392333984375
+    },
+    {
+      "source": "public",
+      "file": "06_숙문당/01. 건축물/kbui_gb_fhd_06_m_004.jpg",
+      "truth": "숙문당",
+      "top3": [
+        "숙문당",
+        "공묵재",
+        "기별청"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0006866455078125
+    },
+    {
+      "source": "public",
+      "file": "06_숙문당/01. 건축물/kbui_gb_fhd_06_m_006.jpg",
+      "truth": "숙문당",
+      "top3": [
+        "숙문당",
+        "영사재",
+        "공묵재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00075531005859375
+    },
+    {
+      "source": "public",
+      "file": "06_숙문당/01. 건축물/kbui_gb_fhd_06_m_007.jpg",
+      "truth": "숙문당",
+      "top3": [
+        "숙문당",
+        "영사재",
+        "공묵재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007476806640625
+    },
+    {
+      "source": "public",
+      "file": "07_태원전/01. 건축물/kbui_gb_fhd_07_l.jpg",
+      "truth": "태원전",
+      "top3": [
+        "태원전",
+        "수정전",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0008602142333984375
+    },
+    {
+      "source": "public",
+      "file": "07_태원전/01. 건축물/kbui_gb_fhd_07_m_031.jpg",
+      "truth": "태원전",
+      "top3": [
+        "태원전",
+        "만춘전",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00122833251953125
+    },
+    {
+      "source": "public",
+      "file": "07_태원전/01. 건축물/kbui_gb_fhd_07_m_035.jpg",
+      "truth": "태원전",
+      "top3": [
+        "태원전",
+        "수정전",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0005779266357421875
+    },
+    {
+      "source": "public",
+      "file": "07_태원전/01. 건축물/kbui_gb_fhd_07_m_073.jpg",
+      "truth": "태원전",
+      "top3": [
+        "태원전",
+        "경안문",
+        "건숙문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001308441162109375
+    },
+    {
+      "source": "public",
+      "file": "07_태원전/01. 건축물/kbui_gb_fhd_07_m_074.jpg",
+      "truth": "태원전",
+      "top3": [
+        "태원전",
+        "경안문",
+        "집경당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0011081695556640625
+    },
+    {
+      "source": "public",
+      "file": "07_태원전/01. 건축물/kbui_gb_fhd_07_m_075.jpg",
+      "truth": "태원전",
+      "top3": [
+        "태원전",
+        "경안문",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0011119842529296875
+    },
+    {
+      "source": "public",
+      "file": "07_태원전/01. 건축물/kbui_gb_fhd_07_m_081.jpg",
+      "truth": "태원전",
+      "top3": [
+        "집경당",
+        "함화당",
+        "태원전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0008258819580078125
+    },
+    {
+      "source": "public",
+      "file": "07_태원전/01. 건축물/kbui_gb_fhd_07_m_082.jpg",
+      "truth": "태원전",
+      "top3": [
+        "태원전",
+        "집경당",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0014629364013671875
+    },
+    {
+      "source": "public",
+      "file": "07_태원전/01. 건축물/kbui_gb_fhd_07_m_083.jpg",
+      "truth": "태원전",
+      "top3": [
+        "함원전",
+        "응지당",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0020923614501953125
+    },
+    {
+      "source": "public",
+      "file": "07_태원전/01. 건축물/kbui_gb_fhd_07_m_084.jpg",
+      "truth": "태원전",
+      "top3": [
+        "영사재",
+        "응지당",
+        "교태전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.002483367919921875
+    },
+    {
+      "source": "public",
+      "file": "07_태원전/01. 건축물/kbui_gb_fhd_07_m_092.jpg",
+      "truth": "태원전",
+      "top3": [
+        "태원전",
+        "함화당",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010623931884765625
+    },
+    {
+      "source": "public",
+      "file": "07_태원전/01. 건축물/kbui_gb_fhd_07_m_093.jpg",
+      "truth": "태원전",
+      "top3": [
+        "태원전",
+        "함화당",
+        "공묵재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012798309326171875
+    },
+    {
+      "source": "public",
+      "file": "07_태원전/01. 건축물/kbui_gb_fhd_07_m_094.jpg",
+      "truth": "태원전",
+      "top3": [
+        "영사재",
+        "공묵재",
+        "숙문당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0014095306396484375
+    },
+    {
+      "source": "public",
+      "file": "07_태원전/01. 건축물/kbui_gb_fhd_07_m_095.jpg",
+      "truth": "태원전",
+      "top3": [
+        "영사재",
+        "공묵재",
+        "태원전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009250640869140625
+    },
+    {
+      "source": "public",
+      "file": "07_태원전/01. 건축물/kbui_gb_fhd_07_m_096.jpg",
+      "truth": "태원전",
+      "top3": [
+        "영사재",
+        "태원전",
+        "공묵재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00151824951171875
+    },
+    {
+      "source": "public",
+      "file": "08_건길문/01. 건축물/kbui_gb_fhd_08_b.jpg",
+      "truth": "건길문",
+      "top3": [
+        "건길문",
+        "기별청",
+        "함홍각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00091552734375
+    },
+    {
+      "source": "public",
+      "file": "08_건길문/01. 건축물/kbui_gb_fhd_08_m_004.jpg",
+      "truth": "건길문",
+      "top3": [
+        "건길문",
+        "보강문",
+        "기별청"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000621795654296875
+    },
+    {
+      "source": "public",
+      "file": "08_건길문/01. 건축물/kbui_gb_fhd_08_m_005.jpg",
+      "truth": "건길문",
+      "top3": [
+        "건길문",
+        "기별청",
+        "보강문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00079345703125
+    },
+    {
+      "source": "public",
+      "file": "08_건길문/01. 건축물/kbui_gb_fhd_08_m_024.jpg",
+      "truth": "건길문",
+      "top3": [
+        "건길문",
+        "인수문",
+        "기별청"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009479522705078125
+    },
+    {
+      "source": "public",
+      "file": "08_건길문/01. 건축물/kbui_gb_fhd_08_m_025.jpg",
+      "truth": "건길문",
+      "top3": [
+        "건길문",
+        "인수문",
+        "보강문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000827789306640625
+    },
+    {
+      "source": "public",
+      "file": "08_건길문/01. 건축물/kbui_gb_fhd_08_m_026.jpg",
+      "truth": "건길문",
+      "top3": [
+        "건길문",
+        "보강문",
+        "기별청"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00099945068359375
+    },
+    {
+      "source": "public",
+      "file": "08_건길문/01. 건축물/kbui_gb_fhd_08_m_030.jpg",
+      "truth": "건길문",
+      "top3": [
+        "건길문",
+        "보강문",
+        "인수문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012340545654296875
+    },
+    {
+      "source": "public",
+      "file": "09_영사재/01. 건축물/kbui_gb_fhd_09_m_007.jpg",
+      "truth": "영사재",
+      "top3": [
+        "영사재",
+        "공묵재",
+        "기별청"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00064849853515625
+    },
+    {
+      "source": "public",
+      "file": "09_영사재/01. 건축물/kbui_gb_fhd_09_m_008.jpg",
+      "truth": "영사재",
+      "top3": [
+        "영사재",
+        "공묵재",
+        "인수문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00086212158203125
+    },
+    {
+      "source": "public",
+      "file": "09_영사재/01. 건축물/kbui_gb_fhd_09_m_009.jpg",
+      "truth": "영사재",
+      "top3": [
+        "영사재",
+        "기별청",
+        "인수문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007610321044921875
+    },
+    {
+      "source": "public",
+      "file": "09_영사재/01. 건축물/kbui_gb_fhd_09_m_014.jpg",
+      "truth": "영사재",
+      "top3": [
+        "영사재",
+        "공묵재",
+        "기별청"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012302398681640625
+    },
+    {
+      "source": "public",
+      "file": "09_영사재/01. 건축물/kbui_gb_fhd_09_m_015.jpg",
+      "truth": "영사재",
+      "top3": [
+        "영사재",
+        "기별청",
+        "공묵재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012664794921875
+    },
+    {
+      "source": "public",
+      "file": "09_영사재/01. 건축물/kbui_gb_fhd_09_m_016.jpg",
+      "truth": "영사재",
+      "top3": [
+        "영사재",
+        "기별청",
+        "태원전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010471343994140625
+    },
+    {
+      "source": "public",
+      "file": "10_보강문/01. 건축물/kbui_gb_fhd_10_m_003.jpg",
+      "truth": "보강문",
+      "top3": [
+        "보강문",
+        "홍경문",
+        "인유문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00063323974609375
+    },
+    {
+      "source": "public",
+      "file": "10_보강문/01. 건축물/kbui_gb_fhd_10_m_005.jpg",
+      "truth": "보강문",
+      "top3": [
+        "보강문",
+        "인유문",
+        "홍경문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00162506103515625
+    },
+    {
+      "source": "public",
+      "file": "10_보강문/01. 건축물/kbui_gb_fhd_10_m_006.jpg",
+      "truth": "보강문",
+      "top3": [
+        "보강문",
+        "홍경문",
+        "건길문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001068115234375
+    },
+    {
+      "source": "public",
+      "file": "10_보강문/01. 건축물/kbui_gb_fhd_10_m_021.jpg",
+      "truth": "보강문",
+      "top3": [
+        "홍경문",
+        "보강문",
+        "일중문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0008373260498046875
+    },
+    {
+      "source": "public",
+      "file": "10_보강문/01. 건축물/kbui_gb_fhd_10_m_022.jpg",
+      "truth": "보강문",
+      "top3": [
+        "홍경문",
+        "보강문",
+        "일중문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0013942718505859375
+    },
+    {
+      "source": "public",
+      "file": "10_보강문/01. 건축물/kbui_gb_fhd_10_m_023.jpg",
+      "truth": "보강문",
+      "top3": [
+        "홍경문",
+        "보강문",
+        "일중문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007572174072265625
+    },
+    {
+      "source": "public",
+      "file": "10_보강문/01. 건축물/kbui_gb_fhd_10_m_026.jpg",
+      "truth": "보강문",
+      "top3": [
+        "보강문",
+        "홍경문",
+        "일중문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009555816650390625
+    },
+    {
+      "source": "public",
+      "file": "11_홍경문/01. 건축물/kbui_gb_fhd_11_m_004.jpg",
+      "truth": "홍경문",
+      "top3": [
+        "홍경문",
+        "보강문",
+        "인유문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001094818115234375
+    },
+    {
+      "source": "public",
+      "file": "11_홍경문/01. 건축물/kbui_gb_fhd_11_m_005.jpg",
+      "truth": "홍경문",
+      "top3": [
+        "홍경문",
+        "보강문",
+        "일중문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0005702972412109375
+    },
+    {
+      "source": "public",
+      "file": "11_홍경문/01. 건축물/kbui_gb_fhd_11_m_029.jpg",
+      "truth": "홍경문",
+      "top3": [
+        "홍경문",
+        "보강문",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010929107666015625
+    },
+    {
+      "source": "public",
+      "file": "11_홍경문/01. 건축물/kbui_gb_fhd_11_m_031.jpg",
+      "truth": "홍경문",
+      "top3": [
+        "홍경문",
+        "보강문",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00133514404296875
+    },
+    {
+      "source": "public",
+      "file": "11_홍경문/01. 건축물/kbui_gb_fhd_11_m_032.jpg",
+      "truth": "홍경문",
+      "top3": [
+        "홍경문",
+        "보강문",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000881195068359375
+    },
+    {
+      "source": "public",
+      "file": "11_홍경문/01. 건축물/kbui_gb_fhd_11_m_033.jpg",
+      "truth": "홍경문",
+      "top3": [
+        "홍경문",
+        "보강문",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00104522705078125
+    },
+    {
+      "source": "public",
+      "file": "11_홍경문/01. 건축물/kbui_gb_fhd_11_m_034.jpg",
+      "truth": "홍경문",
+      "top3": [
+        "홍경문",
+        "보강문",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0016841888427734375
+    },
+    {
+      "source": "public",
+      "file": "11_홍경문/01. 건축물/kbui_gb_fhd_11_m_035.jpg",
+      "truth": "홍경문",
+      "top3": [
+        "홍경문",
+        "보강문",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012874603271484375
+    },
+    {
+      "source": "public",
+      "file": "11_홍경문/01. 건축물/kbui_gb_fhd_11_m_060.jpg",
+      "truth": "홍경문",
+      "top3": [
+        "홍경문",
+        "보강문",
+        "일중문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00064849853515625
+    },
+    {
+      "source": "public",
+      "file": "12_일중문/01. 건축물/kbui_gb_fhd_12_m_001.jpg",
+      "truth": "일중문",
+      "top3": [
+        "일중문",
+        "홍경문",
+        "보강문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00079345703125
+    },
+    {
+      "source": "public",
+      "file": "12_일중문/01. 건축물/kbui_gb_fhd_12_m_002.jpg",
+      "truth": "일중문",
+      "top3": [
+        "일중문",
+        "홍경문",
+        "보강문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0006809234619140625
+    },
+    {
+      "source": "public",
+      "file": "12_일중문/01. 건축물/kbui_gb_fhd_12_m_003.jpg",
+      "truth": "일중문",
+      "top3": [
+        "일중문",
+        "홍경문",
+        "보강문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007877349853515625
+    },
+    {
+      "source": "public",
+      "file": "12_일중문/01. 건축물/kbui_gb_fhd_12_m_004.jpg",
+      "truth": "일중문",
+      "top3": [
+        "일중문",
+        "홍경문",
+        "인유문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007171630859375
+    },
+    {
+      "source": "public",
+      "file": "12_일중문/01. 건축물/kbui_gb_fhd_12_m_005.jpg",
+      "truth": "일중문",
+      "top3": [
+        "일중문",
+        "홍경문",
+        "보강문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00091552734375
+    },
+    {
+      "source": "public",
+      "file": "12_일중문/01. 건축물/kbui_gb_fhd_12_m_006.jpg",
+      "truth": "일중문",
+      "top3": [
+        "일중문",
+        "홍경문",
+        "보강문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00099945068359375
+    },
+    {
+      "source": "public",
+      "file": "12_일중문/01. 건축물/kbui_gb_fhd_12_m_007.jpg",
+      "truth": "일중문",
+      "top3": [
+        "일중문",
+        "홍경문",
+        "협생문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001239776611328125
+    },
+    {
+      "source": "public",
+      "file": "12_일중문/01. 건축물/kbui_gb_fhd_12_m_008.jpg",
+      "truth": "일중문",
+      "top3": [
+        "일중문",
+        "홍경문",
+        "협생문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001087188720703125
+    },
+    {
+      "source": "public",
+      "file": "12_일중문/01. 건축물/kbui_gb_fhd_12_m_038.jpg",
+      "truth": "일중문",
+      "top3": [
+        "일중문",
+        "홍경문",
+        "협생문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000743865966796875
+    },
+    {
+      "source": "public",
+      "file": "12_일중문/01. 건축물/kbui_gb_fhd_12_m_041.jpg",
+      "truth": "일중문",
+      "top3": [
+        "일중문",
+        "홍경문",
+        "보강문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000965118408203125
+    },
+    {
+      "source": "public",
+      "file": "13_필성문/01. 건축물/kbui_gb_fhd_13_m_004.jpg",
+      "truth": "필성문",
+      "top3": [
+        "필성문",
+        "인유문",
+        "일중문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007839202880859375
+    },
+    {
+      "source": "public",
+      "file": "13_필성문/01. 건축물/kbui_gb_fhd_13_m_005.jpg",
+      "truth": "필성문",
+      "top3": [
+        "필성문",
+        "인유문",
+        "일중문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00096893310546875
+    },
+    {
+      "source": "public",
+      "file": "13_필성문/01. 건축물/kbui_gb_fhd_13_m_014.jpg",
+      "truth": "필성문",
+      "top3": [
+        "필성문",
+        "인유문",
+        "홍경문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0005826950073242188
+    },
+    {
+      "source": "public",
+      "file": "13_필성문/01. 건축물/kbui_gb_fhd_13_m_015.jpg",
+      "truth": "필성문",
+      "top3": [
+        "필성문",
+        "인유문",
+        "홍경문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000823974609375
+    },
+    {
+      "source": "public",
+      "file": "13_필성문/01. 건축물/kbui_gb_fhd_13_m_016.jpg",
+      "truth": "필성문",
+      "top3": [
+        "필성문",
+        "인유문",
+        "일중문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000736236572265625
+    },
+    {
+      "source": "public",
+      "file": "13_필성문/01. 건축물/kbui_gb_fhd_13_m_017.jpg",
+      "truth": "필성문",
+      "top3": [
+        "필성문",
+        "인유문",
+        "일중문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007801055908203125
+    },
+    {
+      "source": "public",
+      "file": "13_필성문/01. 건축물/kbui_gb_fhd_13_m_018.jpg",
+      "truth": "필성문",
+      "top3": [
+        "필성문",
+        "인유문",
+        "일중문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0006666183471679688
+    },
+    {
+      "source": "public",
+      "file": "14_장안당/01. 건축물/kbui_gb_fhd_14_b.jpg",
+      "truth": "장안당",
+      "top3": [
+        "향원정",
+        "경회루",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001300811767578125
+    },
+    {
+      "source": "public",
+      "file": "14_장안당/01. 건축물/kbui_gb_fhd_14_f.jpg",
+      "truth": "장안당",
+      "top3": [
+        "장안당",
+        "곤녕합",
+        "흥복전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0015048980712890625
+    },
+    {
+      "source": "public",
+      "file": "14_장안당/01. 건축물/kbui_gb_fhd_14_m_032.jpg",
+      "truth": "장안당",
+      "top3": [
+        "장안당",
+        "흥복전",
+        "곤녕합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007915496826171875
+    },
+    {
+      "source": "public",
+      "file": "14_장안당/01. 건축물/kbui_gb_fhd_14_m_033.jpg",
+      "truth": "장안당",
+      "top3": [
+        "장안당",
+        "곤녕합",
+        "흥복전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0008106231689453125
+    },
+    {
+      "source": "public",
+      "file": "14_장안당/01. 건축물/kbui_gb_fhd_14_m_034.jpg",
+      "truth": "장안당",
+      "top3": [
+        "장안당",
+        "흥복전",
+        "곤녕합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000579833984375
+    },
+    {
+      "source": "public",
+      "file": "14_장안당/01. 건축물/kbui_gb_fhd_14_m_035.jpg",
+      "truth": "장안당",
+      "top3": [
+        "장안당",
+        "흥복전",
+        "곤녕합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007266998291015625
+    },
+    {
+      "source": "public",
+      "file": "14_장안당/01. 건축물/kbui_gb_fhd_14_m_036.jpg",
+      "truth": "장안당",
+      "top3": [
+        "장안당",
+        "흥복전",
+        "곤녕합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000789642333984375
+    },
+    {
+      "source": "public",
+      "file": "14_장안당/01. 건축물/kbui_gb_fhd_14_m_044.jpg",
+      "truth": "장안당",
+      "top3": [
+        "장안당",
+        "흥복전",
+        "곤녕합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0006952285766601562
+    },
+    {
+      "source": "public",
+      "file": "14_장안당/01. 건축물/kbui_gb_fhd_14_m_045.jpg",
+      "truth": "장안당",
+      "top3": [
+        "장안당",
+        "흥복전",
+        "곤녕합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0004863739013671875
+    },
+    {
+      "source": "public",
+      "file": "14_장안당/01. 건축물/kbui_gb_fhd_14_m_046.jpg",
+      "truth": "장안당",
+      "top3": [
+        "장안당",
+        "흥복전",
+        "곤녕합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00054168701171875
+    },
+    {
+      "source": "public",
+      "file": "14_장안당/01. 건축물/kbui_gb_fhd_14_r.jpg",
+      "truth": "장안당",
+      "top3": [
+        "곤녕합",
+        "장안당",
+        "정시합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0013561248779296875
+    },
+    {
+      "source": "public",
+      "file": "15_초양문/01. 건축물/kbui_gb_fhd_15_m_001.jpg",
+      "truth": "초양문",
+      "top3": [
+        "초양문",
+        "녹금당",
+        "인유문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0006933212280273438
+    },
+    {
+      "source": "public",
+      "file": "15_초양문/01. 건축물/kbui_gb_fhd_15_m_002.jpg",
+      "truth": "초양문",
+      "top3": [
+        "초양문",
+        "인유문",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007295608520507812
+    },
+    {
+      "source": "public",
+      "file": "15_초양문/01. 건축물/kbui_gb_fhd_15_m_003.jpg",
+      "truth": "초양문",
+      "top3": [
+        "초양문",
+        "인유문",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0008525848388671875
+    },
+    {
+      "source": "public",
+      "file": "15_초양문/01. 건축물/kbui_gb_fhd_15_m_005.jpg",
+      "truth": "초양문",
+      "top3": [
+        "초양문",
+        "인유문",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009174346923828125
+    },
+    {
+      "source": "public",
+      "file": "15_초양문/01. 건축물/kbui_gb_fhd_15_m_006.jpg",
+      "truth": "초양문",
+      "top3": [
+        "초양문",
+        "인유문",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0008897781372070312
+    },
+    {
+      "source": "public",
+      "file": "15_초양문/01. 건축물/kbui_gb_fhd_15_m_032.jpg",
+      "truth": "초양문",
+      "top3": [
+        "초양문",
+        "인유문",
+        "건청궁"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009059906005859375
+    },
+    {
+      "source": "public",
+      "file": "15_초양문/01. 건축물/kbui_gb_fhd_15_m_033.jpg",
+      "truth": "초양문",
+      "top3": [
+        "초양문",
+        "인유문",
+        "건청궁"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010118484497070312
+    },
+    {
+      "source": "public",
+      "file": "16_건청궁/01. 건축물/kbui_gb_fhd_16_m_027.jpg",
+      "truth": "건청궁",
+      "top3": [
+        "건청궁",
+        "초양문",
+        "인유문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010762214660644531
+    },
+    {
+      "source": "public",
+      "file": "16_건청궁/01. 건축물/kbui_gb_fhd_16_m_028.jpg",
+      "truth": "건청궁",
+      "top3": [
+        "건청궁",
+        "초양문",
+        "정시합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0008831024169921875
+    },
+    {
+      "source": "public",
+      "file": "16_건청궁/01. 건축물/kbui_gb_fhd_16_m_029.jpg",
+      "truth": "건청궁",
+      "top3": [
+        "건청궁",
+        "초양문",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009965896606445312
+    },
+    {
+      "source": "public",
+      "file": "16_건청궁/01. 건축물/kbui_gb_fhd_16_m_030.jpg",
+      "truth": "건청궁",
+      "top3": [
+        "건청궁",
+        "초양문",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0011930465698242188
+    },
+    {
+      "source": "public",
+      "file": "16_건청궁/01. 건축물/kbui_gb_fhd_16_m_031.jpg",
+      "truth": "건청궁",
+      "top3": [
+        "건청궁",
+        "초양문",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001239776611328125
+    },
+    {
+      "source": "public",
+      "file": "16_건청궁/01. 건축물/kbui_gb_fhd_16_m_032.jpg",
+      "truth": "건청궁",
+      "top3": [
+        "건청궁",
+        "초양문",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010089874267578125
+    },
+    {
+      "source": "public",
+      "file": "16_건청궁/01. 건축물/kbui_gb_fhd_16_m_034.jpg",
+      "truth": "건청궁",
+      "top3": [
+        "건청궁",
+        "초양문",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0014801025390625
+    },
+    {
+      "source": "public",
+      "file": "16_건청궁/01. 건축물/kbui_gb_fhd_16_m_053.jpg",
+      "truth": "건청궁",
+      "top3": [
+        "건청궁",
+        "초양문",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009708404541015625
+    },
+    {
+      "source": "public",
+      "file": "16_건청궁/01. 건축물/kbui_gb_fhd_16_m_054.jpg",
+      "truth": "건청궁",
+      "top3": [
+        "건청궁",
+        "복수당",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": false,
+      "same_saved_reference": false,
+      "max_abs_logit_error": 0.00144195556640625
+    },
+    {
+      "source": "public",
+      "file": "17_인유문/01. 건축물/kbui_gb_fhd_17_m_002.jpg",
+      "truth": "인유문",
+      "top3": [
+        "인유문",
+        "초양문",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009393692016601562
+    },
+    {
+      "source": "public",
+      "file": "17_인유문/01. 건축물/kbui_gb_fhd_17_m_003.jpg",
+      "truth": "인유문",
+      "top3": [
+        "인유문",
+        "초양문",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00116729736328125
+    },
+    {
+      "source": "public",
+      "file": "18_정시합/01. 건축물/kbui_gb_fhd_18_m_016.jpg",
+      "truth": "정시합",
+      "top3": [
+        "정시합",
+        "곤녕합",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010051727294921875
+    },
+    {
+      "source": "public",
+      "file": "18_정시합/01. 건축물/kbui_gb_fhd_18_m_017.jpg",
+      "truth": "정시합",
+      "top3": [
+        "정시합",
+        "곤녕합",
+        "복수당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010309219360351562
+    },
+    {
+      "source": "public",
+      "file": "18_정시합/01. 건축물/kbui_gb_fhd_18_m_019.jpg",
+      "truth": "정시합",
+      "top3": [
+        "정시합",
+        "곤녕합",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0011920928955078125
+    },
+    {
+      "source": "public",
+      "file": "18_정시합/01. 건축물/kbui_gb_fhd_18_m_030.jpg",
+      "truth": "정시합",
+      "top3": [
+        "정시합",
+        "곤녕합",
+        "복수당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00086212158203125
+    },
+    {
+      "source": "public",
+      "file": "18_정시합/01. 건축물/kbui_gb_fhd_18_m_031.jpg",
+      "truth": "정시합",
+      "top3": [
+        "정시합",
+        "곤녕합",
+        "장안당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009183883666992188
+    },
+    {
+      "source": "public",
+      "file": "18_정시합/01. 건축물/kbui_gb_fhd_18_m_032.jpg",
+      "truth": "정시합",
+      "top3": [
+        "정시합",
+        "곤녕합",
+        "장안당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007305145263671875
+    },
+    {
+      "source": "public",
+      "file": "18_정시합/01. 건축물/kbui_gb_fhd_18_m_040.jpg",
+      "truth": "정시합",
+      "top3": [
+        "정시합",
+        "곤녕합",
+        "복수당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00170135498046875
+    },
+    {
+      "source": "public",
+      "file": "18_정시합/01. 건축물/kbui_gb_fhd_18_m_041.jpg",
+      "truth": "정시합",
+      "top3": [
+        "정시합",
+        "곤녕합",
+        "복수당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0015048980712890625
+    },
+    {
+      "source": "public",
+      "file": "19_복수당/01. 건축물/kbui_gb_fhd_19_m_004.jpg",
+      "truth": "복수당",
+      "top3": [
+        "복수당",
+        "녹금당",
+        "정시합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009393692016601562
+    },
+    {
+      "source": "public",
+      "file": "19_복수당/01. 건축물/kbui_gb_fhd_19_m_005.jpg",
+      "truth": "복수당",
+      "top3": [
+        "복수당",
+        "녹금당",
+        "정시합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012645721435546875
+    },
+    {
+      "source": "public",
+      "file": "19_복수당/01. 건축물/kbui_gb_fhd_19_m_035.jpg",
+      "truth": "복수당",
+      "top3": [
+        "복수당",
+        "인유문",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000881195068359375
+    },
+    {
+      "source": "public",
+      "file": "19_복수당/01. 건축물/kbui_gb_fhd_19_m_036.jpg",
+      "truth": "복수당",
+      "top3": [
+        "복수당",
+        "녹금당",
+        "초양문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001102447509765625
+    },
+    {
+      "source": "public",
+      "file": "19_복수당/01. 건축물/kbui_gb_fhd_19_m_037.jpg",
+      "truth": "복수당",
+      "top3": [
+        "복수당",
+        "녹금당",
+        "초양문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0013818740844726562
+    },
+    {
+      "source": "public",
+      "file": "19_복수당/01. 건축물/kbui_gb_fhd_19_m_038.jpg",
+      "truth": "복수당",
+      "top3": [
+        "복수당",
+        "녹금당",
+        "초양문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0008144378662109375
+    },
+    {
+      "source": "public",
+      "file": "19_복수당/01. 건축물/kbui_gb_fhd_19_m_039.jpg",
+      "truth": "복수당",
+      "top3": [
+        "복수당",
+        "녹금당",
+        "인유문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001678466796875
+    },
+    {
+      "source": "public",
+      "file": "19_복수당/01. 건축물/kbui_gb_fhd_19_m_052.jpg",
+      "truth": "복수당",
+      "top3": [
+        "복수당",
+        "곤녕합",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012645721435546875
+    },
+    {
+      "source": "public",
+      "file": "19_복수당/01. 건축물/kbui_gb_fhd_19_m_055.jpg",
+      "truth": "복수당",
+      "top3": [
+        "복수당",
+        "곤녕합",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0008754730224609375
+    },
+    {
+      "source": "public",
+      "file": "19_복수당/01. 건축물/kbui_gb_fhd_19_m_056.jpg",
+      "truth": "복수당",
+      "top3": [
+        "복수당",
+        "곤녕합",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012531280517578125
+    },
+    {
+      "source": "public",
+      "file": "19_복수당/01. 건축물/kbui_gb_fhd_19_m_057.jpg",
+      "truth": "복수당",
+      "top3": [
+        "복수당",
+        "곤녕합",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010395050048828125
+    },
+    {
+      "source": "public",
+      "file": "20_녹금당/01. 건축물/kbui_gb_fhd_20_l.jpg",
+      "truth": "녹금당",
+      "top3": [
+        "녹금당",
+        "정시합",
+        "곤녕합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00093841552734375
+    },
+    {
+      "source": "public",
+      "file": "20_녹금당/01. 건축물/kbui_gb_fhd_20_m_007.jpg",
+      "truth": "녹금당",
+      "top3": [
+        "녹금당",
+        "복수당",
+        "곤녕합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00116729736328125
+    },
+    {
+      "source": "public",
+      "file": "20_녹금당/01. 건축물/kbui_gb_fhd_20_m_008.jpg",
+      "truth": "녹금당",
+      "top3": [
+        "녹금당",
+        "복수당",
+        "곤녕합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007882118225097656
+    },
+    {
+      "source": "public",
+      "file": "20_녹금당/01. 건축물/kbui_gb_fhd_20_m_009.jpg",
+      "truth": "녹금당",
+      "top3": [
+        "녹금당",
+        "곤녕합",
+        "복수당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0011925697326660156
+    },
+    {
+      "source": "public",
+      "file": "20_녹금당/01. 건축물/kbui_gb_fhd_20_m_038.jpg",
+      "truth": "녹금당",
+      "top3": [
+        "녹금당",
+        "곤녕합",
+        "복수당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000835418701171875
+    },
+    {
+      "source": "public",
+      "file": "20_녹금당/01. 건축물/kbui_gb_fhd_20_m_040.jpg",
+      "truth": "녹금당",
+      "top3": [
+        "녹금당",
+        "복수당",
+        "기원문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0008869171142578125
+    },
+    {
+      "source": "public",
+      "file": "20_녹금당/01. 건축물/kbui_gb_fhd_20_m_041.jpg",
+      "truth": "녹금당",
+      "top3": [
+        "녹금당",
+        "인유문",
+        "홍경문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000644683837890625
+    },
+    {
+      "source": "public",
+      "file": "20_녹금당/01. 건축물/kbui_gb_fhd_20_m_042.jpg",
+      "truth": "녹금당",
+      "top3": [
+        "녹금당",
+        "인유문",
+        "복수당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009431838989257812
+    },
+    {
+      "source": "public",
+      "file": "20_녹금당/01. 건축물/kbui_gb_fhd_20_m_047.jpg",
+      "truth": "녹금당",
+      "top3": [
+        "녹금당",
+        "인유문",
+        "복수당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000732421875
+    },
+    {
+      "source": "public",
+      "file": "20_녹금당/01. 건축물/kbui_gb_fhd_20_m_083.jpg",
+      "truth": "녹금당",
+      "top3": [
+        "녹금당",
+        "복수당",
+        "곤녕합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0006542205810546875
+    },
+    {
+      "source": "public",
+      "file": "20_녹금당/01. 건축물/kbui_gb_fhd_20_m_084.jpg",
+      "truth": "녹금당",
+      "top3": [
+        "녹금당",
+        "곤녕합",
+        "복수당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000629425048828125
+    },
+    {
+      "source": "public",
+      "file": "20_녹금당/01. 건축물/kbui_gb_fhd_20_m_086.jpg",
+      "truth": "녹금당",
+      "top3": [
+        "녹금당",
+        "복수당",
+        "곤녕합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0023326873779296875
+    },
+    {
+      "source": "public",
+      "file": "20_녹금당/01. 건축물/kbui_gb_fhd_20_m_087.jpg",
+      "truth": "녹금당",
+      "top3": [
+        "녹금당",
+        "곤녕합",
+        "복수당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000713348388671875
+    },
+    {
+      "source": "public",
+      "file": "20_녹금당/01. 건축물/kbui_gb_fhd_20_m_089.jpg",
+      "truth": "녹금당",
+      "top3": [
+        "녹금당",
+        "곤녕합",
+        "복수당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000499725341796875
+    },
+    {
+      "source": "public",
+      "file": "20_녹금당/01. 건축물/kbui_gb_fhd_20_m_090.jpg",
+      "truth": "녹금당",
+      "top3": [
+        "녹금당",
+        "복수당",
+        "곤녕합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007476806640625
+    },
+    {
+      "source": "public",
+      "file": "20_녹금당/01. 건축물/kbui_gb_fhd_20_m_091.jpg",
+      "truth": "녹금당",
+      "top3": [
+        "녹금당",
+        "복수당",
+        "곤녕합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0006847381591796875
+    },
+    {
+      "source": "public",
+      "file": "21_곤녕합/01. 건축물/kbui_gb_fhd_21_m_029.jpg",
+      "truth": "곤녕합",
+      "top3": [
+        "곤녕합",
+        "정시합",
+        "장안당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000782012939453125
+    },
+    {
+      "source": "public",
+      "file": "21_곤녕합/01. 건축물/kbui_gb_fhd_21_m_030.jpg",
+      "truth": "곤녕합",
+      "top3": [
+        "곤녕합",
+        "정시합",
+        "장안당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001598358154296875
+    },
+    {
+      "source": "public",
+      "file": "21_곤녕합/01. 건축물/kbui_gb_fhd_21_m_031.jpg",
+      "truth": "곤녕합",
+      "top3": [
+        "곤녕합",
+        "장안당",
+        "정시합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0016765594482421875
+    },
+    {
+      "source": "public",
+      "file": "21_곤녕합/01. 건축물/kbui_gb_fhd_21_m_033.jpg",
+      "truth": "곤녕합",
+      "top3": [
+        "곤녕합",
+        "정시합",
+        "장안당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001354217529296875
+    },
+    {
+      "source": "public",
+      "file": "21_곤녕합/01. 건축물/kbui_gb_fhd_21_m_041.jpg",
+      "truth": "곤녕합",
+      "top3": [
+        "곤녕합",
+        "녹금당",
+        "정시합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001071929931640625
+    },
+    {
+      "source": "public",
+      "file": "21_곤녕합/01. 건축물/kbui_gb_fhd_21_m_042.jpg",
+      "truth": "곤녕합",
+      "top3": [
+        "곤녕합",
+        "장안당",
+        "복수당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00124359130859375
+    },
+    {
+      "source": "public",
+      "file": "21_곤녕합/01. 건축물/kbui_gb_fhd_21_m_043.jpg",
+      "truth": "곤녕합",
+      "top3": [
+        "곤녕합",
+        "장안당",
+        "복수당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001102447509765625
+    },
+    {
+      "source": "public",
+      "file": "21_곤녕합/01. 건축물/kbui_gb_fhd_21_m_044.jpg",
+      "truth": "곤녕합",
+      "top3": [
+        "곤녕합",
+        "장안당",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007171630859375
+    },
+    {
+      "source": "public",
+      "file": "22_협길당/01. 건축물/kbui_gb_fhd_22_m_033.jpg",
+      "truth": "협길당",
+      "top3": [
+        "협길당",
+        "자경전",
+        "건순각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00125885009765625
+    },
+    {
+      "source": "public",
+      "file": "22_협길당/01. 건축물/kbui_gb_fhd_22_m_034.jpg",
+      "truth": "협길당",
+      "top3": [
+        "협길당",
+        "자경전",
+        "함화당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00127410888671875
+    },
+    {
+      "source": "public",
+      "file": "22_협길당/01. 건축물/kbui_gb_fhd_22_m_058.jpg",
+      "truth": "협길당",
+      "top3": [
+        "협길당",
+        "집경당",
+        "함화당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012912750244140625
+    },
+    {
+      "source": "public",
+      "file": "22_협길당/01. 건축물/kbui_gb_fhd_22_m_059.jpg",
+      "truth": "협길당",
+      "top3": [
+        "협길당",
+        "집옥재",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009555816650390625
+    },
+    {
+      "source": "public",
+      "file": "22_협길당/01. 건축물/kbui_gb_fhd_22_m_060.jpg",
+      "truth": "협길당",
+      "top3": [
+        "협길당",
+        "집경당",
+        "집옥재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001377105712890625
+    },
+    {
+      "source": "public",
+      "file": "22_협길당/01. 건축물/kbui_gb_fhd_22_m_061.jpg",
+      "truth": "협길당",
+      "top3": [
+        "협길당",
+        "집옥재",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001155853271484375
+    },
+    {
+      "source": "public",
+      "file": "22_협길당/01. 건축물/kbui_gb_fhd_22_m_066.jpg",
+      "truth": "협길당",
+      "top3": [
+        "협길당",
+        "자경전",
+        "건순각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001369476318359375
+    },
+    {
+      "source": "public",
+      "file": "22_협길당/01. 건축물/kbui_gb_fhd_22_m_067.jpg",
+      "truth": "협길당",
+      "top3": [
+        "협길당",
+        "자경전",
+        "건순각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0014543533325195312
+    },
+    {
+      "source": "public",
+      "file": "22_협길당/01. 건축물/kbui_gb_fhd_22_m_068.jpg",
+      "truth": "협길당",
+      "top3": [
+        "협길당",
+        "자경전",
+        "건순각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010166168212890625
+    },
+    {
+      "source": "public",
+      "file": "22_협길당/01. 건축물/kbui_gb_fhd_22_m_069.jpg",
+      "truth": "협길당",
+      "top3": [
+        "협길당",
+        "집경당",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000911712646484375
+    },
+    {
+      "source": "public",
+      "file": "22_협길당/01. 건축물/kbui_gb_fhd_22_m_071.jpg",
+      "truth": "협길당",
+      "top3": [
+        "협길당",
+        "건순각",
+        "집경당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007038116455078125
+    },
+    {
+      "source": "public",
+      "file": "23_집옥재/01. 건축물/kbui_gb_fhd_23_m_002.jpg",
+      "truth": "집옥재",
+      "top3": [
+        "집옥재",
+        "건순각",
+        "협길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009746551513671875
+    },
+    {
+      "source": "public",
+      "file": "23_집옥재/01. 건축물/kbui_gb_fhd_23_m_004.jpg",
+      "truth": "집옥재",
+      "top3": [
+        "집옥재",
+        "건순각",
+        "협길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00162506103515625
+    },
+    {
+      "source": "public",
+      "file": "23_집옥재/01. 건축물/kbui_gb_fhd_23_m_005.jpg",
+      "truth": "집옥재",
+      "top3": [
+        "집옥재",
+        "자경전",
+        "건순각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001220703125
+    },
+    {
+      "source": "public",
+      "file": "23_집옥재/01. 건축물/kbui_gb_fhd_23_m_007.jpg",
+      "truth": "집옥재",
+      "top3": [
+        "집옥재",
+        "자경전",
+        "건순각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001514434814453125
+    },
+    {
+      "source": "public",
+      "file": "23_집옥재/01. 건축물/kbui_gb_fhd_23_m_011.jpg",
+      "truth": "집옥재",
+      "top3": [
+        "집옥재",
+        "근정전",
+        "건순각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012187957763671875
+    },
+    {
+      "source": "public",
+      "file": "23_집옥재/01. 건축물/kbui_gb_fhd_23_m_012.jpg",
+      "truth": "집옥재",
+      "top3": [
+        "집옥재",
+        "건순각",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0011882781982421875
+    },
+    {
+      "source": "public",
+      "file": "23_집옥재/01. 건축물/kbui_gb_fhd_23_m_045.jpg",
+      "truth": "집옥재",
+      "top3": [
+        "집옥재",
+        "팔우정",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0015716552734375
+    },
+    {
+      "source": "public",
+      "file": "23_집옥재/01. 건축물/kbui_gb_fhd_23_m_047.jpg",
+      "truth": "집옥재",
+      "top3": [
+        "집옥재",
+        "팔우정",
+        "협길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00131988525390625
+    },
+    {
+      "source": "public",
+      "file": "23_집옥재/01. 건축물/kbui_gb_fhd_23_m_049.jpg",
+      "truth": "집옥재",
+      "top3": [
+        "집옥재",
+        "팔우정",
+        "함화당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0015735626220703125
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_b.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007352828979492188
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_002.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012416839599609375
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_014.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0015287399291992188
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_015.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00148773193359375
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_036.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0005865097045898438
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_038.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "팔우정"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00058746337890625
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_039.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "팔우정"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0004901885986328125
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_040.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "필성문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00070953369140625
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_041.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "필성문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009746551513671875
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_078.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "숙문당",
+        "팔우정"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000804901123046875
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_079.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "숙문당",
+        "일중문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0005769729614257812
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_080.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "숙문당",
+        "팔우정"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0008029937744140625
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_081.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "숙문당",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00060272216796875
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_082.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "숙문당",
+        "팔우정"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009746551513671875
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_083.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "숙문당",
+        "경회루"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0005598068237304688
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_094.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "건춘문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0006704330444335938
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_095.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "숙문당",
+        "경회루"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0006542205810546875
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_107.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0005168914794921875
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_108.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "팔우정"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0004405975341796875
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_109.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "숙문당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009975433349609375
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_110.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "숙문당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000823974609375
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_111.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00075531005859375
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_112.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "팔우정"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0005159378051757812
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_125.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "숙문당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000919342041015625
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_138.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "숙문당",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007982254028320312
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_144.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "숙문당",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0013036727905273438
+    },
+    {
+      "source": "public",
+      "file": "24_향원정/01. 건축물/kbui_gb_fhd_24_m_146.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "숙문당",
+        "경회루"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0006380081176757812
+    },
+    {
+      "source": "public",
+      "file": "25_경회루/01. 건축물/kbui_gb_fhd_25_m_007.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "근정전",
+        "향원정"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010576248168945312
+    },
+    {
+      "source": "public",
+      "file": "25_경회루/01. 건축물/kbui_gb_fhd_25_m_008.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "향원정",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009822845458984375
+    },
+    {
+      "source": "public",
+      "file": "25_경회루/01. 건축물/kbui_gb_fhd_25_m_009.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "향원정",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012912750244140625
+    },
+    {
+      "source": "public",
+      "file": "25_경회루/01. 건축물/kbui_gb_fhd_25_m_011.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "향원정",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012054443359375
+    },
+    {
+      "source": "public",
+      "file": "25_경회루/01. 건축물/kbui_gb_fhd_25_m_012.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "근정전",
+        "향원정"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0011768341064453125
+    },
+    {
+      "source": "public",
+      "file": "25_경회루/01. 건축물/kbui_gb_fhd_25_m_013.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "향원정",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0015106201171875
+    },
+    {
+      "source": "public",
+      "file": "25_경회루/01. 건축물/kbui_gb_fhd_25_m_014.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "향원정",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0016841888427734375
+    },
+    {
+      "source": "public",
+      "file": "25_경회루/01. 건축물/kbui_gb_fhd_25_m_041.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "제수합",
+        "건춘문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0011796951293945312
+    },
+    {
+      "source": "public",
+      "file": "25_경회루/01. 건축물/kbui_gb_fhd_25_m_042.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "근정전",
+        "자선당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001155853271484375
+    },
+    {
+      "source": "public",
+      "file": "25_경회루/01. 건축물/kbui_gb_fhd_25_m_043.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "수정전",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001369476318359375
+    },
+    {
+      "source": "public",
+      "file": "25_경회루/01. 건축물/kbui_gb_fhd_25_m_044.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "수정전",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001178741455078125
+    },
+    {
+      "source": "public",
+      "file": "25_경회루/01. 건축물/kbui_gb_fhd_25_m_048.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "근정전",
+        "향원정"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000885009765625
+    },
+    {
+      "source": "public",
+      "file": "25_경회루/01. 건축물/kbui_gb_fhd_25_m_049.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "근정전",
+        "광화문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009069442749023438
+    },
+    {
+      "source": "public",
+      "file": "25_경회루/01. 건축물/kbui_gb_fhd_25_m_050.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "근정전",
+        "향원정"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012073516845703125
+    },
+    {
+      "source": "public",
+      "file": "26_수정전/01. 건축물/kbui_gb_fhd_26_m_016.jpg",
+      "truth": "수정전",
+      "top3": [
+        "수정전",
+        "함화당",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001712799072265625
+    },
+    {
+      "source": "public",
+      "file": "26_수정전/01. 건축물/kbui_gb_fhd_26_m_018.jpg",
+      "truth": "수정전",
+      "top3": [
+        "수정전",
+        "함화당",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009479522705078125
+    },
+    {
+      "source": "public",
+      "file": "26_수정전/01. 건축물/kbui_gb_fhd_26_m_034.jpg",
+      "truth": "수정전",
+      "top3": [
+        "수정전",
+        "태원전",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012187957763671875
+    },
+    {
+      "source": "public",
+      "file": "26_수정전/01. 건축물/kbui_gb_fhd_26_m_035.jpg",
+      "truth": "수정전",
+      "top3": [
+        "수정전",
+        "태원전",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0011234283447265625
+    },
+    {
+      "source": "public",
+      "file": "26_수정전/01. 건축물/kbui_gb_fhd_26_m_036.jpg",
+      "truth": "수정전",
+      "top3": [
+        "수정전",
+        "태원전",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012912750244140625
+    },
+    {
+      "source": "public",
+      "file": "26_수정전/01. 건축물/kbui_gb_fhd_26_m_046.jpg",
+      "truth": "수정전",
+      "top3": [
+        "수정전",
+        "만춘전",
+        "교태전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00162506103515625
+    },
+    {
+      "source": "public",
+      "file": "26_수정전/01. 건축물/kbui_gb_fhd_26_m_047.jpg",
+      "truth": "수정전",
+      "top3": [
+        "수정전",
+        "만춘전",
+        "교태전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001232147216796875
+    },
+    {
+      "source": "public",
+      "file": "26_수정전/01. 건축물/kbui_gb_fhd_26_m_048.jpg",
+      "truth": "수정전",
+      "top3": [
+        "만춘전",
+        "수정전",
+        "함화당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001560211181640625
+    },
+    {
+      "source": "public",
+      "file": "27_함화당/01. 건축물/kbui_gb_fhd_27_m_035.jpg",
+      "truth": "함화당",
+      "top3": [
+        "함화당",
+        "집경당",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009288787841796875
+    },
+    {
+      "source": "public",
+      "file": "27_함화당/01. 건축물/kbui_gb_fhd_27_m_036.jpg",
+      "truth": "함화당",
+      "top3": [
+        "함화당",
+        "집경당",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00121307373046875
+    },
+    {
+      "source": "public",
+      "file": "27_함화당/01. 건축물/kbui_gb_fhd_27_m_037.jpg",
+      "truth": "함화당",
+      "top3": [
+        "함화당",
+        "집경당",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010833740234375
+    },
+    {
+      "source": "public",
+      "file": "27_함화당/01. 건축물/kbui_gb_fhd_27_m_043.jpg",
+      "truth": "함화당",
+      "top3": [
+        "함화당",
+        "집경당",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0016422271728515625
+    },
+    {
+      "source": "public",
+      "file": "27_함화당/01. 건축물/kbui_gb_fhd_27_m_044.jpg",
+      "truth": "함화당",
+      "top3": [
+        "함화당",
+        "집경당",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0015163421630859375
+    },
+    {
+      "source": "public",
+      "file": "27_함화당/01. 건축물/kbui_gb_fhd_27_m_045.jpg",
+      "truth": "함화당",
+      "top3": [
+        "함화당",
+        "집경당",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0016536712646484375
+    },
+    {
+      "source": "public",
+      "file": "27_함화당/01. 건축물/kbui_gb_fhd_27_m_049.jpg",
+      "truth": "함화당",
+      "top3": [
+        "함화당",
+        "집경당",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0019073486328125
+    },
+    {
+      "source": "public",
+      "file": "27_함화당/01. 건축물/kbui_gb_fhd_27_m_050.jpg",
+      "truth": "함화당",
+      "top3": [
+        "함화당",
+        "집경당",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0017871856689453125
+    },
+    {
+      "source": "public",
+      "file": "27_함화당/01. 건축물/kbui_gb_fhd_27_m_051.jpg",
+      "truth": "함화당",
+      "top3": [
+        "함화당",
+        "집경당",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0016345977783203125
+    },
+    {
+      "source": "public",
+      "file": "28_흥복전/01. 건축물/kbui_gb_fhd_28_m_045.jpg",
+      "truth": "흥복전",
+      "top3": [
+        "흥복전",
+        "계조당",
+        "장안당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0005130767822265625
+    },
+    {
+      "source": "public",
+      "file": "28_흥복전/01. 건축물/kbui_gb_fhd_28_m_046.jpg",
+      "truth": "흥복전",
+      "top3": [
+        "흥복전",
+        "계조당",
+        "장안당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007076263427734375
+    },
+    {
+      "source": "public",
+      "file": "28_흥복전/01. 건축물/kbui_gb_fhd_28_m_047.jpg",
+      "truth": "흥복전",
+      "top3": [
+        "흥복전",
+        "계조당",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007476806640625
+    },
+    {
+      "source": "public",
+      "file": "28_흥복전/01. 건축물/kbui_gb_fhd_28_m_049.jpg",
+      "truth": "흥복전",
+      "top3": [
+        "흥복전",
+        "계조당",
+        "장안당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007877349853515625
+    },
+    {
+      "source": "public",
+      "file": "28_흥복전/01. 건축물/kbui_gb_fhd_28_m_050.jpg",
+      "truth": "흥복전",
+      "top3": [
+        "흥복전",
+        "계조당",
+        "장안당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00060272216796875
+    },
+    {
+      "source": "public",
+      "file": "28_흥복전/01. 건축물/kbui_gb_fhd_28_m_084.jpg",
+      "truth": "흥복전",
+      "top3": [
+        "흥복전",
+        "장안당",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0008335113525390625
+    },
+    {
+      "source": "public",
+      "file": "28_흥복전/01. 건축물/kbui_gb_fhd_28_m_085.jpg",
+      "truth": "흥복전",
+      "top3": [
+        "흥복전",
+        "계조당",
+        "장안당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009946823120117188
+    },
+    {
+      "source": "public",
+      "file": "28_흥복전/01. 건축물/kbui_gb_fhd_28_m_086.jpg",
+      "truth": "흥복전",
+      "top3": [
+        "흥복전",
+        "장안당",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000919342041015625
+    },
+    {
+      "source": "public",
+      "file": "28_흥복전/01. 건축물/kbui_gb_fhd_28_m_087.jpg",
+      "truth": "흥복전",
+      "top3": [
+        "흥복전",
+        "장안당",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0006389617919921875
+    },
+    {
+      "source": "public",
+      "file": "28_흥복전/01. 건축물/kbui_gb_fhd_28_m_088.jpg",
+      "truth": "흥복전",
+      "top3": [
+        "흥복전",
+        "장안당",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00101470947265625
+    },
+    {
+      "source": "public",
+      "file": "28_흥복전/01. 건축물/kbui_gb_fhd_28_m_089.jpg",
+      "truth": "흥복전",
+      "top3": [
+        "흥복전",
+        "계조당",
+        "장안당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0008373260498046875
+    },
+    {
+      "source": "public",
+      "file": "28_흥복전/01. 건축물/kbui_gb_fhd_28_m_090.jpg",
+      "truth": "흥복전",
+      "top3": [
+        "흥복전",
+        "장안당",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012359619140625
+    },
+    {
+      "source": "public",
+      "file": "28_흥복전/01. 건축물/kbui_gb_fhd_28_m_091.jpg",
+      "truth": "흥복전",
+      "top3": [
+        "흥복전",
+        "계조당",
+        "장안당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000835418701171875
+    },
+    {
+      "source": "public",
+      "file": "28_흥복전/01. 건축물/kbui_gb_fhd_28_m_094.jpg",
+      "truth": "흥복전",
+      "top3": [
+        "흥복전",
+        "계조당",
+        "장안당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010023117065429688
+    },
+    {
+      "source": "public",
+      "file": "28_흥복전/01. 건축물/kbui_gb_fhd_28_r.jpg",
+      "truth": "흥복전",
+      "top3": [
+        "흥복전",
+        "정시합",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001834869384765625
+    },
+    {
+      "source": "public",
+      "file": "29_함원전/01. 건축물/kbui_gb_fhd_29_m_001.jpg",
+      "truth": "함원전",
+      "top3": [
+        "만춘전",
+        "함원전",
+        "건순각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00113677978515625
+    },
+    {
+      "source": "public",
+      "file": "29_함원전/01. 건축물/kbui_gb_fhd_29_m_002.jpg",
+      "truth": "함원전",
+      "top3": [
+        "함원전",
+        "만춘전",
+        "흠경각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007944107055664062
+    },
+    {
+      "source": "public",
+      "file": "29_함원전/01. 건축물/kbui_gb_fhd_29_m_003.jpg",
+      "truth": "함원전",
+      "top3": [
+        "함원전",
+        "만춘전",
+        "곤녕합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007457733154296875
+    },
+    {
+      "source": "public",
+      "file": "29_함원전/01. 건축물/kbui_gb_fhd_29_m_004.jpg",
+      "truth": "함원전",
+      "top3": [
+        "함원전",
+        "만춘전",
+        "강녕전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010280609130859375
+    },
+    {
+      "source": "public",
+      "file": "29_함원전/01. 건축물/kbui_gb_fhd_29_m_054.jpg",
+      "truth": "함원전",
+      "top3": [
+        "함원전",
+        "흠경각",
+        "집경당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001300811767578125
+    },
+    {
+      "source": "public",
+      "file": "29_함원전/01. 건축물/kbui_gb_fhd_29_m_055.jpg",
+      "truth": "함원전",
+      "top3": [
+        "함원전",
+        "흠경각",
+        "응지당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001491546630859375
+    },
+    {
+      "source": "public",
+      "file": "29_함원전/01. 건축물/kbui_gb_fhd_29_m_056.jpg",
+      "truth": "함원전",
+      "top3": [
+        "함원전",
+        "흠경각",
+        "강녕전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0011196136474609375
+    },
+    {
+      "source": "public",
+      "file": "30_흠경각/01. 건축물/kbui_gb_fhd_30_f.jpg",
+      "truth": "흠경각",
+      "top3": [
+        "흠경각",
+        "응지당",
+        "강녕전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00096893310546875
+    },
+    {
+      "source": "public",
+      "file": "30_흠경각/01. 건축물/kbui_gb_fhd_30_m_023.jpg",
+      "truth": "흠경각",
+      "top3": [
+        "함원전",
+        "흠경각",
+        "강녕전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0014247894287109375
+    },
+    {
+      "source": "public",
+      "file": "30_흠경각/01. 건축물/kbui_gb_fhd_30_m_024.jpg",
+      "truth": "흠경각",
+      "top3": [
+        "흠경각",
+        "함원전",
+        "교태전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00154876708984375
+    },
+    {
+      "source": "public",
+      "file": "30_흠경각/01. 건축물/kbui_gb_fhd_30_m_027.jpg",
+      "truth": "흠경각",
+      "top3": [
+        "흠경각",
+        "함원전",
+        "경성전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001506805419921875
+    },
+    {
+      "source": "public",
+      "file": "30_흠경각/01. 건축물/kbui_gb_fhd_30_m_028.jpg",
+      "truth": "흠경각",
+      "top3": [
+        "흠경각",
+        "함원전",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001636505126953125
+    },
+    {
+      "source": "public",
+      "file": "30_흠경각/01. 건축물/kbui_gb_fhd_30_m_029.jpg",
+      "truth": "흠경각",
+      "top3": [
+        "흠경각",
+        "함원전",
+        "경성전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0018329620361328125
+    },
+    {
+      "source": "public",
+      "file": "30_흠경각/01. 건축물/kbui_gb_fhd_30_m_030.jpg",
+      "truth": "흠경각",
+      "top3": [
+        "흠경각",
+        "함원전",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001468658447265625
+    },
+    {
+      "source": "public",
+      "file": "30_흠경각/01. 건축물/kbui_gb_fhd_30_m_031.jpg",
+      "truth": "흠경각",
+      "top3": [
+        "흠경각",
+        "함원전",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00142669677734375
+    },
+    {
+      "source": "public",
+      "file": "30_흠경각/01. 건축물/kbui_gb_fhd_30_m_032.jpg",
+      "truth": "흠경각",
+      "top3": [
+        "흠경각",
+        "함원전",
+        "경성전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0013561248779296875
+    },
+    {
+      "source": "public",
+      "file": "30_흠경각/01. 건축물/kbui_gb_fhd_30_m_036.jpg",
+      "truth": "흠경각",
+      "top3": [
+        "흠경각",
+        "함원전",
+        "경성전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.002613067626953125
+    },
+    {
+      "source": "public",
+      "file": "31_근정전/01. 건축물/kbui_gb_fhd_31_m_021.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "사정전",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010814666748046875
+    },
+    {
+      "source": "public",
+      "file": "31_근정전/01. 건축물/kbui_gb_fhd_31_m_022.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "사정전",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00147247314453125
+    },
+    {
+      "source": "public",
+      "file": "31_근정전/01. 건축물/kbui_gb_fhd_31_m_031.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "계조당",
+        "근정문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001102447509765625
+    },
+    {
+      "source": "public",
+      "file": "31_근정전/01. 건축물/kbui_gb_fhd_31_m_033.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "계조당",
+        "사정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00096893310546875
+    },
+    {
+      "source": "public",
+      "file": "31_근정전/01. 건축물/kbui_gb_fhd_31_m_034.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "계조당",
+        "사정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00107574462890625
+    },
+    {
+      "source": "public",
+      "file": "31_근정전/01. 건축물/kbui_gb_fhd_31_m_042.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "사정전",
+        "흥례문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.002025604248046875
+    },
+    {
+      "source": "public",
+      "file": "31_근정전/01. 건축물/kbui_gb_fhd_31_m_043.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "사정전",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00152587890625
+    },
+    {
+      "source": "public",
+      "file": "31_근정전/01. 건축물/kbui_gb_fhd_31_m_044.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "사정전",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0011425018310546875
+    },
+    {
+      "source": "public",
+      "file": "31_근정전/01. 건축물/kbui_gb_fhd_31_m_045.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "사정전",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010395050048828125
+    },
+    {
+      "source": "public",
+      "file": "31_근정전/01. 건축물/kbui_gb_fhd_31_m_046.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "사정전",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000774383544921875
+    },
+    {
+      "source": "public",
+      "file": "31_근정전/01. 건축물/kbui_gb_fhd_31_m_050.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "사정전",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0017547607421875
+    },
+    {
+      "source": "public",
+      "file": "31_근정전/01. 건축물/kbui_gb_fhd_31_m_051.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "사정전",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001201629638671875
+    },
+    {
+      "source": "public",
+      "file": "31_근정전/01. 건축물/kbui_gb_fhd_31_m_052.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "사정전",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010623931884765625
+    },
+    {
+      "source": "public",
+      "file": "32_용성문/01. 건축물/kbui_gb_fhd_32_b.jpg",
+      "truth": "용성문",
+      "top3": [
+        "용성문",
+        "유화문",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0008907318115234375
+    },
+    {
+      "source": "public",
+      "file": "32_용성문/01. 건축물/kbui_gb_fhd_32_m_024.jpg",
+      "truth": "용성문",
+      "top3": [
+        "용성문",
+        "협생문",
+        "양의문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00107574462890625
+    },
+    {
+      "source": "public",
+      "file": "32_용성문/01. 건축물/kbui_gb_fhd_32_m_025.jpg",
+      "truth": "용성문",
+      "top3": [
+        "용성문",
+        "기별청",
+        "협생문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0013256072998046875
+    },
+    {
+      "source": "public",
+      "file": "32_용성문/01. 건축물/kbui_gb_fhd_32_m_026.jpg",
+      "truth": "용성문",
+      "top3": [
+        "용성문",
+        "협생문",
+        "양의문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009479522705078125
+    },
+    {
+      "source": "public",
+      "file": "32_용성문/01. 건축물/kbui_gb_fhd_32_m_033.jpg",
+      "truth": "용성문",
+      "top3": [
+        "용성문",
+        "협생문",
+        "건숙문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000995635986328125
+    },
+    {
+      "source": "public",
+      "file": "32_용성문/01. 건축물/kbui_gb_fhd_32_m_034.jpg",
+      "truth": "용성문",
+      "top3": [
+        "용성문",
+        "건숙문",
+        "협생문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0014247894287109375
+    },
+    {
+      "source": "public",
+      "file": "33_협생문/01. 건축물/kbui_gb_fhd_33_m_013.jpg",
+      "truth": "협생문",
+      "top3": [
+        "협생문",
+        "용성문",
+        "건숙문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0018558502197265625
+    },
+    {
+      "source": "public",
+      "file": "33_협생문/01. 건축물/kbui_gb_fhd_33_m_014.jpg",
+      "truth": "협생문",
+      "top3": [
+        "협생문",
+        "인유문",
+        "일중문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001438140869140625
+    },
+    {
+      "source": "public",
+      "file": "33_협생문/01. 건축물/kbui_gb_fhd_33_m_015.jpg",
+      "truth": "협생문",
+      "top3": [
+        "협생문",
+        "용성문",
+        "건숙문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001796722412109375
+    },
+    {
+      "source": "public",
+      "file": "33_협생문/01. 건축물/kbui_gb_fhd_33_m_016.jpg",
+      "truth": "협생문",
+      "top3": [
+        "협생문",
+        "용성문",
+        "건숙문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0020599365234375
+    },
+    {
+      "source": "public",
+      "file": "33_협생문/01. 건축물/kbui_gb_fhd_33_m_017.jpg",
+      "truth": "협생문",
+      "top3": [
+        "협생문",
+        "용성문",
+        "일중문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0013942718505859375
+    },
+    {
+      "source": "public",
+      "file": "33_협생문/01. 건축물/kbui_gb_fhd_33_m_018.jpg",
+      "truth": "협생문",
+      "top3": [
+        "협생문",
+        "건숙문",
+        "용성문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001415252685546875
+    },
+    {
+      "source": "public",
+      "file": "34_유화문/01. 건축물/kbui_gb_fhd_34_m_007.jpg",
+      "truth": "유화문",
+      "top3": [
+        "유화문",
+        "기별청",
+        "용성문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009307861328125
+    },
+    {
+      "source": "public",
+      "file": "34_유화문/01. 건축물/kbui_gb_fhd_34_m_008.jpg",
+      "truth": "유화문",
+      "top3": [
+        "유화문",
+        "기별청",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010089874267578125
+    },
+    {
+      "source": "public",
+      "file": "34_유화문/01. 건축물/kbui_gb_fhd_34_m_010.jpg",
+      "truth": "유화문",
+      "top3": [
+        "유화문",
+        "용성문",
+        "기별청"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001300811767578125
+    },
+    {
+      "source": "public",
+      "file": "34_유화문/01. 건축물/kbui_gb_fhd_34_m_011.jpg",
+      "truth": "유화문",
+      "top3": [
+        "유화문",
+        "광화문",
+        "용성문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001155853271484375
+    },
+    {
+      "source": "public",
+      "file": "34_유화문/01. 건축물/kbui_gb_fhd_34_m_013.jpg",
+      "truth": "유화문",
+      "top3": [
+        "유화문",
+        "계조당",
+        "응지당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009479522705078125
+    },
+    {
+      "source": "public",
+      "file": "34_유화문/01. 건축물/kbui_gb_fhd_34_m_015.jpg",
+      "truth": "유화문",
+      "top3": [
+        "유화문",
+        "흥례문",
+        "기별청"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000972747802734375
+    },
+    {
+      "source": "public",
+      "file": "34_유화문/01. 건축물/kbui_gb_fhd_34_m_031.jpg",
+      "truth": "유화문",
+      "top3": [
+        "유화문",
+        "기별청",
+        "용성문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0013427734375
+    },
+    {
+      "source": "public",
+      "file": "34_유화문/01. 건축물/kbui_gb_fhd_34_m_032.jpg",
+      "truth": "유화문",
+      "top3": [
+        "유화문",
+        "기별청",
+        "용성문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007495880126953125
+    },
+    {
+      "source": "public",
+      "file": "34_유화문/01. 건축물/kbui_gb_fhd_34_m_033.jpg",
+      "truth": "유화문",
+      "top3": [
+        "유화문",
+        "용성문",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000885009765625
+    },
+    {
+      "source": "public",
+      "file": "34_유화문/01. 건축물/kbui_gb_fhd_34_m_073.jpg",
+      "truth": "유화문",
+      "top3": [
+        "유화문",
+        "자선당",
+        "기별청"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0030040740966796875
+    },
+    {
+      "source": "public",
+      "file": "34_유화문/01. 건축물/kbui_gb_fhd_34_m_074.jpg",
+      "truth": "유화문",
+      "top3": [
+        "유화문",
+        "자선당",
+        "기별청"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0019311904907226562
+    },
+    {
+      "source": "public",
+      "file": "34_유화문/01. 건축물/kbui_gb_fhd_34_m_075.jpg",
+      "truth": "유화문",
+      "top3": [
+        "유화문",
+        "기별청",
+        "자선당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00212860107421875
+    },
+    {
+      "source": "public",
+      "file": "35_기별청/01. 건축물/kbui_gb_fhd_35_m_012.jpg",
+      "truth": "기별청",
+      "top3": [
+        "기별청",
+        "인수문",
+        "중광문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001110076904296875
+    },
+    {
+      "source": "public",
+      "file": "35_기별청/01. 건축물/kbui_gb_fhd_35_m_013.jpg",
+      "truth": "기별청",
+      "top3": [
+        "기별청",
+        "인수문",
+        "함홍각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001171112060546875
+    },
+    {
+      "source": "public",
+      "file": "35_기별청/01. 건축물/kbui_gb_fhd_35_m_014.jpg",
+      "truth": "기별청",
+      "top3": [
+        "기별청",
+        "인수문",
+        "함홍각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009098052978515625
+    },
+    {
+      "source": "public",
+      "file": "35_기별청/01. 건축물/kbui_gb_fhd_35_m_015.jpg",
+      "truth": "기별청",
+      "top3": [
+        "기별청",
+        "인수문",
+        "함홍각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010890960693359375
+    },
+    {
+      "source": "public",
+      "file": "36_교태전/01. 건축물/kbui_gb_fhd_36_m_005.jpg",
+      "truth": "교태전",
+      "top3": [
+        "교태전",
+        "원길헌",
+        "강녕전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0015468597412109375
+    },
+    {
+      "source": "public",
+      "file": "36_교태전/01. 건축물/kbui_gb_fhd_36_m_006.jpg",
+      "truth": "교태전",
+      "top3": [
+        "교태전",
+        "원길헌",
+        "천추전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001819610595703125
+    },
+    {
+      "source": "public",
+      "file": "36_교태전/01. 건축물/kbui_gb_fhd_36_m_008.jpg",
+      "truth": "교태전",
+      "top3": [
+        "교태전",
+        "자경전",
+        "강녕전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009632110595703125
+    },
+    {
+      "source": "public",
+      "file": "36_교태전/01. 건축물/kbui_gb_fhd_36_m_031.jpg",
+      "truth": "교태전",
+      "top3": [
+        "교태전",
+        "강녕전",
+        "집경당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001247406005859375
+    },
+    {
+      "source": "public",
+      "file": "36_교태전/01. 건축물/kbui_gb_fhd_36_m_042.jpg",
+      "truth": "교태전",
+      "top3": [
+        "교태전",
+        "원길헌",
+        "경성전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00121307373046875
+    },
+    {
+      "source": "public",
+      "file": "36_교태전/01. 건축물/kbui_gb_fhd_36_m_047.jpg",
+      "truth": "교태전",
+      "top3": [
+        "교태전",
+        "원길헌",
+        "흠경각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00189971923828125
+    },
+    {
+      "source": "public",
+      "file": "36_교태전/01. 건축물/kbui_gb_fhd_36_m_048.jpg",
+      "truth": "교태전",
+      "top3": [
+        "교태전",
+        "원길헌",
+        "흠경각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0022258758544921875
+    },
+    {
+      "source": "public",
+      "file": "36_교태전/01. 건축물/kbui_gb_fhd_36_m_049.jpg",
+      "truth": "교태전",
+      "top3": [
+        "교태전",
+        "흠경각",
+        "원길헌"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0014286041259765625
+    },
+    {
+      "source": "public",
+      "file": "36_교태전/01. 건축물/kbui_gb_fhd_36_m_062.jpg",
+      "truth": "교태전",
+      "top3": [
+        "교태전",
+        "흠경각",
+        "공묵재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0015850067138671875
+    },
+    {
+      "source": "public",
+      "file": "36_교태전/01. 건축물/kbui_gb_fhd_36_m_063.jpg",
+      "truth": "교태전",
+      "top3": [
+        "교태전",
+        "흠경각",
+        "집경당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00140380859375
+    },
+    {
+      "source": "public",
+      "file": "37_양의문/01. 건축물/kbui_gb_fhd_37_m_003.jpg",
+      "truth": "양의문",
+      "top3": [
+        "양의문",
+        "원길헌",
+        "함홍각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00264739990234375
+    },
+    {
+      "source": "public",
+      "file": "37_양의문/01. 건축물/kbui_gb_fhd_37_m_004.jpg",
+      "truth": "양의문",
+      "top3": [
+        "양의문",
+        "교태전",
+        "원길헌"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00244903564453125
+    },
+    {
+      "source": "public",
+      "file": "37_양의문/01. 건축물/kbui_gb_fhd_37_m_010.jpg",
+      "truth": "양의문",
+      "top3": [
+        "양의문",
+        "용성문",
+        "협생문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0024871826171875
+    },
+    {
+      "source": "public",
+      "file": "37_양의문/01. 건축물/kbui_gb_fhd_37_m_011.jpg",
+      "truth": "양의문",
+      "top3": [
+        "양의문",
+        "용성문",
+        "원길헌"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0023193359375
+    },
+    {
+      "source": "public",
+      "file": "37_양의문/01. 건축물/kbui_gb_fhd_37_m_023.jpg",
+      "truth": "양의문",
+      "top3": [
+        "양의문",
+        "용성문",
+        "건청궁"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00136566162109375
+    },
+    {
+      "source": "public",
+      "file": "37_양의문/01. 건축물/kbui_gb_fhd_37_m_024.jpg",
+      "truth": "양의문",
+      "top3": [
+        "양의문",
+        "원길헌",
+        "용성문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001888275146484375
+    },
+    {
+      "source": "public",
+      "file": "38_경성전/01. 건축물/kbui_gb_fhd_38_b.jpg",
+      "truth": "경성전",
+      "top3": [
+        "연생전",
+        "경성전",
+        "자선당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001369476318359375
+    },
+    {
+      "source": "public",
+      "file": "38_경성전/01. 건축물/kbui_gb_fhd_38_m_045.jpg",
+      "truth": "경성전",
+      "top3": [
+        "경성전",
+        "연생전",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012178421020507812
+    },
+    {
+      "source": "public",
+      "file": "38_경성전/01. 건축물/kbui_gb_fhd_38_m_046.jpg",
+      "truth": "경성전",
+      "top3": [
+        "경성전",
+        "연생전",
+        "자선당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0015172958374023438
+    },
+    {
+      "source": "public",
+      "file": "38_경성전/01. 건축물/kbui_gb_fhd_38_m_054.jpg",
+      "truth": "경성전",
+      "top3": [
+        "경성전",
+        "연생전",
+        "흠경각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001369476318359375
+    },
+    {
+      "source": "public",
+      "file": "38_경성전/01. 건축물/kbui_gb_fhd_38_m_055.jpg",
+      "truth": "경성전",
+      "top3": [
+        "경성전",
+        "흠경각",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0014629364013671875
+    },
+    {
+      "source": "public",
+      "file": "38_경성전/01. 건축물/kbui_gb_fhd_38_m_056.jpg",
+      "truth": "경성전",
+      "top3": [
+        "경성전",
+        "흠경각",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012187957763671875
+    },
+    {
+      "source": "public",
+      "file": "38_경성전/01. 건축물/kbui_gb_fhd_38_m_064.jpg",
+      "truth": "경성전",
+      "top3": [
+        "연생전",
+        "경성전",
+        "응지당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0013027191162109375
+    },
+    {
+      "source": "public",
+      "file": "38_경성전/01. 건축물/kbui_gb_fhd_38_m_065.jpg",
+      "truth": "경성전",
+      "top3": [
+        "연생전",
+        "경성전",
+        "응지당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001522064208984375
+    },
+    {
+      "source": "public",
+      "file": "38_경성전/01. 건축물/kbui_gb_fhd_38_m_066.jpg",
+      "truth": "경성전",
+      "top3": [
+        "연생전",
+        "경성전",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0015621185302734375
+    },
+    {
+      "source": "public",
+      "file": "38_경성전/01. 건축물/kbui_gb_fhd_38_m_067.jpg",
+      "truth": "경성전",
+      "top3": [
+        "연생전",
+        "경성전",
+        "연길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0017642974853515625
+    },
+    {
+      "source": "public",
+      "file": "38_경성전/01. 건축물/kbui_gb_fhd_38_m_068.jpg",
+      "truth": "경성전",
+      "top3": [
+        "경성전",
+        "연생전",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0017261505126953125
+    },
+    {
+      "source": "public",
+      "file": "38_경성전/01. 건축물/kbui_gb_fhd_38_m_072.jpg",
+      "truth": "경성전",
+      "top3": [
+        "경성전",
+        "연생전",
+        "연길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0020294189453125
+    },
+    {
+      "source": "public",
+      "file": "38_경성전/01. 건축물/kbui_gb_fhd_38_r.jpg",
+      "truth": "경성전",
+      "top3": [
+        "연생전",
+        "경성전",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0015773773193359375
+    },
+    {
+      "source": "public",
+      "file": "39_응지당/01. 건축물/kbui_gb_fhd_39_f.jpg",
+      "truth": "응지당",
+      "top3": [
+        "응지당",
+        "연길당",
+        "천추전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001438140869140625
+    },
+    {
+      "source": "public",
+      "file": "39_응지당/01. 건축물/kbui_gb_fhd_39_m_014.jpg",
+      "truth": "응지당",
+      "top3": [
+        "응지당",
+        "연길당",
+        "흠경각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001438140869140625
+    },
+    {
+      "source": "public",
+      "file": "39_응지당/01. 건축물/kbui_gb_fhd_39_m_015.jpg",
+      "truth": "응지당",
+      "top3": [
+        "응지당",
+        "연길당",
+        "함원전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0019130706787109375
+    },
+    {
+      "source": "public",
+      "file": "39_응지당/01. 건축물/kbui_gb_fhd_39_m_016.jpg",
+      "truth": "응지당",
+      "top3": [
+        "응지당",
+        "연길당",
+        "함원전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0020847320556640625
+    },
+    {
+      "source": "public",
+      "file": "39_응지당/01. 건축물/kbui_gb_fhd_39_m_017.jpg",
+      "truth": "응지당",
+      "top3": [
+        "응지당",
+        "함원전",
+        "천추전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001953125
+    },
+    {
+      "source": "public",
+      "file": "39_응지당/01. 건축물/kbui_gb_fhd_39_m_030.jpg",
+      "truth": "응지당",
+      "top3": [
+        "원길헌",
+        "영사재",
+        "응지당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0014896392822265625
+    },
+    {
+      "source": "public",
+      "file": "39_응지당/01. 건축물/kbui_gb_fhd_39_m_031.jpg",
+      "truth": "응지당",
+      "top3": [
+        "영사재",
+        "공묵재",
+        "응지당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001251220703125
+    },
+    {
+      "source": "public",
+      "file": "40_강녕전/01. 건축물/kbui_gb_fhd_40_b.jpg",
+      "truth": "강녕전",
+      "top3": [
+        "강녕전",
+        "교태전",
+        "집경당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001583099365234375
+    },
+    {
+      "source": "public",
+      "file": "40_강녕전/01. 건축물/kbui_gb_fhd_40_m_049.jpg",
+      "truth": "강녕전",
+      "top3": [
+        "강녕전",
+        "곤녕합",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0022363662719726562
+    },
+    {
+      "source": "public",
+      "file": "40_강녕전/01. 건축물/kbui_gb_fhd_40_m_050.jpg",
+      "truth": "강녕전",
+      "top3": [
+        "강녕전",
+        "경성전",
+        "사정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0019664764404296875
+    },
+    {
+      "source": "public",
+      "file": "40_강녕전/01. 건축물/kbui_gb_fhd_40_m_051.jpg",
+      "truth": "강녕전",
+      "top3": [
+        "강녕전",
+        "경성전",
+        "사정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0019779205322265625
+    },
+    {
+      "source": "public",
+      "file": "40_강녕전/01. 건축물/kbui_gb_fhd_40_m_052.jpg",
+      "truth": "강녕전",
+      "top3": [
+        "강녕전",
+        "경성전",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0026645660400390625
+    },
+    {
+      "source": "public",
+      "file": "40_강녕전/01. 건축물/kbui_gb_fhd_40_m_053.jpg",
+      "truth": "강녕전",
+      "top3": [
+        "강녕전",
+        "사정전",
+        "곤녕합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.002429962158203125
+    },
+    {
+      "source": "public",
+      "file": "40_강녕전/01. 건축물/kbui_gb_fhd_40_m_054.jpg",
+      "truth": "강녕전",
+      "top3": [
+        "강녕전",
+        "연생전",
+        "사정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0025157928466796875
+    },
+    {
+      "source": "public",
+      "file": "40_강녕전/01. 건축물/kbui_gb_fhd_40_m_055.jpg",
+      "truth": "강녕전",
+      "top3": [
+        "강녕전",
+        "사정전",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.002391815185546875
+    },
+    {
+      "source": "public",
+      "file": "40_강녕전/01. 건축물/kbui_gb_fhd_40_m_056.jpg",
+      "truth": "강녕전",
+      "top3": [
+        "강녕전",
+        "사정전",
+        "함원전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0023651123046875
+    },
+    {
+      "source": "public",
+      "file": "40_강녕전/01. 건축물/kbui_gb_fhd_40_m_072.jpg",
+      "truth": "강녕전",
+      "top3": [
+        "강녕전",
+        "교태전",
+        "집경당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001251220703125
+    },
+    {
+      "source": "public",
+      "file": "40_강녕전/01. 건축물/kbui_gb_fhd_40_m_073.jpg",
+      "truth": "강녕전",
+      "top3": [
+        "강녕전",
+        "교태전",
+        "집경당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001865386962890625
+    },
+    {
+      "source": "public",
+      "file": "40_강녕전/01. 건축물/kbui_gb_fhd_40_m_074.jpg",
+      "truth": "강녕전",
+      "top3": [
+        "강녕전",
+        "집경당",
+        "교태전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0017757415771484375
+    },
+    {
+      "source": "public",
+      "file": "41_만춘전/01. 건축물/kbui_gb_fhd_41_m_004.jpg",
+      "truth": "만춘전",
+      "top3": [
+        "만춘전",
+        "연길당",
+        "원길헌"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012569427490234375
+    },
+    {
+      "source": "public",
+      "file": "41_만춘전/01. 건축물/kbui_gb_fhd_41_m_005.jpg",
+      "truth": "만춘전",
+      "top3": [
+        "만춘전",
+        "연길당",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0018024444580078125
+    },
+    {
+      "source": "public",
+      "file": "41_만춘전/01. 건축물/kbui_gb_fhd_41_m_011.jpg",
+      "truth": "만춘전",
+      "top3": [
+        "만춘전",
+        "연길당",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000926971435546875
+    },
+    {
+      "source": "public",
+      "file": "41_만춘전/01. 건축물/kbui_gb_fhd_41_m_012.jpg",
+      "truth": "만춘전",
+      "top3": [
+        "만춘전",
+        "자경전",
+        "수정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0014400482177734375
+    },
+    {
+      "source": "public",
+      "file": "41_만춘전/01. 건축물/kbui_gb_fhd_41_m_013.jpg",
+      "truth": "만춘전",
+      "top3": [
+        "만춘전",
+        "자경전",
+        "천추전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001438140869140625
+    },
+    {
+      "source": "public",
+      "file": "41_만춘전/01. 건축물/kbui_gb_fhd_41_m_014.jpg",
+      "truth": "만춘전",
+      "top3": [
+        "만춘전",
+        "자경전",
+        "함화당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009860992431640625
+    },
+    {
+      "source": "public",
+      "file": "41_만춘전/01. 건축물/kbui_gb_fhd_41_m_015.jpg",
+      "truth": "만춘전",
+      "top3": [
+        "만춘전",
+        "자경전",
+        "연길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010738372802734375
+    },
+    {
+      "source": "public",
+      "file": "41_만춘전/01. 건축물/kbui_gb_fhd_41_m_016.jpg",
+      "truth": "만춘전",
+      "top3": [
+        "만춘전",
+        "자경전",
+        "연길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009708404541015625
+    },
+    {
+      "source": "public",
+      "file": "41_만춘전/01. 건축물/kbui_gb_fhd_41_m_023.jpg",
+      "truth": "만춘전",
+      "top3": [
+        "만춘전",
+        "천추전",
+        "경성전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010395050048828125
+    },
+    {
+      "source": "public",
+      "file": "41_만춘전/01. 건축물/kbui_gb_fhd_41_m_024.jpg",
+      "truth": "만춘전",
+      "top3": [
+        "만춘전",
+        "자경전",
+        "경성전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001068115234375
+    },
+    {
+      "source": "public",
+      "file": "41_만춘전/01. 건축물/kbui_gb_fhd_41_m_025.jpg",
+      "truth": "만춘전",
+      "top3": [
+        "만춘전",
+        "자경전",
+        "경성전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001438140869140625
+    },
+    {
+      "source": "public",
+      "file": "42_사정전/01. 건축물/kbui_gb_fhd_42_l.jpg",
+      "truth": "사정전",
+      "top3": [
+        "사정전",
+        "강녕전",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00131988525390625
+    },
+    {
+      "source": "public",
+      "file": "42_사정전/01. 건축물/kbui_gb_fhd_42_m_001.jpg",
+      "truth": "사정전",
+      "top3": [
+        "사정전",
+        "근정전",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0016918182373046875
+    },
+    {
+      "source": "public",
+      "file": "42_사정전/01. 건축물/kbui_gb_fhd_42_m_003.jpg",
+      "truth": "사정전",
+      "top3": [
+        "사정전",
+        "근정전",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0015316009521484375
+    },
+    {
+      "source": "public",
+      "file": "42_사정전/01. 건축물/kbui_gb_fhd_42_m_043.jpg",
+      "truth": "사정전",
+      "top3": [
+        "사정전",
+        "연길당",
+        "흠경각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00136566162109375
+    },
+    {
+      "source": "public",
+      "file": "42_사정전/01. 건축물/kbui_gb_fhd_42_m_044.jpg",
+      "truth": "사정전",
+      "top3": [
+        "사정전",
+        "강녕전",
+        "흠경각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012798309326171875
+    },
+    {
+      "source": "public",
+      "file": "42_사정전/01. 건축물/kbui_gb_fhd_42_m_045.jpg",
+      "truth": "사정전",
+      "top3": [
+        "사정전",
+        "연길당",
+        "흠경각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012664794921875
+    },
+    {
+      "source": "public",
+      "file": "42_사정전/01. 건축물/kbui_gb_fhd_42_m_046.jpg",
+      "truth": "사정전",
+      "top3": [
+        "사정전",
+        "수정전",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001148223876953125
+    },
+    {
+      "source": "public",
+      "file": "42_사정전/01. 건축물/kbui_gb_fhd_42_m_047.jpg",
+      "truth": "사정전",
+      "top3": [
+        "사정전",
+        "근정전",
+        "수정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001697540283203125
+    },
+    {
+      "source": "public",
+      "file": "42_사정전/01. 건축물/kbui_gb_fhd_42_m_048.jpg",
+      "truth": "사정전",
+      "top3": [
+        "사정전",
+        "연길당",
+        "함원전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00177001953125
+    },
+    {
+      "source": "public",
+      "file": "42_사정전/01. 건축물/kbui_gb_fhd_42_m_049.jpg",
+      "truth": "사정전",
+      "top3": [
+        "사정전",
+        "연길당",
+        "함원전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0016880035400390625
+    },
+    {
+      "source": "public",
+      "file": "42_사정전/01. 건축물/kbui_gb_fhd_42_m_050.jpg",
+      "truth": "사정전",
+      "top3": [
+        "사정전",
+        "연길당",
+        "함원전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00160980224609375
+    },
+    {
+      "source": "public",
+      "file": "43_연길당/01. 건축물/kbui_gb_fhd_43_f.jpg",
+      "truth": "연길당",
+      "top3": [
+        "연길당",
+        "응지당",
+        "천추전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001613616943359375
+    },
+    {
+      "source": "public",
+      "file": "43_연길당/01. 건축물/kbui_gb_fhd_43_m_029.jpg",
+      "truth": "연길당",
+      "top3": [
+        "연길당",
+        "응지당",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0014705657958984375
+    },
+    {
+      "source": "public",
+      "file": "43_연길당/01. 건축물/kbui_gb_fhd_43_m_030.jpg",
+      "truth": "연길당",
+      "top3": [
+        "연길당",
+        "사정전",
+        "함원전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001300811767578125
+    },
+    {
+      "source": "public",
+      "file": "43_연길당/01. 건축물/kbui_gb_fhd_43_m_031.jpg",
+      "truth": "연길당",
+      "top3": [
+        "연길당",
+        "사정전",
+        "응지당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00102996826171875
+    },
+    {
+      "source": "public",
+      "file": "43_연길당/01. 건축물/kbui_gb_fhd_43_m_032.jpg",
+      "truth": "연길당",
+      "top3": [
+        "연길당",
+        "함원전",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0014142990112304688
+    },
+    {
+      "source": "public",
+      "file": "43_연길당/01. 건축물/kbui_gb_fhd_43_m_048.jpg",
+      "truth": "연길당",
+      "top3": [
+        "연길당",
+        "응지당",
+        "함원전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0021152496337890625
+    },
+    {
+      "source": "public",
+      "file": "43_연길당/01. 건축물/kbui_gb_fhd_43_m_049.jpg",
+      "truth": "연길당",
+      "top3": [
+        "연길당",
+        "응지당",
+        "함원전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00133514404296875
+    },
+    {
+      "source": "public",
+      "file": "43_연길당/01. 건축물/kbui_gb_fhd_43_m_050.jpg",
+      "truth": "연길당",
+      "top3": [
+        "연길당",
+        "응지당",
+        "강녕전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001712799072265625
+    },
+    {
+      "source": "public",
+      "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_016.jpg",
+      "truth": "연생전",
+      "top3": [
+        "연생전",
+        "경성전",
+        "연길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001461029052734375
+    },
+    {
+      "source": "public",
+      "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_017.jpg",
+      "truth": "연생전",
+      "top3": [
+        "연생전",
+        "경성전",
+        "연길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0017375946044921875
+    },
+    {
+      "source": "public",
+      "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_018.jpg",
+      "truth": "연생전",
+      "top3": [
+        "연생전",
+        "경성전",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00121307373046875
+    },
+    {
+      "source": "public",
+      "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_065.jpg",
+      "truth": "연생전",
+      "top3": [
+        "연생전",
+        "경성전",
+        "연길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0013427734375
+    },
+    {
+      "source": "public",
+      "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_066.jpg",
+      "truth": "연생전",
+      "top3": [
+        "연생전",
+        "경성전",
+        "연길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00106048583984375
+    },
+    {
+      "source": "public",
+      "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_069.jpg",
+      "truth": "연생전",
+      "top3": [
+        "연생전",
+        "연길당",
+        "경성전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00146484375
+    },
+    {
+      "source": "public",
+      "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_070.jpg",
+      "truth": "연생전",
+      "top3": [
+        "연생전",
+        "연길당",
+        "경성전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001758575439453125
+    },
+    {
+      "source": "public",
+      "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_082.jpg",
+      "truth": "연생전",
+      "top3": [
+        "연생전",
+        "경성전",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0013065338134765625
+    },
+    {
+      "source": "public",
+      "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_083.jpg",
+      "truth": "연생전",
+      "top3": [
+        "연생전",
+        "경성전",
+        "흠경각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001483917236328125
+    },
+    {
+      "source": "public",
+      "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_084.jpg",
+      "truth": "연생전",
+      "top3": [
+        "연생전",
+        "흠경각",
+        "경성전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00130462646484375
+    },
+    {
+      "source": "public",
+      "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_085.jpg",
+      "truth": "연생전",
+      "top3": [
+        "연생전",
+        "흠경각",
+        "경성전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0016574859619140625
+    },
+    {
+      "source": "public",
+      "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_086.jpg",
+      "truth": "연생전",
+      "top3": [
+        "연생전",
+        "경성전",
+        "흠경각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001407623291015625
+    },
+    {
+      "source": "public",
+      "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_087.jpg",
+      "truth": "연생전",
+      "top3": [
+        "연생전",
+        "흠경각",
+        "경성전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0017948150634765625
+    },
+    {
+      "source": "public",
+      "file": "44_연생전/01. 건축물/kbui_gb_fhd_44_m_090.jpg",
+      "truth": "연생전",
+      "top3": [
+        "연생전",
+        "경성전",
+        "흠경각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0011920928955078125
+    },
+    {
+      "source": "public",
+      "file": "45_근정문/01. 건축물/kbui_gb_fhd_45_m_001.jpg",
+      "truth": "근정문",
+      "top3": [
+        "근정문",
+        "유화문",
+        "흥례문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0023517608642578125
+    },
+    {
+      "source": "public",
+      "file": "45_근정문/01. 건축물/kbui_gb_fhd_45_m_004.jpg",
+      "truth": "근정문",
+      "top3": [
+        "근정문",
+        "흥례문",
+        "유화문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001861572265625
+    },
+    {
+      "source": "public",
+      "file": "45_근정문/01. 건축물/kbui_gb_fhd_45_m_010.jpg",
+      "truth": "근정문",
+      "top3": [
+        "근정문",
+        "흥례문",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0014553070068359375
+    },
+    {
+      "source": "public",
+      "file": "46_천추전/01. 건축물/kbui_gb_fhd_46_m_015.jpg",
+      "truth": "천추전",
+      "top3": [
+        "천추전",
+        "만춘전",
+        "경성전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0022487640380859375
+    },
+    {
+      "source": "public",
+      "file": "46_천추전/01. 건축물/kbui_gb_fhd_46_m_054.jpg",
+      "truth": "천추전",
+      "top3": [
+        "천추전",
+        "만춘전",
+        "연길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001895904541015625
+    },
+    {
+      "source": "public",
+      "file": "46_천추전/01. 건축물/kbui_gb_fhd_46_m_055.jpg",
+      "truth": "천추전",
+      "top3": [
+        "천추전",
+        "만춘전",
+        "연길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.002460479736328125
+    },
+    {
+      "source": "public",
+      "file": "46_천추전/01. 건축물/kbui_gb_fhd_46_m_056.jpg",
+      "truth": "천추전",
+      "top3": [
+        "천추전",
+        "만춘전",
+        "연길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0019092559814453125
+    },
+    {
+      "source": "public",
+      "file": "46_천추전/01. 건축물/kbui_gb_fhd_46_m_057.jpg",
+      "truth": "천추전",
+      "top3": [
+        "천추전",
+        "만춘전",
+        "연길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0017261505126953125
+    },
+    {
+      "source": "public",
+      "file": "46_천추전/01. 건축물/kbui_gb_fhd_46_m_058.jpg",
+      "truth": "천추전",
+      "top3": [
+        "천추전",
+        "만춘전",
+        "응지당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0019626617431640625
+    },
+    {
+      "source": "public",
+      "file": "46_천추전/01. 건축물/kbui_gb_fhd_46_m_059.jpg",
+      "truth": "천추전",
+      "top3": [
+        "천추전",
+        "만춘전",
+        "연길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001865386962890625
+    },
+    {
+      "source": "public",
+      "file": "46_천추전/01. 건축물/kbui_gb_fhd_46_m_060.jpg",
+      "truth": "천추전",
+      "top3": [
+        "천추전",
+        "만춘전",
+        "연길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001922607421875
+    },
+    {
+      "source": "public",
+      "file": "46_천추전/01. 건축물/kbui_gb_fhd_46_m_061.jpg",
+      "truth": "천추전",
+      "top3": [
+        "천추전",
+        "만춘전",
+        "응지당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0015125274658203125
+    },
+    {
+      "source": "public",
+      "file": "46_천추전/01. 건축물/kbui_gb_fhd_46_m_062.jpg",
+      "truth": "천추전",
+      "top3": [
+        "천추전",
+        "만춘전",
+        "연길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.002223968505859375
+    },
+    {
+      "source": "public",
+      "file": "46_천추전/01. 건축물/kbui_gb_fhd_46_m_063.jpg",
+      "truth": "천추전",
+      "top3": [
+        "천추전",
+        "만춘전",
+        "연길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00150299072265625
+    },
+    {
+      "source": "public",
+      "file": "46_천추전/01. 건축물/kbui_gb_fhd_46_m_069.jpg",
+      "truth": "천추전",
+      "top3": [
+        "천추전",
+        "만춘전",
+        "경성전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0026836395263671875
+    },
+    {
+      "source": "public",
+      "file": "46_천추전/01. 건축물/kbui_gb_fhd_46_m_070.jpg",
+      "truth": "천추전",
+      "top3": [
+        "천추전",
+        "경성전",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.002593994140625
+    },
+    {
+      "source": "public",
+      "file": "47_흥례문/01. 건축물/kbui_gb_fhd_47_f.jpg",
+      "truth": "흥례문",
+      "top3": [
+        "흥례문",
+        "근정문",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.002315521240234375
+    },
+    {
+      "source": "public",
+      "file": "47_흥례문/01. 건축물/kbui_gb_fhd_47_m_004.jpg",
+      "truth": "흥례문",
+      "top3": [
+        "흥례문",
+        "근정문",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010814666748046875
+    },
+    {
+      "source": "public",
+      "file": "47_흥례문/01. 건축물/kbui_gb_fhd_47_m_005.jpg",
+      "truth": "흥례문",
+      "top3": [
+        "흥례문",
+        "근정문",
+        "유화문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0013942718505859375
+    },
+    {
+      "source": "public",
+      "file": "47_흥례문/01. 건축물/kbui_gb_fhd_47_m_006.jpg",
+      "truth": "흥례문",
+      "top3": [
+        "흥례문",
+        "근정문",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012149810791015625
+    },
+    {
+      "source": "public",
+      "file": "47_흥례문/01. 건축물/kbui_gb_fhd_47_m_027.jpg",
+      "truth": "흥례문",
+      "top3": [
+        "흥례문",
+        "근정문",
+        "함홍각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0016937255859375
+    },
+    {
+      "source": "public",
+      "file": "47_흥례문/01. 건축물/kbui_gb_fhd_47_m_028.jpg",
+      "truth": "흥례문",
+      "top3": [
+        "흥례문",
+        "근정문",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001708984375
+    },
+    {
+      "source": "public",
+      "file": "47_흥례문/01. 건축물/kbui_gb_fhd_47_m_046.jpg",
+      "truth": "흥례문",
+      "top3": [
+        "흥례문",
+        "유화문",
+        "근정문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.002269744873046875
+    },
+    {
+      "source": "public",
+      "file": "47_흥례문/01. 건축물/kbui_gb_fhd_47_m_047.jpg",
+      "truth": "흥례문",
+      "top3": [
+        "흥례문",
+        "유화문",
+        "근정문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0016002655029296875
+    },
+    {
+      "source": "public",
+      "file": "47_흥례문/01. 건축물/kbui_gb_fhd_47_m_058.jpg",
+      "truth": "흥례문",
+      "top3": [
+        "흥례문",
+        "근정문",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0021228790283203125
+    },
+    {
+      "source": "public",
+      "file": "47_흥례문/01. 건축물/kbui_gb_fhd_47_m_059.jpg",
+      "truth": "흥례문",
+      "top3": [
+        "흥례문",
+        "근정문",
+        "유화문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.002902984619140625
+    },
+    {
+      "source": "public",
+      "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_b.jpg",
+      "truth": "자선당",
+      "top3": [
+        "비현각",
+        "자선당",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0015659332275390625
+    },
+    {
+      "source": "public",
+      "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_l.jpg",
+      "truth": "자선당",
+      "top3": [
+        "자선당",
+        "강녕전",
+        "비현각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001300811767578125
+    },
+    {
+      "source": "public",
+      "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_018.jpg",
+      "truth": "자선당",
+      "top3": [
+        "자선당",
+        "비현각",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009655952453613281
+    },
+    {
+      "source": "public",
+      "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_019.jpg",
+      "truth": "자선당",
+      "top3": [
+        "자선당",
+        "비현각",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000705718994140625
+    },
+    {
+      "source": "public",
+      "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_020.jpg",
+      "truth": "자선당",
+      "top3": [
+        "자선당",
+        "비현각",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00081634521484375
+    },
+    {
+      "source": "public",
+      "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_021.jpg",
+      "truth": "자선당",
+      "top3": [
+        "자선당",
+        "비현각",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001277923583984375
+    },
+    {
+      "source": "public",
+      "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_022.jpg",
+      "truth": "자선당",
+      "top3": [
+        "자선당",
+        "비현각",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012941360473632812
+    },
+    {
+      "source": "public",
+      "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_023.jpg",
+      "truth": "자선당",
+      "top3": [
+        "자선당",
+        "비현각",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0011620521545410156
+    },
+    {
+      "source": "public",
+      "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_046.jpg",
+      "truth": "자선당",
+      "top3": [
+        "자선당",
+        "비현각",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001469254493713379
+    },
+    {
+      "source": "public",
+      "file": "48_자선당/01. 건축물/kbui_gb_fhd_48_m_047.jpg",
+      "truth": "자선당",
+      "top3": [
+        "자선당",
+        "비현각",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0012431144714355469
+    },
+    {
+      "source": "public",
+      "file": "49_비현각/01. 건축물/kbui_gb_fhd_49_m_013.jpg",
+      "truth": "비현각",
+      "top3": [
+        "비현각",
+        "자선당",
+        "집경당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000843048095703125
+    },
+    {
+      "source": "public",
+      "file": "49_비현각/01. 건축물/kbui_gb_fhd_49_m_014.jpg",
+      "truth": "비현각",
+      "top3": [
+        "비현각",
+        "자선당",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001373291015625
+    },
+    {
+      "source": "public",
+      "file": "49_비현각/01. 건축물/kbui_gb_fhd_49_m_024.jpg",
+      "truth": "비현각",
+      "top3": [
+        "비현각",
+        "자선당",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010933876037597656
+    },
+    {
+      "source": "public",
+      "file": "49_비현각/01. 건축물/kbui_gb_fhd_49_m_025.jpg",
+      "truth": "비현각",
+      "top3": [
+        "비현각",
+        "자선당",
+        "태원전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0017490386962890625
+    },
+    {
+      "source": "public",
+      "file": "49_비현각/01. 건축물/kbui_gb_fhd_49_m_035.jpg",
+      "truth": "비현각",
+      "top3": [
+        "만춘전",
+        "비현각",
+        "집경당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001251220703125
+    },
+    {
+      "source": "public",
+      "file": "49_비현각/01. 건축물/kbui_gb_fhd_49_m_036.jpg",
+      "truth": "비현각",
+      "top3": [
+        "비현각",
+        "만춘전",
+        "집경당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000957489013671875
+    },
+    {
+      "source": "public",
+      "file": "49_비현각/01. 건축물/kbui_gb_fhd_49_m_049.jpg",
+      "truth": "비현각",
+      "top3": [
+        "비현각",
+        "함화당",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001422882080078125
+    },
+    {
+      "source": "public",
+      "file": "49_비현각/01. 건축물/kbui_gb_fhd_49_m_050.jpg",
+      "truth": "비현각",
+      "top3": [
+        "비현각",
+        "만춘전",
+        "함화당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0013275146484375
+    },
+    {
+      "source": "public",
+      "file": "49_비현각/01. 건축물/kbui_gb_fhd_49_r.jpg",
+      "truth": "비현각",
+      "top3": [
+        "비현각",
+        "만춘전",
+        "강녕전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0014495849609375
+    },
+    {
+      "source": "public",
+      "file": "50_중광문/01. 건축물/kbui_gb_fhd_50_m_001.jpg",
+      "truth": "중광문",
+      "top3": [
+        "중광문",
+        "인수문",
+        "기별청"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001110076904296875
+    },
+    {
+      "source": "public",
+      "file": "50_중광문/01. 건축물/kbui_gb_fhd_50_m_002.jpg",
+      "truth": "중광문",
+      "top3": [
+        "중광문",
+        "기별청",
+        "인수문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001102447509765625
+    },
+    {
+      "source": "public",
+      "file": "50_중광문/01. 건축물/kbui_gb_fhd_50_m_019.jpg",
+      "truth": "중광문",
+      "top3": [
+        "중광문",
+        "인수문",
+        "기별청"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007953643798828125
+    },
+    {
+      "source": "public",
+      "file": "50_중광문/01. 건축물/kbui_gb_fhd_50_m_020.jpg",
+      "truth": "중광문",
+      "top3": [
+        "중광문",
+        "인수문",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007991790771484375
+    },
+    {
+      "source": "public",
+      "file": "50_중광문/01. 건축물/kbui_gb_fhd_50_m_021.jpg",
+      "truth": "중광문",
+      "top3": [
+        "중광문",
+        "인수문",
+        "기원문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007128715515136719
+    },
+    {
+      "source": "public",
+      "file": "51_광화문/01. 건축물/kbui_gb_fhd_51_b.jpg",
+      "truth": "광화문",
+      "top3": [
+        "광화문",
+        "건춘문",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007309913635253906
+    },
+    {
+      "source": "public",
+      "file": "51_광화문/01. 건축물/kbui_gb_fhd_51_m_017.jpg",
+      "truth": "광화문",
+      "top3": [
+        "광화문",
+        "건춘문",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00125885009765625
+    },
+    {
+      "source": "public",
+      "file": "51_광화문/01. 건축물/kbui_gb_fhd_51_m_018.jpg",
+      "truth": "광화문",
+      "top3": [
+        "광화문",
+        "건춘문",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000751495361328125
+    },
+    {
+      "source": "public",
+      "file": "51_광화문/01. 건축물/kbui_gb_fhd_51_m_019.jpg",
+      "truth": "광화문",
+      "top3": [
+        "광화문",
+        "근정전",
+        "건춘문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010623931884765625
+    },
+    {
+      "source": "public",
+      "file": "51_광화문/01. 건축물/kbui_gb_fhd_51_m_020.jpg",
+      "truth": "광화문",
+      "top3": [
+        "광화문",
+        "근정전",
+        "건춘문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0013217926025390625
+    },
+    {
+      "source": "public",
+      "file": "51_광화문/01. 건축물/kbui_gb_fhd_51_m_021.jpg",
+      "truth": "광화문",
+      "top3": [
+        "광화문",
+        "근정전",
+        "건춘문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00130462646484375
+    },
+    {
+      "source": "public",
+      "file": "52_집경당/01. 건축물/kbui_gb_fhd_52_m_001.jpg",
+      "truth": "집경당",
+      "top3": [
+        "집경당",
+        "함화당",
+        "만춘전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0011310577392578125
+    },
+    {
+      "source": "public",
+      "file": "52_집경당/01. 건축물/kbui_gb_fhd_52_m_002.jpg",
+      "truth": "집경당",
+      "top3": [
+        "집경당",
+        "함화당",
+        "공묵재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010852813720703125
+    },
+    {
+      "source": "public",
+      "file": "52_집경당/01. 건축물/kbui_gb_fhd_52_m_003.jpg",
+      "truth": "집경당",
+      "top3": [
+        "집경당",
+        "함화당",
+        "기원문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010833740234375
+    },
+    {
+      "source": "public",
+      "file": "52_집경당/01. 건축물/kbui_gb_fhd_52_m_004.jpg",
+      "truth": "집경당",
+      "top3": [
+        "집경당",
+        "함화당",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0008029937744140625
+    },
+    {
+      "source": "public",
+      "file": "52_집경당/01. 건축물/kbui_gb_fhd_52_m_010.jpg",
+      "truth": "집경당",
+      "top3": [
+        "집경당",
+        "함화당",
+        "교태전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009002685546875
+    },
+    {
+      "source": "public",
+      "file": "52_집경당/01. 건축물/kbui_gb_fhd_52_m_012.jpg",
+      "truth": "집경당",
+      "top3": [
+        "집경당",
+        "함화당",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00067901611328125
+    },
+    {
+      "source": "public",
+      "file": "52_집경당/01. 건축물/kbui_gb_fhd_52_m_045.jpg",
+      "truth": "집경당",
+      "top3": [
+        "집경당",
+        "함화당",
+        "교태전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00160980224609375
+    },
+    {
+      "source": "public",
+      "file": "52_집경당/01. 건축물/kbui_gb_fhd_52_m_046.jpg",
+      "truth": "집경당",
+      "top3": [
+        "집경당",
+        "함화당",
+        "공묵재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0016117095947265625
+    },
+    {
+      "source": "public",
+      "file": "52_집경당/01. 건축물/kbui_gb_fhd_52_m_055.jpg",
+      "truth": "집경당",
+      "top3": [
+        "집경당",
+        "함화당",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001220703125
+    },
+    {
+      "source": "public",
+      "file": "53_제수합/01. 건축물/kbui_gb_fhd_53_l.jpg",
+      "truth": "제수합",
+      "top3": [
+        "인유문",
+        "팔우정",
+        "향원정"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001068115234375
+    },
+    {
+      "source": "public",
+      "file": "53_제수합/01. 건축물/kbui_gb_fhd_53_m_012.jpg",
+      "truth": "제수합",
+      "top3": [
+        "제수합",
+        "일중문",
+        "홍경문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0013179779052734375
+    },
+    {
+      "source": "public",
+      "file": "53_제수합/01. 건축물/kbui_gb_fhd_53_m_013.jpg",
+      "truth": "제수합",
+      "top3": [
+        "제수합",
+        "건춘문",
+        "일중문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000762939453125
+    },
+    {
+      "source": "public",
+      "file": "53_제수합/01. 건축물/kbui_gb_fhd_53_r.jpg",
+      "truth": "제수합",
+      "top3": [
+        "제수합",
+        "향원정",
+        "일중문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009784698486328125
+    },
+    {
+      "source": "public",
+      "file": "54_계조당/01. 건축물/kbui_gb_fhd_54_m_011.jpg",
+      "truth": "계조당",
+      "top3": [
+        "계조당",
+        "흥복전",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0015411376953125
+    },
+    {
+      "source": "public",
+      "file": "54_계조당/01. 건축물/kbui_gb_fhd_54_m_012.jpg",
+      "truth": "계조당",
+      "top3": [
+        "계조당",
+        "흥복전",
+        "인유문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000919342041015625
+    },
+    {
+      "source": "public",
+      "file": "55_원길헌/01. 건축물/kbui_gb_fhd_55_m_014.jpg",
+      "truth": "원길헌",
+      "top3": [
+        "원길헌",
+        "건순각",
+        "함홍각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009822845458984375
+    },
+    {
+      "source": "public",
+      "file": "55_원길헌/01. 건축물/kbui_gb_fhd_55_m_017.jpg",
+      "truth": "원길헌",
+      "top3": [
+        "원길헌",
+        "함홍각",
+        "협길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0013446807861328125
+    },
+    {
+      "source": "public",
+      "file": "55_원길헌/01. 건축물/kbui_gb_fhd_55_m_018.jpg",
+      "truth": "원길헌",
+      "top3": [
+        "원길헌",
+        "건순각",
+        "함홍각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010547637939453125
+    },
+    {
+      "source": "public",
+      "file": "56_건춘문/01. 건축물/kbui_gb_fhd_56_m_004.jpg",
+      "truth": "건춘문",
+      "top3": [
+        "건춘문",
+        "광화문",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0011920928955078125
+    },
+    {
+      "source": "public",
+      "file": "56_건춘문/01. 건축물/kbui_gb_fhd_56_m_005.jpg",
+      "truth": "건춘문",
+      "top3": [
+        "건춘문",
+        "광화문",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00133514404296875
+    },
+    {
+      "source": "public",
+      "file": "56_건춘문/01. 건축물/kbui_gb_fhd_56_m_011.jpg",
+      "truth": "건춘문",
+      "top3": [
+        "건춘문",
+        "광화문",
+        "필성문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0005578994750976562
+    },
+    {
+      "source": "public",
+      "file": "56_건춘문/01. 건축물/kbui_gb_fhd_56_m_013.jpg",
+      "truth": "건춘문",
+      "top3": [
+        "건춘문",
+        "광화문",
+        "필성문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010967254638671875
+    },
+    {
+      "source": "public",
+      "file": "57_자경전/01. 건축물/kbui_gb_fhd_57_b.jpg",
+      "truth": "자경전",
+      "top3": [
+        "자경전",
+        "집경당",
+        "함화당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0011615753173828125
+    },
+    {
+      "source": "public",
+      "file": "57_자경전/01. 건축물/kbui_gb_fhd_57_m_024.jpg",
+      "truth": "자경전",
+      "top3": [
+        "자경전",
+        "집경당",
+        "함화당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001331329345703125
+    },
+    {
+      "source": "public",
+      "file": "57_자경전/01. 건축물/kbui_gb_fhd_57_m_025.jpg",
+      "truth": "자경전",
+      "top3": [
+        "자경전",
+        "집경당",
+        "기별청"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009860992431640625
+    },
+    {
+      "source": "public",
+      "file": "57_자경전/01. 건축물/kbui_gb_fhd_57_m_029.jpg",
+      "truth": "자경전",
+      "top3": [
+        "자경전",
+        "원길헌",
+        "건순각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000949859619140625
+    },
+    {
+      "source": "public",
+      "file": "57_자경전/01. 건축물/kbui_gb_fhd_57_m_035.jpg",
+      "truth": "자경전",
+      "top3": [
+        "자경전",
+        "영사재",
+        "보강문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0011157989501953125
+    },
+    {
+      "source": "public",
+      "file": "57_자경전/01. 건축물/kbui_gb_fhd_57_r.jpg",
+      "truth": "자경전",
+      "top3": [
+        "만춘전",
+        "자경전",
+        "비현각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00118255615234375
+    },
+    {
+      "source": "public",
+      "file": "58_팔우정/01. 건축물/kbui_gb_fhd_58_m_017.jpg",
+      "truth": "팔우정",
+      "top3": [
+        "팔우정",
+        "집옥재",
+        "함화당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00128936767578125
+    },
+    {
+      "source": "public",
+      "file": "58_팔우정/01. 건축물/kbui_gb_fhd_58_m_020.jpg",
+      "truth": "팔우정",
+      "top3": [
+        "팔우정",
+        "집옥재",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000980377197265625
+    },
+    {
+      "source": "public",
+      "file": "58_팔우정/01. 건축물/kbui_gb_fhd_58_m_021.jpg",
+      "truth": "팔우정",
+      "top3": [
+        "팔우정",
+        "집옥재",
+        "협길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00147247314453125
+    },
+    {
+      "source": "public",
+      "file": "58_팔우정/01. 건축물/kbui_gb_fhd_58_m_022.jpg",
+      "truth": "팔우정",
+      "top3": [
+        "팔우정",
+        "집옥재",
+        "자경전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001430511474609375
+    },
+    {
+      "source": "public",
+      "file": "59_함홍각/01. 건축물/kbui_gb_fhd_59_m_001.jpg",
+      "truth": "함홍각",
+      "top3": [
+        "함홍각",
+        "원길헌",
+        "건순각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0025577545166015625
+    },
+    {
+      "source": "public",
+      "file": "59_함홍각/01. 건축물/kbui_gb_fhd_59_m_002.jpg",
+      "truth": "함홍각",
+      "top3": [
+        "함홍각",
+        "원길헌",
+        "건순각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0017242431640625
+    },
+    {
+      "source": "public",
+      "file": "59_함홍각/01. 건축물/kbui_gb_fhd_59_m_007.jpg",
+      "truth": "함홍각",
+      "top3": [
+        "함홍각",
+        "기별청",
+        "원길헌"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0013484954833984375
+    },
+    {
+      "source": "public",
+      "file": "59_함홍각/01. 건축물/kbui_gb_fhd_59_m_008.jpg",
+      "truth": "함홍각",
+      "top3": [
+        "함홍각",
+        "건순각",
+        "원길헌"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0015163421630859375
+    },
+    {
+      "source": "public",
+      "file": "60_건순각/01. 건축물/kbui_gb_fhd_60_b.jpg",
+      "truth": "건순각",
+      "top3": [
+        "건순각",
+        "함홍각",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0019779205322265625
+    },
+    {
+      "source": "public",
+      "file": "60_건순각/01. 건축물/kbui_gb_fhd_60_m_007.jpg",
+      "truth": "건순각",
+      "top3": [
+        "건순각",
+        "함홍각",
+        "영사재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0024137496948242188
+    },
+    {
+      "source": "public",
+      "file": "60_건순각/01. 건축물/kbui_gb_fhd_60_m_008.jpg",
+      "truth": "건순각",
+      "top3": [
+        "함홍각",
+        "건순각",
+        "협길당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0014801025390625
+    },
+    {
+      "source": "external",
+      "file": "건순각/images.jpg",
+      "truth": "건순각",
+      "top3": [
+        "건순각",
+        "정시합",
+        "경회루"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000820159912109375
+    },
+    {
+      "source": "external",
+      "file": "건춘문/images.jpeg",
+      "truth": "건춘문",
+      "top3": [
+        "건춘문",
+        "근정전",
+        "광화문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 1.52587890625e-05
+    },
+    {
+      "source": "external",
+      "file": "건춘문/스크린샷 2026-10-17 000940.png",
+      "truth": "건춘문",
+      "top3": [
+        "건춘문",
+        "광화문",
+        "필성문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0002231597900390625
+    },
+    {
+      "source": "external",
+      "file": "경성전/images (2).jpeg",
+      "truth": "경성전",
+      "top3": [
+        "연생전",
+        "경성전",
+        "응지당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0004405975341796875
+    },
+    {
+      "source": "external",
+      "file": "경성전/prolsk_155786_1[187482].jpg",
+      "truth": "경성전",
+      "top3": [
+        "자선당",
+        "경성전",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0015153884887695312
+    },
+    {
+      "source": "external",
+      "file": "경회루/18093-medium-size.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "근정전",
+        "건춘문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00038433074951171875
+    },
+    {
+      "source": "external",
+      "file": "경회루/2fe70ab5c2695dda96d080fa0d5d2121.jpeg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "향원정",
+        "흥복전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0002593994140625
+    },
+    {
+      "source": "external",
+      "file": "경회루/5002_3562_3017.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "근정전",
+        "광화문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0003299713134765625
+    },
+    {
+      "source": "external",
+      "file": "경회루/Gyeonghoeru_108033706.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "근정전",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0004711151123046875
+    },
+    {
+      "source": "external",
+      "file": "경회루/Gyeonghoeru_25673873.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "근정전",
+        "광화문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0005664825439453125
+    },
+    {
+      "source": "external",
+      "file": "경회루/Gyeonghoeru_flickr5550099497.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "근정전",
+        "광화문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0006103515625
+    },
+    {
+      "source": "external",
+      "file": "경회루/Gyeonghoeru_375733.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "향원정",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00015354156494140625
+    },
+    {
+      "source": "external",
+      "file": "경회루/Gyeonghoeru_62839658.jpg",
+      "truth": "경회루",
+      "top3": [
+        "근정전",
+        "계조당",
+        "향원정"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00037097930908203125
+    },
+    {
+      "source": "external",
+      "file": "경회루/Gyeonghoeru_69723205.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "향원정",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00064849853515625
+    },
+    {
+      "source": "external",
+      "file": "경회루/Gyeonghoeru_flickr41086487602.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "향원정",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0004200935363769531
+    },
+    {
+      "source": "external",
+      "file": "경회루/Gyeonghoeru_flickr22773244031.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "광화문",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00022125244140625
+    },
+    {
+      "source": "external",
+      "file": "경회루/images (1).jpeg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "향원정",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 2.6702880859375e-05
+    },
+    {
+      "source": "external",
+      "file": "계조당/20230919_tdsPMX.jpg",
+      "truth": "계조당",
+      "top3": [
+        "계조당",
+        "흥복전",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000926971435546875
+    },
+    {
+      "source": "external",
+      "file": "계조당/20230920114827_1929957_1199_799.jpeg",
+      "truth": "계조당",
+      "top3": [
+        "계조당",
+        "광화문",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000843048095703125
+    },
+    {
+      "source": "external",
+      "file": "계조당/PYH2023091903110000500_P4.jpg",
+      "truth": "계조당",
+      "top3": [
+        "계조당",
+        "흥복전",
+        "녹금당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0003643035888671875
+    },
+    {
+      "source": "external",
+      "file": "광화문/Gwanghwamun_45011894.jpg",
+      "truth": "광화문",
+      "top3": [
+        "경회루",
+        "향원정",
+        "광화문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0006399154663085938
+    },
+    {
+      "source": "external",
+      "file": "광화문/Gwanghwamun_53414461.jpg",
+      "truth": "광화문",
+      "top3": [
+        "근정전",
+        "광화문",
+        "경회루"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000766754150390625
+    },
+    {
+      "source": "external",
+      "file": "광화문/Gwanghwamun_62117037.jpg",
+      "truth": "광화문",
+      "top3": [
+        "근정전",
+        "광화문",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0003509521484375
+    },
+    {
+      "source": "external",
+      "file": "광화문/Gwanghwamun_62896370.jpg",
+      "truth": "광화문",
+      "top3": [
+        "광화문",
+        "근정전",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000484466552734375
+    },
+    {
+      "source": "external",
+      "file": "광화문/Gwanghwamun_71443289.jpg",
+      "truth": "광화문",
+      "top3": [
+        "영사재",
+        "근정전",
+        "기원문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 6.246566772460938e-05
+    },
+    {
+      "source": "external",
+      "file": "교태전/389728_473590_5121.jpg",
+      "truth": "교태전",
+      "top3": [
+        "교태전",
+        "태원전",
+        "수정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0015735626220703125
+    },
+    {
+      "source": "external",
+      "file": "교태전/Gyotaejeon_3339568.jpg",
+      "truth": "교태전",
+      "top3": [
+        "교태전",
+        "자경전",
+        "유화문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0008697509765625
+    },
+    {
+      "source": "external",
+      "file": "교태전/Gyotaejeon_flickr285840850.jpg",
+      "truth": "교태전",
+      "top3": [
+        "교태전",
+        "자경전",
+        "유화문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000865936279296875
+    },
+    {
+      "source": "external",
+      "file": "근정전/Geunjeongjeon_35512790.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "경회루",
+        "광화문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0003948211669921875
+    },
+    {
+      "source": "external",
+      "file": "근정전/Geunjeongjeon_43967862.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "광화문",
+        "경회루"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000362396240234375
+    },
+    {
+      "source": "external",
+      "file": "근정전/Geunjeongjeon_57828406.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "집옥재",
+        "함화당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0004730224609375
+    },
+    {
+      "source": "external",
+      "file": "근정전/Geunjeongjeon_61594285.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "광화문",
+        "경회루"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00017452239990234375
+    },
+    {
+      "source": "external",
+      "file": "근정전/Geunjeongjeon_62710423.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "광화문",
+        "경회루"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0005421638488769531
+    },
+    {
+      "source": "external",
+      "file": "근정전/Geunjeongjeon_62795700.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "광화문",
+        "경회루"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000408172607421875
+    },
+    {
+      "source": "external",
+      "file": "근정전/Geunjeongjeon_83590987.jpg",
+      "truth": "근정전",
+      "top3": [
+        "경회루",
+        "자경전",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001537322998046875
+    },
+    {
+      "source": "external",
+      "file": "근정전/Geunjeongjeon_9328705.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "광화문",
+        "경회루"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000858306884765625
+    },
+    {
+      "source": "external",
+      "file": "근정전/Geunjeongjeon_flickr2338672707.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "광화문",
+        "경회루"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0009098052978515625
+    },
+    {
+      "source": "external",
+      "file": "근정전/Geunjeongjeon_flickr1509434791.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "경회루",
+        "광화문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0003528594970703125
+    },
+    {
+      "source": "external",
+      "file": "근정전/Geunjeongjeon_flickr31665136.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "경회루",
+        "광화문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00031280517578125
+    },
+    {
+      "source": "external",
+      "file": "기별청/스크린샷 2026-10-17 002052.png",
+      "truth": "기별청",
+      "top3": [
+        "기별청",
+        "만춘전",
+        "용성문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0005130767822265625
+    },
+    {
+      "source": "external",
+      "file": "연생전/연생전1.jpg",
+      "truth": "연생전",
+      "top3": [
+        "경성전",
+        "강녕전",
+        "연생전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.001636505126953125
+    },
+    {
+      "source": "external",
+      "file": "원길헌/R2206-A001-5155.jpg",
+      "truth": "원길헌",
+      "top3": [
+        "함홍각",
+        "집경당",
+        "교태전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010004043579101562
+    },
+    {
+      "source": "external",
+      "file": "인유문/download.jpg",
+      "truth": "인유문",
+      "top3": [
+        "인유문",
+        "복수당",
+        "초양문"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00029754638671875
+    },
+    {
+      "source": "external",
+      "file": "인유문/images (1).jpeg",
+      "truth": "인유문",
+      "top3": [
+        "녹금당",
+        "향원정",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0014667510986328125
+    },
+    {
+      "source": "external",
+      "file": "함홍각/R2206-A001-5166.jpg",
+      "truth": "함홍각",
+      "top3": [
+        "양의문",
+        "함홍각",
+        "건순각"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00099945068359375
+    },
+    {
+      "source": "external",
+      "file": "함홍각/R2206-A001-5212.jpg",
+      "truth": "함홍각",
+      "top3": [
+        "건순각",
+        "원길헌",
+        "교태전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0005474090576171875
+    },
+    {
+      "source": "external",
+      "file": "향원정/Hyangwonjeong_108033707.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "집옥재"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0010089874267578125
+    },
+    {
+      "source": "external",
+      "file": "향원정/Hyangwonjeong_109137402.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000484466552734375
+    },
+    {
+      "source": "external",
+      "file": "향원정/Hyangwonjeong_flickr15524420176.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "계조당"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.00047969818115234375
+    },
+    {
+      "source": "external",
+      "file": "향원정/Hyangwonjeong_1705372.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 7.05718994140625e-05
+    },
+    {
+      "source": "external",
+      "file": "향원정/Hyangwonjeong_flickr17994549.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 7.915496826171875e-05
+    },
+    {
+      "source": "external",
+      "file": "향원정/Hyangwonjeong_3338906.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0007524490356445312
+    },
+    {
+      "source": "external",
+      "file": "향원정/Hyangwonjeong_59057282.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "근정전"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000629425048828125
+    },
+    {
+      "source": "external",
+      "file": "향원정/Hyangwonjeong_62795692.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0001621246337890625
+    },
+    {
+      "source": "external",
+      "file": "향원정/Hyangwonjeong_flickr11318924513.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "정시합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0003814697265625
+    },
+    {
+      "source": "external",
+      "file": "향원정/Hyangwonjeong_flickr1510258602.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.0003185272216796875
+    },
+    {
+      "source": "external",
+      "file": "향원정/Hyangwonjeong_flickr298496298.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "제수합"
+      ],
+      "same_top1": true,
+      "same_top3_order": true,
+      "same_saved_reference": true,
+      "max_abs_logit_error": 0.000194549560546875
+    }
+  ],
+  "scope": "CPU numerical parity on existing development validation; NOT browser or independent test"
+}

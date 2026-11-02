@@ -1,0 +1,2150 @@
+{
+  "seed": 20261030,
+  "selection": "up to4 original train/class plus up to2 added train/class, no augmentation",
+  "images": [
+    {
+      "path": "dataset_clean/01_기원문/01. 건축물/kbui_gb_fhd_01_m_028.jpg",
+      "label": 0,
+      "split": "train",
+      "group": "group_0027",
+      "source": "original",
+      "sha256": "19c6617331c2f7a5e6ffce21e2bf00f7207d30a949b2f1237c840df5e136695c"
+    },
+    {
+      "path": "dataset_clean/01_기원문/01. 건축물/kbui_gb_fhd_01_m_027.jpg",
+      "label": 0,
+      "split": "train",
+      "group": "group_0027",
+      "source": "original",
+      "sha256": "288b734363116c67d9af84ded6ed194bbd1b775ea99efcd0bd482f4ea3319998"
+    },
+    {
+      "path": "dataset_clean/01_기원문/01. 건축물/kbui_gb_fhd_01_m_040.jpg",
+      "label": 0,
+      "split": "train",
+      "group": "group_0002",
+      "source": "original",
+      "sha256": "13de23b014529f64154857688cb7d8209fceb45d30eb1f5d763cb1e737cac6a8"
+    },
+    {
+      "path": "dataset_clean/01_기원문/01. 건축물/kbui_gb_fhd_01_m_001.jpg",
+      "label": 0,
+      "split": "train",
+      "group": "group_0002",
+      "source": "original",
+      "sha256": "264b5e3dbf4831296e445c512c8eeaceb22d6cf702321da111e36868e625d50b"
+    },
+    {
+      "path": "dataset_clean/02_건숙문/01. 건축물/kbui_gb_fhd_02_m_023.jpg",
+      "label": 1,
+      "split": "train",
+      "group": "group_0084",
+      "source": "original",
+      "sha256": "be82a9ac729c5ec95bd7dc753fccc6c0b4ad9ed544d08394ccf9d30e8e6cacda"
+    },
+    {
+      "path": "dataset_clean/02_건숙문/01. 건축물/kbui_gb_fhd_02_m_024.jpg",
+      "label": 1,
+      "split": "train",
+      "group": "group_0084",
+      "source": "original",
+      "sha256": "00aa237317d199a7d3fdb3c4579327feb16917c442e818bd3584980729704611"
+    },
+    {
+      "path": "dataset_clean/02_건숙문/01. 건축물/kbui_gb_fhd_02_m_032.jpg",
+      "label": 1,
+      "split": "train",
+      "group": "group_0094",
+      "source": "original",
+      "sha256": "1988349305030c207cbed3ea5a68bef5b5ef2299825992e9323df7c47a6409f2"
+    },
+    {
+      "path": "dataset_clean/02_건숙문/01. 건축물/kbui_gb_fhd_02_m_021.jpg",
+      "label": 1,
+      "split": "train",
+      "group": "group_0081",
+      "source": "original",
+      "sha256": "8793151f263e092c5b154092f24322bed0e39460c2fc893da88bb626a6c292c2"
+    },
+    {
+      "path": "dataset_clean/03_경안문/01. 건축물/kbui_gb_fhd_03_m_011.jpg",
+      "label": 2,
+      "split": "train",
+      "group": "group_0118",
+      "source": "original",
+      "sha256": "7254aa6e1cd8d62a1351100734409503f08e6c2c6afa2a7eea14d54794b7e654"
+    },
+    {
+      "path": "dataset_clean/03_경안문/01. 건축물/kbui_gb_fhd_03_m_017.jpg",
+      "label": 2,
+      "split": "train",
+      "group": "group_0109",
+      "source": "original",
+      "sha256": "574db2de450b8613aeb23b45e1c3827b6cf4b80df163b53eb8914e926f8f65ea"
+    },
+    {
+      "path": "dataset_clean/03_경안문/01. 건축물/kbui_gb_fhd_03_m_027.jpg",
+      "label": 2,
+      "split": "train",
+      "group": "group_0135",
+      "source": "original",
+      "sha256": "e961e27cae012b598e907738dead2f305a5ebbfa7011d6b54d56242979bbe1f9"
+    },
+    {
+      "path": "dataset_clean/03_경안문/01. 건축물/kbui_gb_fhd_03_m_030.jpg",
+      "label": 2,
+      "split": "train",
+      "group": "group_0138",
+      "source": "original",
+      "sha256": "b7be4b5375075b921cec125c89e347aff4c26e310ec74a9a114b20cf99ee90e4"
+    },
+    {
+      "path": "dataset_clean/04_인수문/01. 건축물/kbui_gb_fhd_04_m_034.jpg",
+      "label": 3,
+      "split": "train",
+      "group": "group_0142",
+      "source": "original",
+      "sha256": "29b97454a49ee175effb632ca9939d63106a8464610d757cd63a122afcbea9d0"
+    },
+    {
+      "path": "dataset_clean/04_인수문/01. 건축물/kbui_gb_fhd_04_m_028.jpg",
+      "label": 3,
+      "split": "train",
+      "group": "group_0142",
+      "source": "original",
+      "sha256": "8b9a95866c220146f6f77ec1a929f2298fdfdd1babeccb62cdca8e0757b4711e"
+    },
+    {
+      "path": "dataset_clean/04_인수문/01. 건축물/kbui_gb_fhd_04_m_030.jpg",
+      "label": 3,
+      "split": "train",
+      "group": "group_0142",
+      "source": "original",
+      "sha256": "6214ba7b72a03aa913ef1ebf30ba73ad2a95059ee049377d847004993743aa53"
+    },
+    {
+      "path": "dataset_clean/04_인수문/01. 건축물/kbui_gb_fhd_04_m_035.jpg",
+      "label": 3,
+      "split": "train",
+      "group": "group_0142",
+      "source": "original",
+      "sha256": "615ee31d691660a649d237c8237e9bbda7411b1f2375bec3514b02e6cfe701f0"
+    },
+    {
+      "path": "dataset_clean/05_공묵재/01. 건축물/kbui_gb_fhd_05_m_041.jpg",
+      "label": 4,
+      "split": "train",
+      "group": "group_0220",
+      "source": "original",
+      "sha256": "4171ada6eafdf29063d04b474cdc40a0dc0f28986664fd215ee3ed3b013a3656"
+    },
+    {
+      "path": "dataset_clean/05_공묵재/01. 건축물/kbui_gb_fhd_05_m_034.jpg",
+      "label": 4,
+      "split": "train",
+      "group": "group_0220",
+      "source": "original",
+      "sha256": "a101596ae5a3df0a324f286adb0c37ba7116b5c76e518dc8e7009e59ab22edd3"
+    },
+    {
+      "path": "dataset_clean/05_공묵재/01. 건축물/kbui_gb_fhd_05_m_045.jpg",
+      "label": 4,
+      "split": "train",
+      "group": "group_0227",
+      "source": "original",
+      "sha256": "d6fb25be1ac4a853bcd684f1cf8410eff0a747850033687a4edcfb58b2a29c5c"
+    },
+    {
+      "path": "dataset_clean/05_공묵재/01. 건축물/kbui_gb_fhd_05_m_037.jpg",
+      "label": 4,
+      "split": "train",
+      "group": "group_0220",
+      "source": "original",
+      "sha256": "6985f039ab4d0c7e815a53af9b9885a9fd43ba3f953dfa5cae073c0d74cb6e9a"
+    },
+    {
+      "path": "dataset_clean/06_숙문당/01. 건축물/kbui_gb_fhd_06_m_027.jpg",
+      "label": 5,
+      "split": "train",
+      "group": "group_0260",
+      "source": "original",
+      "sha256": "ab164ed7f07225458073d99c5ade7b7c7a77f7241f4d339d0d878aaafac7712a"
+    },
+    {
+      "path": "dataset_clean/06_숙문당/01. 건축물/kbui_gb_fhd_06_m_029.jpg",
+      "label": 5,
+      "split": "train",
+      "group": "group_0260",
+      "source": "original",
+      "sha256": "fe50603255e819e34d5df26ec074cf9daeb5a2b1c202225b458414c06017470f"
+    },
+    {
+      "path": "dataset_clean/06_숙문당/01. 건축물/kbui_gb_fhd_06_m_028.jpg",
+      "label": 5,
+      "split": "train",
+      "group": "group_0260",
+      "source": "original",
+      "sha256": "b5a61521927a88e9ff48b7082b278d3f42e03e50ae3b9fde53c4194d923a0f93"
+    },
+    {
+      "path": "dataset_clean/06_숙문당/01. 건축물/kbui_gb_fhd_06_m_035.jpg",
+      "label": 5,
+      "split": "train",
+      "group": "group_0266",
+      "source": "original",
+      "sha256": "fb3697948fc8d136a3d804bce35289137a85171e2735c86d770f5fd840f705d8"
+    },
+    {
+      "path": "dataset_clean/07_태원전/01. 건축물/kbui_gb_fhd_07_m_012.jpg",
+      "label": 6,
+      "split": "train",
+      "group": "group_0280",
+      "source": "original",
+      "sha256": "f27d072a5a7cd5a9a24f401556296a252450ea79009909cd2067bf2cb8b354c5"
+    },
+    {
+      "path": "dataset_clean/07_태원전/01. 건축물/kbui_gb_fhd_07_m_013.jpg",
+      "label": 6,
+      "split": "train",
+      "group": "group_0280",
+      "source": "original",
+      "sha256": "212f5f919afa5553aa3d109614c477ff6a518fbca555bca91458926d59e8d69c"
+    },
+    {
+      "path": "dataset_clean/07_태원전/01. 건축물/kbui_gb_fhd_07_m_086.jpg",
+      "label": 6,
+      "split": "train",
+      "group": "group_0366",
+      "source": "original",
+      "sha256": "39791dfe9efb0e1b05b34ec309636c01b24062c24b58baeefb5b261b92b99d39"
+    },
+    {
+      "path": "dataset_clean/07_태원전/01. 건축물/kbui_gb_fhd_07_m_061.jpg",
+      "label": 6,
+      "split": "train",
+      "group": "group_0342",
+      "source": "original",
+      "sha256": "aae540ba3d6817cd3b759723a7cae5885c8f9930b04a0ca5c2cac9db53e9a1ab"
+    },
+    {
+      "path": "dataset_clean/08_건길문/01. 건축물/kbui_gb_fhd_08_m_039.jpg",
+      "label": 7,
+      "split": "train",
+      "group": "group_0380",
+      "source": "original",
+      "sha256": "21c0f2c9722e25d5be2b67733841e2445aea044d8dd7f62bc3840f3ad09fae2f"
+    },
+    {
+      "path": "dataset_clean/08_건길문/01. 건축물/kbui_gb_fhd_08_m_011.jpg",
+      "label": 7,
+      "split": "train",
+      "group": "group_0381",
+      "source": "original",
+      "sha256": "2dd03291f2815dc84c51d9e239bfac7958fd7a1363e5d831ce70c81d97afed82"
+    },
+    {
+      "path": "dataset_clean/08_건길문/01. 건축물/kbui_gb_fhd_08_m_027.jpg",
+      "label": 7,
+      "split": "train",
+      "group": "group_0403",
+      "source": "original",
+      "sha256": "4923b138bfb20578e3a984025f3ab85ba5d7a01b3a5c36c11b7fd4a880ee2aa3"
+    },
+    {
+      "path": "dataset_clean/08_건길문/01. 건축물/kbui_gb_fhd_08_m_014.jpg",
+      "label": 7,
+      "split": "train",
+      "group": "group_0394",
+      "source": "original",
+      "sha256": "80b332c15e77c1b5e6803db6a0f6b2e0d950cb4ec0e74dd7d6139088490f2ef3"
+    },
+    {
+      "path": "dataset_clean/09_영사재/01. 건축물/kbui_gb_fhd_09_m_020.jpg",
+      "label": 8,
+      "split": "train",
+      "group": "group_0447",
+      "source": "original",
+      "sha256": "6f7703a22700dc1d3008bd6ab56ef2d4d6e53bac719f98794314d52a36039f1b"
+    },
+    {
+      "path": "dataset_clean/09_영사재/01. 건축물/kbui_gb_fhd_09_m_029.jpg",
+      "label": 8,
+      "split": "train",
+      "group": "group_0455",
+      "source": "original",
+      "sha256": "5d2fa551ce5e4f27168dce452d13a0f7c50eb9535f8883c71303eb36bc293728"
+    },
+    {
+      "path": "dataset_clean/09_영사재/01. 건축물/kbui_gb_fhd_09_f.jpg",
+      "label": 8,
+      "split": "train",
+      "group": "group_0426",
+      "source": "original",
+      "sha256": "e592e17a47e5e3e5e4f03062165ef516204d5f6396e50b10d38d00db5d6803dc"
+    },
+    {
+      "path": "dataset_clean/09_영사재/01. 건축물/kbui_gb_fhd_09_m_023.jpg",
+      "label": 8,
+      "split": "train",
+      "group": "group_0447",
+      "source": "original",
+      "sha256": "ae0a7dad01dd39d5d05676d8a189c64d6a423e7eb5f2b2ac9ffcade03d16aff5"
+    },
+    {
+      "path": "dataset_clean/10_보강문/01. 건축물/kbui_gb_fhd_10_m_036.jpg",
+      "label": 9,
+      "split": "train",
+      "group": "group_0463",
+      "source": "original",
+      "sha256": "e0b07519412c22f942324fb7d3b69f42d170631dc91aa5b006229ceefe2db19a"
+    },
+    {
+      "path": "dataset_clean/10_보강문/01. 건축물/kbui_gb_fhd_10_m_041.jpg",
+      "label": 9,
+      "split": "train",
+      "group": "group_0502",
+      "source": "original",
+      "sha256": "8d72c1312484a8896dde06d6167699468a3252855408b351a643d42b7fffd251"
+    },
+    {
+      "path": "dataset_clean/10_보강문/01. 건축물/kbui_gb_fhd_10_m_010.jpg",
+      "label": 9,
+      "split": "train",
+      "group": "group_0472",
+      "source": "original",
+      "sha256": "4300c9ba781fed259307f3ef2a8ed25ae694c8124d395c62e76bbd165001360f"
+    },
+    {
+      "path": "dataset_clean/10_보강문/01. 건축물/kbui_gb_fhd_10_m_046.jpg",
+      "label": 9,
+      "split": "train",
+      "group": "group_0463",
+      "source": "original",
+      "sha256": "b7b7146930cb46b420ff4bb97b97129ebfc92df05148cf0748ec3491b1122a72"
+    },
+    {
+      "path": "dataset_clean/11_홍경문/01. 건축물/kbui_gb_fhd_11_m_047.jpg",
+      "label": 10,
+      "split": "train",
+      "group": "group_0511",
+      "source": "original",
+      "sha256": "29babdd27d3671c8d02efdf465455b1b975cd716312b1b8e6ea9bbc9e64221c3"
+    },
+    {
+      "path": "dataset_clean/11_홍경문/01. 건축물/kbui_gb_fhd_11_m_037.jpg",
+      "label": 10,
+      "split": "train",
+      "group": "group_0510",
+      "source": "original",
+      "sha256": "4c65446d798608a10937a3998935e98f9cace03617e81ddfcf2fda7af6249421"
+    },
+    {
+      "path": "dataset_clean/11_홍경문/01. 건축물/kbui_gb_fhd_11_m_030.jpg",
+      "label": 10,
+      "split": "train",
+      "group": "group_0529",
+      "source": "original",
+      "sha256": "ee3d51b8236d68d1ff2c8cefd0fa30de2abbf6d16ff717390d9d348a08e8cf04"
+    },
+    {
+      "path": "dataset_clean/11_홍경문/01. 건축물/kbui_gb_fhd_11_m_010.jpg",
+      "label": 10,
+      "split": "train",
+      "group": "group_0514",
+      "source": "original",
+      "sha256": "f02bec4858b9e3051743890084dee8d759506809a72e8cc22389a3574b920a65"
+    },
+    {
+      "path": "dataset_clean/12_일중문/01. 건축물/kbui_gb_fhd_12_m_020.jpg",
+      "label": 11,
+      "split": "train",
+      "group": "group_0572",
+      "source": "original",
+      "sha256": "41edff9926abb99543e884c1a0b44fc2f98decc40e4e082ff6729db3f1999a7a"
+    },
+    {
+      "path": "dataset_clean/12_일중문/01. 건축물/kbui_gb_fhd_12_m_044.jpg",
+      "label": 11,
+      "split": "train",
+      "group": "group_0573",
+      "source": "original",
+      "sha256": "171c657d984bf82c31dd12e7eef80f608e913b423853ff48011f13f5dcc0f698"
+    },
+    {
+      "path": "dataset_clean/12_일중문/01. 건축물/kbui_gb_fhd_12_m_048.jpg",
+      "label": 11,
+      "split": "train",
+      "group": "group_0573",
+      "source": "original",
+      "sha256": "02588e1c94fb7e77029f8f15987e51b3b534a6044de568b6d8eded526e586ba2"
+    },
+    {
+      "path": "dataset_clean/12_일중문/01. 건축물/kbui_gb_fhd_12_m_060.jpg",
+      "label": 11,
+      "split": "train",
+      "group": "group_0573",
+      "source": "original",
+      "sha256": "556412056a30f66f14b996729f64f5c6b76adef9c8dbe869825610b6d2f5f936"
+    },
+    {
+      "path": "dataset_clean/13_필성문/01. 건축물/kbui_gb_fhd_13_m_044.jpg",
+      "label": 12,
+      "split": "train",
+      "group": "group_0682",
+      "source": "original",
+      "sha256": "01af4e35d552b950cde69c25cf3bc246f716636b65c246d69bd6604453446906"
+    },
+    {
+      "path": "dataset_clean/13_필성문/01. 건축물/kbui_gb_fhd_13_m_030.jpg",
+      "label": 12,
+      "split": "train",
+      "group": "group_0667",
+      "source": "original",
+      "sha256": "7650647b7a370f51783a1e8adc0802a4e06a52c9d1d99bcb5e752f41cad78bb4"
+    },
+    {
+      "path": "dataset_clean/13_필성문/01. 건축물/kbui_gb_fhd_13_m_035.jpg",
+      "label": 12,
+      "split": "train",
+      "group": "group_0671",
+      "source": "original",
+      "sha256": "62b53d67f15389446e6e46db8562bb652cf953a5186222305da99b3d8194e839"
+    },
+    {
+      "path": "dataset_clean/13_필성문/01. 건축물/kbui_gb_fhd_13_m_039.jpg",
+      "label": 12,
+      "split": "train",
+      "group": "group_0676",
+      "source": "original",
+      "sha256": "bdf3c07f236a222d31e19f60204e64483135986fc92d1b62242de7aa043a84d7"
+    },
+    {
+      "path": "dataset_clean/14_장안당/01. 건축물/kbui_gb_fhd_14_m_041.jpg",
+      "label": 13,
+      "split": "train",
+      "group": "group_0727",
+      "source": "original",
+      "sha256": "cfb4a80511aea31f926528c391ca9a9831e938130ef52dff104812451b9faa9c"
+    },
+    {
+      "path": "dataset_clean/14_장안당/01. 건축물/kbui_gb_fhd_14_m_057.jpg",
+      "label": 13,
+      "split": "train",
+      "group": "group_0727",
+      "source": "original",
+      "sha256": "1df35d522904fcdd15a20777e46685a141884675220eacbd99e45f3f9e7ab78b"
+    },
+    {
+      "path": "dataset_clean/14_장안당/01. 건축물/kbui_gb_fhd_14_m_059.jpg",
+      "label": 13,
+      "split": "train",
+      "group": "group_0686",
+      "source": "original",
+      "sha256": "77288ece03f55bce4b712b803705fa472f982a0640ac27afe1baa34717ab3220"
+    },
+    {
+      "path": "dataset_clean/14_장안당/01. 건축물/kbui_gb_fhd_14_m_014.jpg",
+      "label": 13,
+      "split": "train",
+      "group": "group_0693",
+      "source": "original",
+      "sha256": "e9eee427ca0b3ea8d467991c3ad0c783a5bbcbae62854cdf8cd1b6aaa5c8c864"
+    },
+    {
+      "path": "dataset_clean/15_초양문/01. 건축물/kbui_gb_fhd_15_f.jpg",
+      "label": 14,
+      "split": "train",
+      "group": "group_0758",
+      "source": "original",
+      "sha256": "38b28721e509d070582d030bf3556006b89e5a02570a50d5cd7707f340294908"
+    },
+    {
+      "path": "dataset_clean/15_초양문/01. 건축물/kbui_gb_fhd_15_m_011.jpg",
+      "label": 14,
+      "split": "train",
+      "group": "group_0763",
+      "source": "original",
+      "sha256": "83b7944ef88c3d19525b00d74383ddcfb0c5ea1f7df17f8466d2159e79c80274"
+    },
+    {
+      "path": "dataset_clean/15_초양문/01. 건축물/kbui_gb_fhd_15_m_009.jpg",
+      "label": 14,
+      "split": "train",
+      "group": "group_0763",
+      "source": "original",
+      "sha256": "5a07d3a664b753a4c27c1772356770f7cd87a45cd787648a602bfcaff4c9b393"
+    },
+    {
+      "path": "dataset_clean/15_초양문/01. 건축물/kbui_gb_fhd_15_m_025.jpg",
+      "label": 14,
+      "split": "train",
+      "group": "group_0784",
+      "source": "original",
+      "sha256": "8ad3241d31cfcc179bdbe4f389dc407223a946510b544b7aea06584643f24917"
+    },
+    {
+      "path": "dataset_clean/16_건청궁/01. 건축물/kbui_gb_fhd_16_m_035.jpg",
+      "label": 15,
+      "split": "train",
+      "group": "group_0842",
+      "source": "original",
+      "sha256": "28c29a1486fcea9af58ab2549f04922324e6757e4877fbee3dc6b839d4572e9b"
+    },
+    {
+      "path": "dataset_clean/16_건청궁/01. 건축물/kbui_gb_fhd_16_m_041.jpg",
+      "label": 15,
+      "split": "train",
+      "group": "group_0847",
+      "source": "original",
+      "sha256": "44f659d31cf4575f64f81693bd46ae517329dbf989f4448482740961baf6adec"
+    },
+    {
+      "path": "dataset_clean/16_건청궁/01. 건축물/kbui_gb_fhd_16_m_044.jpg",
+      "label": 15,
+      "split": "train",
+      "group": "group_0808",
+      "source": "original",
+      "sha256": "63e203d4b93fa225213d7638fc375272cd7f2c34f5b957c34ecf5791818e1328"
+    },
+    {
+      "path": "dataset_clean/16_건청궁/01. 건축물/kbui_gb_fhd_16_m_042.jpg",
+      "label": 15,
+      "split": "train",
+      "group": "group_0808",
+      "source": "original",
+      "sha256": "0110847f9bce50dd782e77e0f412b2a702d05396e31baa078c6ec27e937b1f0d"
+    },
+    {
+      "path": "dataset_clean/17_인유문/01. 건축물/kbui_gb_fhd_17_m_008.jpg",
+      "label": 16,
+      "split": "train",
+      "group": "group_0864",
+      "source": "original",
+      "sha256": "24cba5bf1441ac7ba67daefd30c5ae1723d505a1a25f71e95e0ce56fcb48f606"
+    },
+    {
+      "path": "dataset_clean/17_인유문/01. 건축물/kbui_gb_fhd_17_m_004.jpg",
+      "label": 16,
+      "split": "train",
+      "group": "group_0864",
+      "source": "original",
+      "sha256": "5e79bee5be9397dfdec32bcaed98156d46ce77017b02ddbe7cf2405abf1f2bf2"
+    },
+    {
+      "path": "dataset_clean/17_인유문/01. 건축물/kbui_gb_fhd_17_m_006.jpg",
+      "label": 16,
+      "split": "train",
+      "group": "group_0864",
+      "source": "original",
+      "sha256": "d93774360930bfdd7ae32b279448599e60fa858a9b9bb3235e8b59e691af717e"
+    },
+    {
+      "path": "dataset_clean/17_인유문/01. 건축물/kbui_gb_fhd_17_f.jpg",
+      "label": 16,
+      "split": "train",
+      "group": "group_0864",
+      "source": "original",
+      "sha256": "e83889bc034248968f424c0f897bfaa203e5aa0c41e6e618f2495e4585c303bf"
+    },
+    {
+      "path": "dataset_clean/18_정시합/01. 건축물/kbui_gb_fhd_18_m_013.jpg",
+      "label": 17,
+      "split": "train",
+      "group": "group_0898",
+      "source": "original",
+      "sha256": "ba90c404dbe8330fe66d3c10cd418b52f1f40fa7b07276a69ab83647da7d5cde"
+    },
+    {
+      "path": "dataset_clean/18_정시합/01. 건축물/kbui_gb_fhd_18_m_022.jpg",
+      "label": 17,
+      "split": "train",
+      "group": "group_0905",
+      "source": "original",
+      "sha256": "d892a68f26ddcde3f25bd599420667c46a1d4ab6596583bb9edb2ddecda3541a"
+    },
+    {
+      "path": "dataset_clean/18_정시합/01. 건축물/kbui_gb_fhd_18_m_011.jpg",
+      "label": 17,
+      "split": "train",
+      "group": "group_0895",
+      "source": "original",
+      "sha256": "be0af6a41e8458747104cd8f804c9ccb6f30982d4837af023c52edb3fd145d9c"
+    },
+    {
+      "path": "dataset_clean/18_정시합/01. 건축물/kbui_gb_fhd_18_b.jpg",
+      "label": 17,
+      "split": "train",
+      "group": "group_0883",
+      "source": "original",
+      "sha256": "4c3fffe599ae88021176919a7148081e49957c7cca5ec55aec4b8cc1c9f00a69"
+    },
+    {
+      "path": "dataset_clean/19_복수당/01. 건축물/kbui_gb_fhd_19_m_054.jpg",
+      "label": 18,
+      "split": "train",
+      "group": "group_0936",
+      "source": "original",
+      "sha256": "7a4b037b3a62af6e8b51121b622ae563b8cf6644504a3de3ac249045674c5784"
+    },
+    {
+      "path": "dataset_clean/19_복수당/01. 건축물/kbui_gb_fhd_19_m_047.jpg",
+      "label": 18,
+      "split": "train",
+      "group": "group_0984",
+      "source": "original",
+      "sha256": "90e27a0ce46a1ca166a2fda1bbabcd6150150bd311aad1e47db5abb3eade93ea"
+    },
+    {
+      "path": "dataset_clean/19_복수당/01. 건축물/kbui_gb_fhd_19_m_049.jpg",
+      "label": 18,
+      "split": "train",
+      "group": "group_0936",
+      "source": "original",
+      "sha256": "36a4baec5f4b651bbf03391e787f2a04fdb20c56eda99c48e48cb19417bf56da"
+    },
+    {
+      "path": "dataset_clean/19_복수당/01. 건축물/kbui_gb_fhd_19_m_028.jpg",
+      "label": 18,
+      "split": "train",
+      "group": "group_0961",
+      "source": "original",
+      "sha256": "8af2646b316d633e447b20cc3635831850d95a8d52e0f85f25ebc867be24f1c3"
+    },
+    {
+      "path": "dataset_clean/20_녹금당/01. 건축물/kbui_gb_fhd_20_m_070.jpg",
+      "label": 19,
+      "split": "train",
+      "group": "group_1028",
+      "source": "original",
+      "sha256": "3b1d853e35c87979491f85eba8ded7ecfc16a02c6cdf23f6f2c6025fe08ae50f"
+    },
+    {
+      "path": "dataset_clean/20_녹금당/01. 건축물/kbui_gb_fhd_20_m_024.jpg",
+      "label": 19,
+      "split": "train",
+      "group": "group_1034",
+      "source": "original",
+      "sha256": "2e0c6d4326d4e3b5dc2cc311a9486840afa4059042c86e92b87b9fd1982cde3c"
+    },
+    {
+      "path": "dataset_clean/20_녹금당/01. 건축물/kbui_gb_fhd_20_m_085.jpg",
+      "label": 19,
+      "split": "train",
+      "group": "group_1093",
+      "source": "original",
+      "sha256": "3cff1d9fd664764b800d2f6acb2710ce4b2ad3e0d2050bc9453ca0ed36ea023e"
+    },
+    {
+      "path": "dataset_clean/20_녹금당/01. 건축물/kbui_gb_fhd_20_m_020.jpg",
+      "label": 19,
+      "split": "train",
+      "group": "group_1030",
+      "source": "original",
+      "sha256": "b0a0eac419d8a3749e6fdcb169d5b268b584432724d98e09fe524918dbe89455"
+    },
+    {
+      "path": "dataset_clean/21_곤녕합/01. 건축물/kbui_gb_fhd_21_m_032.jpg",
+      "label": 20,
+      "split": "train",
+      "group": "group_1153",
+      "source": "original",
+      "sha256": "fd1d26e50ffbb635b8945b6740b35f466793aa97fd26321a745cad7f76b4e29c"
+    },
+    {
+      "path": "dataset_clean/21_곤녕합/01. 건축물/kbui_gb_fhd_21_m_019.jpg",
+      "label": 20,
+      "split": "train",
+      "group": "group_1139",
+      "source": "original",
+      "sha256": "9faa9eeedad7cdf2bd2a816a88ef3cf8f9928ebf5473bbf1847c9246bc6192f5"
+    },
+    {
+      "path": "dataset_clean/21_곤녕합/01. 건축물/kbui_gb_fhd_21_f.jpg",
+      "label": 20,
+      "split": "train",
+      "group": "group_1120",
+      "source": "original",
+      "sha256": "59f4cddcf383b27c6f53776d8d9ee1b1d094ad1919bf511ffe579590dfd9fa15"
+    },
+    {
+      "path": "dataset_clean/21_곤녕합/01. 건축물/kbui_gb_fhd_21_m_014.jpg",
+      "label": 20,
+      "split": "train",
+      "group": "group_1120",
+      "source": "original",
+      "sha256": "1c361b512aaaec03d077105bf86377a8e26986b6e0963037902eb409e22630fc"
+    },
+    {
+      "path": "dataset_clean/22_협길당/01. 건축물/kbui_gb_fhd_22_m_008.jpg",
+      "label": 21,
+      "split": "train",
+      "group": "group_1177",
+      "source": "original",
+      "sha256": "8a9449a0ed9921ffe18abb7b1ecfa87ebb2abd51c7d94959071e678441bf4397"
+    },
+    {
+      "path": "dataset_clean/22_협길당/01. 건축물/kbui_gb_fhd_22_m_052.jpg",
+      "label": 21,
+      "split": "train",
+      "group": "group_1222",
+      "source": "original",
+      "sha256": "50ccff232b6a575096d70ea5f7a90c12a60c00cd60af275ec5ece9b9592a1e99"
+    },
+    {
+      "path": "dataset_clean/22_협길당/01. 건축물/kbui_gb_fhd_22_m_018.jpg",
+      "label": 21,
+      "split": "train",
+      "group": "group_1171",
+      "source": "original",
+      "sha256": "26ee324c070978214a820815fb8a6d756949168b35cfeb0c57d2a5318d727d84"
+    },
+    {
+      "path": "dataset_clean/22_협길당/01. 건축물/kbui_gb_fhd_22_m_039.jpg",
+      "label": 21,
+      "split": "train",
+      "group": "group_1209",
+      "source": "original",
+      "sha256": "bf4a05f16a69aece13355d75e29aede71df4c4e028956884288c80d472c4a160"
+    },
+    {
+      "path": "dataset_clean/23_집옥재/01. 건축물/kbui_gb_fhd_23_m_055.jpg",
+      "label": 22,
+      "split": "train",
+      "group": "group_1248",
+      "source": "original",
+      "sha256": "d9c7340861af22d984a6cbacb210175458ab72602d652b2dd904c3f860884d40"
+    },
+    {
+      "path": "dataset_clean/23_집옥재/01. 건축물/kbui_gb_fhd_23_m_024.jpg",
+      "label": 22,
+      "split": "train",
+      "group": "group_1271",
+      "source": "original",
+      "sha256": "cc2d6f61c24a1ebd87864848114105187ef5501790ca9f3192252388201b7af3"
+    },
+    {
+      "path": "dataset_clean/23_집옥재/01. 건축물/kbui_gb_fhd_23_m_016.jpg",
+      "label": 22,
+      "split": "train",
+      "group": "group_1271",
+      "source": "original",
+      "sha256": "e5faf5a32c1461c2f4058d1f5003e4c4a715a2179e477599ef3dbb5ab93778fc"
+    },
+    {
+      "path": "dataset_clean/23_집옥재/01. 건축물/kbui_gb_fhd_23_m_018.jpg",
+      "label": 22,
+      "split": "train",
+      "group": "group_1271",
+      "source": "original",
+      "sha256": "2c47e659e69a9c657ac16f7b2d3aa31f298d0710f0a9897d3edfe7d5a48d08b5"
+    },
+    {
+      "path": "dataset_clean/24_향원정/01. 건축물/kbui_gb_fhd_24_m_021.jpg",
+      "label": 23,
+      "split": "train",
+      "group": "group_1330",
+      "source": "original",
+      "sha256": "c9dec48246bb005543a72c1fad190004920fc79f753028552855e945cf4d1735"
+    },
+    {
+      "path": "dataset_clean/24_향원정/01. 건축물/kbui_gb_fhd_24_m_052.jpg",
+      "label": 23,
+      "split": "train",
+      "group": "group_1359",
+      "source": "original",
+      "sha256": "e14240ef00ea5495e9dfca5a49b87a5ca7f75c74bd61b2b8020115f484d14979"
+    },
+    {
+      "path": "dataset_clean/24_향원정/01. 건축물/kbui_gb_fhd_24_m_158.jpg",
+      "label": 23,
+      "split": "train",
+      "group": "group_1335",
+      "source": "original",
+      "sha256": "bf8a59aa2c7eb938a8bd11caf722dc51fba1574f97f44a34a62f7c1b78d3ffd6"
+    },
+    {
+      "path": "dataset_clean/24_향원정/01. 건축물/kbui_gb_fhd_24_m_120.jpg",
+      "label": 23,
+      "split": "train",
+      "group": "group_1319",
+      "source": "original",
+      "sha256": "f0554daaa6755866a469ba2a65032d1ea6fe5c26e363c44fddf5f21ec7dba0eb"
+    },
+    {
+      "path": "dataset_clean/25_경회루/01. 건축물/kbui_gb_fhd_25_m_021.jpg",
+      "label": 24,
+      "split": "train",
+      "group": "group_1488",
+      "source": "original",
+      "sha256": "caf72380c91c3d8dfa07ad0b554754d437d2e4cd3d1b5fab4522d2781ce87bcc"
+    },
+    {
+      "path": "dataset_clean/25_경회루/01. 건축물/kbui_gb_fhd_25_m_034.jpg",
+      "label": 24,
+      "split": "train",
+      "group": "group_1488",
+      "source": "original",
+      "sha256": "0aafbf9c3f97879c5250c2d2bd12636c2f924a1d6bd039b8fcb65991842f2ff0"
+    },
+    {
+      "path": "dataset_clean/25_경회루/01. 건축물/kbui_gb_fhd_25_m_069.jpg",
+      "label": 24,
+      "split": "train",
+      "group": "group_1558",
+      "source": "original",
+      "sha256": "ee29f179c4294e66b034c7fb883e1e0294ad06e7c317b6b330e5300e16ccc0b4"
+    },
+    {
+      "path": "dataset_clean/25_경회루/01. 건축물/kbui_gb_fhd_25_m_004.jpg",
+      "label": 24,
+      "split": "train",
+      "group": "group_1492",
+      "source": "original",
+      "sha256": "19ed5600a6ae35bc9cf24b325fa06faa851d0bcec75f84b13715781db116267d"
+    },
+    {
+      "path": "dataset_clean/26_수정전/01. 건축물/kbui_gb_fhd_26_m_014.jpg",
+      "label": 25,
+      "split": "train",
+      "group": "group_1593",
+      "source": "original",
+      "sha256": "2bc08431c0ddd1d4df60749a197d2d5aabe9d788f093a10c9f8cd59922636028"
+    },
+    {
+      "path": "dataset_clean/26_수정전/01. 건축물/kbui_gb_fhd_26_m_040.jpg",
+      "label": 25,
+      "split": "train",
+      "group": "group_1626",
+      "source": "original",
+      "sha256": "c59af917227364234cda2d620ba7e9e8dd346ccc1fd0307a48e27afe1f041ab9"
+    },
+    {
+      "path": "dataset_clean/26_수정전/01. 건축물/kbui_gb_fhd_26_m_022.jpg",
+      "label": 25,
+      "split": "train",
+      "group": "group_1608",
+      "source": "original",
+      "sha256": "9e526742488ad34226ce62be9be97f5589a64d9d7eba5d1554b3807aca814be6"
+    },
+    {
+      "path": "dataset_clean/26_수정전/01. 건축물/kbui_gb_fhd_26_m_001.jpg",
+      "label": 25,
+      "split": "train",
+      "group": "group_1593",
+      "source": "original",
+      "sha256": "1aa946d1be181139bdff38a34f4091a4758b41ebf035c2d14cc5ed54d79b9451"
+    },
+    {
+      "path": "dataset_clean/27_함화당/01. 건축물/kbui_gb_fhd_27_m_001.jpg",
+      "label": 26,
+      "split": "train",
+      "group": "group_1642",
+      "source": "original",
+      "sha256": "2b15d5ec7b180f4392a7c1814aa1df8c59eb19cad11716c7841d73f6393e0beb"
+    },
+    {
+      "path": "dataset_clean/27_함화당/01. 건축물/kbui_gb_fhd_27_m_009.jpg",
+      "label": 26,
+      "split": "train",
+      "group": "group_1638",
+      "source": "original",
+      "sha256": "ea3098d564908e177f974a79d1794056f1a55485537eca545bcea930cb221e14"
+    },
+    {
+      "path": "dataset_clean/27_함화당/01. 건축물/kbui_gb_fhd_27_m_031.jpg",
+      "label": 26,
+      "split": "train",
+      "group": "group_1665",
+      "source": "original",
+      "sha256": "860153442a5870e36fe0e7943d7af724c9c0e46ee964dc1daf1e08dc48c575f5"
+    },
+    {
+      "path": "dataset_clean/27_함화당/01. 건축물/kbui_gb_fhd_27_m_027.jpg",
+      "label": 26,
+      "split": "train",
+      "group": "group_1665",
+      "source": "original",
+      "sha256": "1cf427919e7f6f81c43e43509eb48d78a84de46fb652902e338bac1720c4868b"
+    },
+    {
+      "path": "dataset_clean/28_흥복전/01. 건축물/kbui_gb_fhd_28_m_020.jpg",
+      "label": 27,
+      "split": "train",
+      "group": "group_1719",
+      "source": "original",
+      "sha256": "cc25fd8d1c9a2c931bd4d88f1a0bcdc041e492f4f2cde86de27be481d0932335"
+    },
+    {
+      "path": "dataset_clean/28_흥복전/01. 건축물/kbui_gb_fhd_28_m_053.jpg",
+      "label": 27,
+      "split": "train",
+      "group": "group_1751",
+      "source": "original",
+      "sha256": "78a366445ae921803fc8c44de15852c1b1b632c587f26d4bbe80c0c8955758a4"
+    },
+    {
+      "path": "dataset_clean/28_흥복전/01. 건축물/kbui_gb_fhd_28_m_016.jpg",
+      "label": 27,
+      "split": "train",
+      "group": "group_1719",
+      "source": "original",
+      "sha256": "63ba25f8901f95b6dff8ff9be403f25bbda68fb0e38227424244d88ea12bf29a"
+    },
+    {
+      "path": "dataset_clean/28_흥복전/01. 건축물/kbui_gb_fhd_28_m_079.jpg",
+      "label": 27,
+      "split": "train",
+      "group": "group_1778",
+      "source": "original",
+      "sha256": "a1e9249d593942b09675616acc46ee6ac4224f9d52ead20b5907de4f3ac96cb2"
+    },
+    {
+      "path": "dataset_clean/29_함원전/01. 건축물/kbui_gb_fhd_29_m_053.jpg",
+      "label": 28,
+      "split": "train",
+      "group": "group_1798",
+      "source": "original",
+      "sha256": "ca20e2905f7c6f4bac5f054ed35cea0935788f7ac99ba719d235ef9db19cd10e"
+    },
+    {
+      "path": "dataset_clean/29_함원전/01. 건축물/kbui_gb_fhd_29_m_037.jpg",
+      "label": 28,
+      "split": "train",
+      "group": "group_1798",
+      "source": "original",
+      "sha256": "25c5bd15de6f2b2a8e0b5d5199c83ab1d178547f40ddda9d40b6ba84ac222773"
+    },
+    {
+      "path": "dataset_clean/29_함원전/01. 건축물/kbui_gb_fhd_29_m_019.jpg",
+      "label": 28,
+      "split": "train",
+      "group": "group_1798",
+      "source": "original",
+      "sha256": "906f9135438df7b92ab3d5c6ce47b2d3c6b5a40055337c037566f99a37474a01"
+    },
+    {
+      "path": "dataset_clean/29_함원전/01. 건축물/kbui_gb_fhd_29_m_024.jpg",
+      "label": 28,
+      "split": "train",
+      "group": "group_1798",
+      "source": "original",
+      "sha256": "63766711a7a405d19cdf803963877313cb730ba362d9f5952edd6582b963ebf1"
+    },
+    {
+      "path": "dataset_clean/30_흠경각/01. 건축물/kbui_gb_fhd_30_m_033.jpg",
+      "label": 29,
+      "split": "train",
+      "group": "group_1897",
+      "source": "original",
+      "sha256": "f3d2abf9ea358b1a7417bf83e51df6baf8ffbf009b3f9df6a71967aabee81640"
+    },
+    {
+      "path": "dataset_clean/30_흠경각/01. 건축물/kbui_gb_fhd_30_m_048.jpg",
+      "label": 29,
+      "split": "train",
+      "group": "group_1903",
+      "source": "original",
+      "sha256": "f08012c903d8583b0f90af4396f0d3a2d24c216b256f146fa9e7e2012ac0240d"
+    },
+    {
+      "path": "dataset_clean/30_흠경각/01. 건축물/kbui_gb_fhd_30_m_025.jpg",
+      "label": 29,
+      "split": "train",
+      "group": "group_1883",
+      "source": "original",
+      "sha256": "0da0d900127b2a84884f0884268b34f6ccd43bac17b6e0d0f6abbc2d2b3c4641"
+    },
+    {
+      "path": "dataset_clean/30_흠경각/01. 건축물/kbui_gb_fhd_30_m_054.jpg",
+      "label": 29,
+      "split": "train",
+      "group": "group_1903",
+      "source": "original",
+      "sha256": "d9d778dc894497eba4168878d205428c8d097f58c1ae0a0413a0a56be8fc931d"
+    },
+    {
+      "path": "dataset_clean/31_근정전/01. 건축물/kbui_gb_fhd_31_m_083.jpg",
+      "label": 30,
+      "split": "train",
+      "group": "group_2005",
+      "source": "original",
+      "sha256": "6def8c7fe5649f3f95f87417e6ae035d895ad7c103d15a5dd8701150306d2414"
+    },
+    {
+      "path": "dataset_clean/31_근정전/01. 건축물/kbui_gb_fhd_31_m_032.jpg",
+      "label": 30,
+      "split": "train",
+      "group": "group_1954",
+      "source": "original",
+      "sha256": "2235a2ad9af63ee1f793a1729ef79ad7d2ca634611e0c35eb8bc2aa20261d23f"
+    },
+    {
+      "path": "dataset_clean/31_근정전/01. 건축물/kbui_gb_fhd_31_m_014.jpg",
+      "label": 30,
+      "split": "train",
+      "group": "group_1980",
+      "source": "original",
+      "sha256": "a699fb31c8e82d05addaffb52ed12f440dbecceebd84a4609cbaaf75c77fcf7e"
+    },
+    {
+      "path": "dataset_clean/31_근정전/01. 건축물/kbui_gb_fhd_31_m_066.jpg",
+      "label": 30,
+      "split": "train",
+      "group": "group_1980",
+      "source": "original",
+      "sha256": "be8dcbdfe36d3dd3f61eb36a2a3f992973185a0335b4ce027b1a234c10e4697b"
+    },
+    {
+      "path": "dataset_clean/32_용성문/01. 건축물/kbui_gb_fhd_32_m_018.jpg",
+      "label": 31,
+      "split": "train",
+      "group": "group_2019",
+      "source": "original",
+      "sha256": "b4d99527e340ae7133a4d5541a66f406a41ce7375b4dcd5670c6dd85474a6599"
+    },
+    {
+      "path": "dataset_clean/32_용성문/01. 건축물/kbui_gb_fhd_32_m_013.jpg",
+      "label": 31,
+      "split": "train",
+      "group": "group_2019",
+      "source": "original",
+      "sha256": "48a658c955801c490a56f19eb0a773c190b5fda97c2765a31696e3e64a8d7a0d"
+    },
+    {
+      "path": "dataset_clean/32_용성문/01. 건축물/kbui_gb_fhd_32_m_029.jpg",
+      "label": 31,
+      "split": "train",
+      "group": "group_2039",
+      "source": "original",
+      "sha256": "7a0267b2e53f5737c2331cae5fc557ceffeaf13ad27b583385aeaa55fa960e62"
+    },
+    {
+      "path": "dataset_clean/32_용성문/01. 건축물/kbui_gb_fhd_32_m_003.jpg",
+      "label": 31,
+      "split": "train",
+      "group": "group_2012",
+      "source": "original",
+      "sha256": "5e1b40e08b3d15ea33a6919c8dd5ca5572e9a530b9423a6c194f44ede16a3e9a"
+    },
+    {
+      "path": "dataset_clean/33_협생문/01. 건축물/kbui_gb_fhd_33_m_022.jpg",
+      "label": 32,
+      "split": "train",
+      "group": "group_2065",
+      "source": "original",
+      "sha256": "b1dc0120915e8bfa4cc245df96ede1540c5a15093a719e9c57e749397b979a68"
+    },
+    {
+      "path": "dataset_clean/33_협생문/01. 건축물/kbui_gb_fhd_33_m_020.jpg",
+      "label": 32,
+      "split": "train",
+      "group": "group_2065",
+      "source": "original",
+      "sha256": "2c93ff794d82890b96051afc280e8a5a15706cfe709ecaca1011d81357536749"
+    },
+    {
+      "path": "dataset_clean/33_협생문/01. 건축물/kbui_gb_fhd_33_m_002.jpg",
+      "label": 32,
+      "split": "train",
+      "group": "group_2065",
+      "source": "original",
+      "sha256": "6a100042512cdbb18e0abdfd2923f74323badc68abb37f9347dbf0f9505041c7"
+    },
+    {
+      "path": "dataset_clean/33_협생문/01. 건축물/kbui_gb_fhd_33_m_021.jpg",
+      "label": 32,
+      "split": "train",
+      "group": "group_2065",
+      "source": "original",
+      "sha256": "4ddd4307ef1053f5ae1ef698b472a4e4f0facfa19ddf98d4f98c64756af28c96"
+    },
+    {
+      "path": "dataset_clean/34_유화문/01. 건축물/kbui_gb_fhd_34_m_034.jpg",
+      "label": 33,
+      "split": "train",
+      "group": "group_2120",
+      "source": "original",
+      "sha256": "08c36d25d542848a0e48cddca123a45b101ec7207210127ed70c4b9ed8e5f280"
+    },
+    {
+      "path": "dataset_clean/34_유화문/01. 건축물/kbui_gb_fhd_34_m_029.jpg",
+      "label": 33,
+      "split": "train",
+      "group": "group_2114",
+      "source": "original",
+      "sha256": "d9c0731dca2e46cd3c26f7107512c4bcab4985c26278116d7b3f255d8e78265e"
+    },
+    {
+      "path": "dataset_clean/34_유화문/01. 건축물/kbui_gb_fhd_34_m_076.jpg",
+      "label": 33,
+      "split": "train",
+      "group": "group_2162",
+      "source": "original",
+      "sha256": "f909ce491932acf709c9007f8a725ac5566fbe1ab46b85633b4b3c3e1babbb95"
+    },
+    {
+      "path": "dataset_clean/34_유화문/01. 건축물/kbui_gb_fhd_34_m_051.jpg",
+      "label": 33,
+      "split": "train",
+      "group": "group_2085",
+      "source": "original",
+      "sha256": "e8c9c8871c20e576ce4c8c32896c1f3a4a96942480f2dfe44228800dedf68d9f"
+    },
+    {
+      "path": "dataset_clean/35_기별청/01. 건축물/kbui_gb_fhd_35_m_021.jpg",
+      "label": 34,
+      "split": "train",
+      "group": "group_2187",
+      "source": "original",
+      "sha256": "fbc4358c96783bfe25108fe2c2ad4bd3c2cb6d2ae3c6d2007ba3aba8b78d58b0"
+    },
+    {
+      "path": "dataset_clean/35_기별청/01. 건축물/kbui_gb_fhd_35_m_001.jpg",
+      "label": 34,
+      "split": "train",
+      "group": "group_2166",
+      "source": "original",
+      "sha256": "4caa8f2cda562bb45345becb5ff2562ecceae61de69f21a5c1b07f0a263238ed"
+    },
+    {
+      "path": "dataset_clean/35_기별청/01. 건축물/kbui_gb_fhd_35_m_007.jpg",
+      "label": 34,
+      "split": "train",
+      "group": "group_2166",
+      "source": "original",
+      "sha256": "7d8cc6ede2ec375edc5f3f09092022ab16a310b7fb40386c6a424aecd72b5baa"
+    },
+    {
+      "path": "dataset_clean/35_기별청/01. 건축물/kbui_gb_fhd_35_m_005.jpg",
+      "label": 34,
+      "split": "train",
+      "group": "group_2166",
+      "source": "original",
+      "sha256": "deab454f2c9b945c05e5a7bd65f0653ad449b5266236c2eb581a13e665d53082"
+    },
+    {
+      "path": "dataset_clean/36_교태전/01. 건축물/kbui_gb_fhd_36_m_034.jpg",
+      "label": 35,
+      "split": "train",
+      "group": "group_2226",
+      "source": "original",
+      "sha256": "a03d68182aefb59314b9b47f4288fdd96f82b93a99258e79c38b6c9345de7b5d"
+    },
+    {
+      "path": "dataset_clean/36_교태전/01. 건축물/kbui_gb_fhd_36_m_051.jpg",
+      "label": 35,
+      "split": "train",
+      "group": "group_2243",
+      "source": "original",
+      "sha256": "27a1530a2f790068190d6e7d37d010a5d0b9516e663260b08e696ed9b74de531"
+    },
+    {
+      "path": "dataset_clean/36_교태전/01. 건축물/kbui_gb_fhd_36_b.jpg",
+      "label": 35,
+      "split": "train",
+      "group": "group_2192",
+      "source": "original",
+      "sha256": "38ac535e0282ba3c0e23e76e69d7d653bf483e6a5550019f9f6921c73c7a3400"
+    },
+    {
+      "path": "dataset_clean/36_교태전/01. 건축물/kbui_gb_fhd_36_m_058.jpg",
+      "label": 35,
+      "split": "train",
+      "group": "group_2251",
+      "source": "original",
+      "sha256": "b17aca68dc7f17bbff098c9332994287e554f9b2776e4785dca45f1ffdff2880"
+    },
+    {
+      "path": "dataset_clean/37_양의문/01. 건축물/kbui_gb_fhd_37_m_002.jpg",
+      "label": 36,
+      "split": "train",
+      "group": "group_2260",
+      "source": "original",
+      "sha256": "f0ea5accbc2c07232ed44ae0dbd2d5b13fd350de30fe7471d23c3f264e9cc546"
+    },
+    {
+      "path": "dataset_clean/37_양의문/01. 건축물/kbui_gb_fhd_37_m_015.jpg",
+      "label": 36,
+      "split": "train",
+      "group": "group_2271",
+      "source": "original",
+      "sha256": "9311372ad1f470f53f72f33707f15d23795ddf70e11f4e442d2cb6293e104e6c"
+    },
+    {
+      "path": "dataset_clean/37_양의문/01. 건축물/kbui_gb_fhd_37_m_027.jpg",
+      "label": 36,
+      "split": "train",
+      "group": "group_2287",
+      "source": "original",
+      "sha256": "d3874212812a2104256d3ca8cfb0899cbdc8a30f27b7794b6cb77e95356ad19b"
+    },
+    {
+      "path": "dataset_clean/37_양의문/01. 건축물/kbui_gb_fhd_37_m_005.jpg",
+      "label": 36,
+      "split": "train",
+      "group": "group_2264",
+      "source": "original",
+      "sha256": "565625aca2f62095b3d112ff4f116131225eb3ea60d26110aaaf59d4e3260ed8"
+    },
+    {
+      "path": "dataset_clean/38_경성전/01. 건축물/kbui_gb_fhd_38_m_053.jpg",
+      "label": 37,
+      "split": "train",
+      "group": "group_2299",
+      "source": "original",
+      "sha256": "a32210482a224beeca814688daac150f3dc27dc51c9b1f1d430284be51af398a"
+    },
+    {
+      "path": "dataset_clean/38_경성전/01. 건축물/kbui_gb_fhd_38_m_009.jpg",
+      "label": 37,
+      "split": "train",
+      "group": "group_2298",
+      "source": "original",
+      "sha256": "084f9cab8d7161d82650af8d00f367339e83b197559f638d2d963dcfbb33ac3e"
+    },
+    {
+      "path": "dataset_clean/38_경성전/01. 건축물/kbui_gb_fhd_38_m_024.jpg",
+      "label": 37,
+      "split": "train",
+      "group": "group_2316",
+      "source": "original",
+      "sha256": "e963fd08fa1a5be623913b08fb81e12ddd05db4f154b29188e3ecc42792e1e75"
+    },
+    {
+      "path": "dataset_clean/38_경성전/01. 건축물/kbui_gb_fhd_38_m_023.jpg",
+      "label": 37,
+      "split": "train",
+      "group": "group_2316",
+      "source": "original",
+      "sha256": "2a9a4a4c9ac97aa56ce4efb3d8ac44b66627c6e8094727c1436c1a58eff82ef6"
+    },
+    {
+      "path": "dataset_clean/39_응지당/01. 건축물/kbui_gb_fhd_39_m_036.jpg",
+      "label": 38,
+      "split": "train",
+      "group": "group_2419",
+      "source": "original",
+      "sha256": "dadcd9650849a3880058fa43e265b244bdaee6122ff5a598d69eef0e41e478e8"
+    },
+    {
+      "path": "dataset_clean/39_응지당/01. 건축물/kbui_gb_fhd_39_m_040.jpg",
+      "label": 38,
+      "split": "train",
+      "group": "group_2422",
+      "source": "original",
+      "sha256": "7a1a3669afccc07ff7d884f782d127958378e06bd18dcd3e8b8de22b527a3180"
+    },
+    {
+      "path": "dataset_clean/39_응지당/01. 건축물/kbui_gb_fhd_39_m_043.jpg",
+      "label": 38,
+      "split": "train",
+      "group": "group_2422",
+      "source": "original",
+      "sha256": "43b4b07d91d136b8096a4d6836b57c917cf191d06a15d1e96b9845416e8505bf"
+    },
+    {
+      "path": "dataset_clean/39_응지당/01. 건축물/kbui_gb_fhd_39_m_002.jpg",
+      "label": 38,
+      "split": "train",
+      "group": "group_2384",
+      "source": "original",
+      "sha256": "b4f8592e019580493d93138f796b1b8a0560d03e7613de32d664e43388d76fda"
+    },
+    {
+      "path": "dataset_clean/40_강녕전/01. 건축물/kbui_gb_fhd_40_m_036.jpg",
+      "label": 39,
+      "split": "train",
+      "group": "group_2464",
+      "source": "original",
+      "sha256": "50283b5460cbc067f1f31b89c6f145169431f869fe67df5395cca303f56ea91f"
+    },
+    {
+      "path": "dataset_clean/40_강녕전/01. 건축물/kbui_gb_fhd_40_m_017.jpg",
+      "label": 39,
+      "split": "train",
+      "group": "group_2452",
+      "source": "original",
+      "sha256": "14c2b3e3ad675e2674ba543ccc3cfb70be0c6195d264f160a6cc23e9e9733f31"
+    },
+    {
+      "path": "dataset_clean/40_강녕전/01. 건축물/kbui_gb_fhd_40_m_014.jpg",
+      "label": 39,
+      "split": "train",
+      "group": "group_2452",
+      "source": "original",
+      "sha256": "cd891d8a6cca5f0d7a4553d5b035e3105afb6d80e67def1155af9d04d702a413"
+    },
+    {
+      "path": "dataset_clean/40_강녕전/01. 건축물/kbui_gb_fhd_40_m_038.jpg",
+      "label": 39,
+      "split": "train",
+      "group": "group_2464",
+      "source": "original",
+      "sha256": "df74344f952026483a6baad19346132fb83690c5311e334c6406ef516e28cb52"
+    },
+    {
+      "path": "dataset_clean/41_만춘전/01. 건축물/kbui_gb_fhd_41_m_002.jpg",
+      "label": 40,
+      "split": "train",
+      "group": "group_2518",
+      "source": "original",
+      "sha256": "524c9430a8291b1d8676b73ccd8b53ad781b1823b6f7fc0b5d783f5a3badcdad"
+    },
+    {
+      "path": "dataset_clean/41_만춘전/01. 건축물/kbui_gb_fhd_41_m_003.jpg",
+      "label": 40,
+      "split": "train",
+      "group": "group_2518",
+      "source": "original",
+      "sha256": "90d326cef4fe10b5d603f41d3c3e4b1dfa7bbd620656b4ab38ef41afc527254c"
+    },
+    {
+      "path": "dataset_clean/41_만춘전/01. 건축물/kbui_gb_fhd_41_m_057.jpg",
+      "label": 40,
+      "split": "train",
+      "group": "group_2572",
+      "source": "original",
+      "sha256": "6592a9ff075f2c19d387efdf4710f7a016924d6ffb3936ef6c7bda178d028647"
+    },
+    {
+      "path": "dataset_clean/41_만춘전/01. 건축물/kbui_gb_fhd_41_m_050.jpg",
+      "label": 40,
+      "split": "train",
+      "group": "group_2566",
+      "source": "original",
+      "sha256": "7a4d78f5d44fb9cfec514802947111a62db59faa7e8524a98cb9f2d1dce4964a"
+    },
+    {
+      "path": "dataset_clean/42_사정전/01. 건축물/kbui_gb_fhd_42_m_067.jpg",
+      "label": 41,
+      "split": "train",
+      "group": "group_2656",
+      "source": "original",
+      "sha256": "28e6004de3e1cb67fb1dfd6374c50a84c36000c4056d38291adf7534b32e2f6b"
+    },
+    {
+      "path": "dataset_clean/42_사정전/01. 건축물/kbui_gb_fhd_42_m_014.jpg",
+      "label": 41,
+      "split": "train",
+      "group": "group_2601",
+      "source": "original",
+      "sha256": "21860b290ddf4e333dccd09690e7c1a45e2fb00b3e51434249855732e1ea9a67"
+    },
+    {
+      "path": "dataset_clean/42_사정전/01. 건축물/kbui_gb_fhd_42_m_024.jpg",
+      "label": 41,
+      "split": "train",
+      "group": "group_2601",
+      "source": "original",
+      "sha256": "444d9aaf7d037dcf362116f5f2a683b64c3291b147aad3e631c810717360fe93"
+    },
+    {
+      "path": "dataset_clean/42_사정전/01. 건축물/kbui_gb_fhd_42_m_019.jpg",
+      "label": 41,
+      "split": "train",
+      "group": "group_2601",
+      "source": "original",
+      "sha256": "bac2dc5bf0dece88e11c6f6ea04c0525d6a203267bce495ea6c75dd5cf04b5ae"
+    },
+    {
+      "path": "dataset_clean/43_연길당/01. 건축물/kbui_gb_fhd_43_m_027.jpg",
+      "label": 42,
+      "split": "train",
+      "group": "group_2692",
+      "source": "original",
+      "sha256": "95d07531348c7ccee10a66996a38ed07b1a05e024a44845ca05a57ddcb94189d"
+    },
+    {
+      "path": "dataset_clean/43_연길당/01. 건축물/kbui_gb_fhd_43_m_034.jpg",
+      "label": 42,
+      "split": "train",
+      "group": "group_2698",
+      "source": "original",
+      "sha256": "5fcbb70080367800b39f6ced3cad399385409371c0a4946f513e7ef734deb3b4"
+    },
+    {
+      "path": "dataset_clean/43_연길당/01. 건축물/kbui_gb_fhd_43_m_040.jpg",
+      "label": 42,
+      "split": "train",
+      "group": "group_2705",
+      "source": "original",
+      "sha256": "9e450da6ca5067feef13d8a4fd8bd42cbe20d324b2fd032c8b2f776f724aa0a1"
+    },
+    {
+      "path": "dataset_clean/43_연길당/01. 건축물/kbui_gb_fhd_43_m_038.jpg",
+      "label": 42,
+      "split": "train",
+      "group": "group_2701",
+      "source": "original",
+      "sha256": "7a5c6f5e39760f1a3944ce09ed73c8d27d97278eb38d162c828c71588df6db83"
+    },
+    {
+      "path": "dataset_clean/44_연생전/01. 건축물/kbui_gb_fhd_44_m_036.jpg",
+      "label": 43,
+      "split": "train",
+      "group": "group_2754",
+      "source": "original",
+      "sha256": "12e4a52ab8406e0dc4eb330899412f46e9e383caea697d0bf0af2a31fe3cc71a"
+    },
+    {
+      "path": "dataset_clean/44_연생전/01. 건축물/kbui_gb_fhd_44_m_043.jpg",
+      "label": 43,
+      "split": "train",
+      "group": "group_2762",
+      "source": "original",
+      "sha256": "2c308760a01ef1c9965d7b9b3de902998b586dbc2dbc7404adc6d339d7e09a38"
+    },
+    {
+      "path": "dataset_clean/44_연생전/01. 건축물/kbui_gb_fhd_44_r.jpg",
+      "label": 43,
+      "split": "train",
+      "group": "group_2780",
+      "source": "original",
+      "sha256": "2cac93c7dd1cc626f1b8adb77e6b86a436bbcc370df247bba529ad76c87f5d18"
+    },
+    {
+      "path": "dataset_clean/44_연생전/01. 건축물/kbui_gb_fhd_44_m_044.jpg",
+      "label": 43,
+      "split": "train",
+      "group": "group_2762",
+      "source": "original",
+      "sha256": "7d7179f85df3de7ad980ffdc7725daff55ac726315a2e9e64bdf1567403dd311"
+    },
+    {
+      "path": "dataset_clean/45_근정문/01. 건축물/kbui_gb_fhd_45_m_014.jpg",
+      "label": 44,
+      "split": "train",
+      "group": "group_2824",
+      "source": "original",
+      "sha256": "741690b1f3a1d0b77fcccae81f2c826e6d0cdd6ae882db875fc77defde700fc4"
+    },
+    {
+      "path": "dataset_clean/45_근정문/01. 건축물/kbui_gb_fhd_45_m_002.jpg",
+      "label": 44,
+      "split": "train",
+      "group": "group_2815",
+      "source": "original",
+      "sha256": "814033559b8d58ee2ec58d36f6cbcf2105161e107dcd1690af6f2b8266ac2848"
+    },
+    {
+      "path": "dataset_clean/45_근정문/01. 건축물/kbui_gb_fhd_45_f.jpg",
+      "label": 44,
+      "split": "train",
+      "group": "group_2815",
+      "source": "original",
+      "sha256": "e8c70be7c25d2af59c16aa25a9781bbd5bcf48b374abeb8b2ca8b8c9a0089621"
+    },
+    {
+      "path": "dataset_clean/45_근정문/01. 건축물/kbui_gb_fhd_45_m_013.jpg",
+      "label": 44,
+      "split": "train",
+      "group": "group_2824",
+      "source": "original",
+      "sha256": "db6baced9b45e01c062cde03898fa4cd6555703aa27f9d949ac1214c46169fc6"
+    },
+    {
+      "path": "dataset_clean/46_천추전/01. 건축물/kbui_gb_fhd_46_m_012.jpg",
+      "label": 45,
+      "split": "train",
+      "group": "group_2845",
+      "source": "original",
+      "sha256": "c7ff945aade29a7efdd8e3ba94bd14cb94eec22773b9766c2cf5274e56aba752"
+    },
+    {
+      "path": "dataset_clean/46_천추전/01. 건축물/kbui_gb_fhd_46_m_047.jpg",
+      "label": 45,
+      "split": "train",
+      "group": "group_2881",
+      "source": "original",
+      "sha256": "a7236653120c69d66c188b0acd1604c541b2d4d8721c803485b3245a361224eb"
+    },
+    {
+      "path": "dataset_clean/46_천추전/01. 건축물/kbui_gb_fhd_46_m_052.jpg",
+      "label": 45,
+      "split": "train",
+      "group": "group_2887",
+      "source": "original",
+      "sha256": "0fe3aa529185271ea62fb3d99a3f922d9cc35e3ea85650cb125c91abbf353e0d"
+    },
+    {
+      "path": "dataset_clean/46_천추전/01. 건축물/kbui_gb_fhd_46_m_036.jpg",
+      "label": 45,
+      "split": "train",
+      "group": "group_2871",
+      "source": "original",
+      "sha256": "eb256cc525cadadb111639ae6c9c67ecfca8b5bdc3f676a70cfa2921e59ef3dc"
+    },
+    {
+      "path": "dataset_clean/47_흥례문/01. 건축물/kbui_gb_fhd_47_m_040.jpg",
+      "label": 46,
+      "split": "train",
+      "group": "group_2957",
+      "source": "original",
+      "sha256": "6992d7b3c7693843d51cb631d0de1f75e5794fbd43f5a6aea3947b54f3542450"
+    },
+    {
+      "path": "dataset_clean/47_흥례문/01. 건축물/kbui_gb_fhd_47_m_041.jpg",
+      "label": 46,
+      "split": "train",
+      "group": "group_2957",
+      "source": "original",
+      "sha256": "e5690d21b665fe9eb8d2171e87a17742ec956e07b93ffd0d27887acb05385ff2"
+    },
+    {
+      "path": "dataset_clean/47_흥례문/01. 건축물/kbui_gb_fhd_47_m_021.jpg",
+      "label": 46,
+      "split": "train",
+      "group": "group_2941",
+      "source": "original",
+      "sha256": "aaceb0c3598c3f51cc94bd6b05cb2c72fb9b315d3b66a004253935af14306e6d"
+    },
+    {
+      "path": "dataset_clean/47_흥례문/01. 건축물/kbui_gb_fhd_47_m_052.jpg",
+      "label": 46,
+      "split": "train",
+      "group": "group_2969",
+      "source": "original",
+      "sha256": "fd913d09ec8e4c927203cea9e718fd4c927457e4177325db0abc266bbb922ef8"
+    },
+    {
+      "path": "dataset_clean/48_자선당/01. 건축물/kbui_gb_fhd_48_r.jpg",
+      "label": 47,
+      "split": "train",
+      "group": "group_3002",
+      "source": "original",
+      "sha256": "5ec9d7de6daa31f7ec7bebdc86326a00fe5e37f6da9f414d32709b628ee405f9"
+    },
+    {
+      "path": "dataset_clean/48_자선당/01. 건축물/kbui_gb_fhd_48_m_008.jpg",
+      "label": 47,
+      "split": "train",
+      "group": "group_2993",
+      "source": "original",
+      "sha256": "290e32ef5a3994ab19dc8c1eac4ce8ee81a6ed8f16887349170de8dd84f11d8d"
+    },
+    {
+      "path": "dataset_clean/48_자선당/01. 건축물/kbui_gb_fhd_48_m_017.jpg",
+      "label": 47,
+      "split": "train",
+      "group": "group_3002",
+      "source": "original",
+      "sha256": "d34c320d1c7159eab447560a5f0b5adf764c1d805a4de80479ed75a63b1e3f9b"
+    },
+    {
+      "path": "dataset_clean/48_자선당/01. 건축물/kbui_gb_fhd_48_m_064.jpg",
+      "label": 47,
+      "split": "train",
+      "group": "group_3042",
+      "source": "original",
+      "sha256": "147c00000fece55ac2387f80d71335f8c22d81e26943b7a4aaa426fd96739db3"
+    },
+    {
+      "path": "dataset_clean/49_비현각/01. 건축물/kbui_gb_fhd_49_m_034.jpg",
+      "label": 48,
+      "split": "train",
+      "group": "group_3080",
+      "source": "original",
+      "sha256": "ea9dbfa99a48c4fd38891f49bb4fb69ec90d5b5a897bbc49f40467f1ed2cdf78"
+    },
+    {
+      "path": "dataset_clean/49_비현각/01. 건축물/kbui_gb_fhd_49_m_018.jpg",
+      "label": 48,
+      "split": "train",
+      "group": "group_3069",
+      "source": "original",
+      "sha256": "6ef5693caf7b99c6fb6503fe4874a39e9119ee9f115948cbce2808c0f8aeddb8"
+    },
+    {
+      "path": "dataset_clean/49_비현각/01. 건축물/kbui_gb_fhd_49_m_052.jpg",
+      "label": 48,
+      "split": "train",
+      "group": "group_3105",
+      "source": "original",
+      "sha256": "c89c19578bcf0b45d2758ee622d9f723b39d2f5e6816cfc7a35e20cc9eb7f3bb"
+    },
+    {
+      "path": "dataset_clean/49_비현각/01. 건축물/kbui_gb_fhd_49_m_004.jpg",
+      "label": 48,
+      "split": "train",
+      "group": "group_3054",
+      "source": "original",
+      "sha256": "0cfd8759fecee91e3fe350aae6b1da716dbf0d063b200d1ad15bb56e6852e813"
+    },
+    {
+      "path": "dataset_clean/50_중광문/01. 건축물/kbui_gb_fhd_50_m_008.jpg",
+      "label": 49,
+      "split": "train",
+      "group": "group_3123",
+      "source": "original",
+      "sha256": "bf2cbc7ba6c9b09a691ea56ccbd7b1ceeac795de7b5b0a42858f73b427d77b30"
+    },
+    {
+      "path": "dataset_clean/50_중광문/01. 건축물/kbui_gb_fhd_50_m_015.jpg",
+      "label": 49,
+      "split": "train",
+      "group": "group_3131",
+      "source": "original",
+      "sha256": "57d03f1a65e8963d67242d65922d568e44a0a61eb67a93a752fd185fcded6831"
+    },
+    {
+      "path": "dataset_clean/50_중광문/01. 건축물/kbui_gb_fhd_50_m_007.jpg",
+      "label": 49,
+      "split": "train",
+      "group": "group_3123",
+      "source": "original",
+      "sha256": "afa118b3a9cc6718f7ca8a8597f461efc983922ea65cc974a1233461624c41fa"
+    },
+    {
+      "path": "dataset_clean/50_중광문/01. 건축물/kbui_gb_fhd_50_m_006.jpg",
+      "label": 49,
+      "split": "train",
+      "group": "group_3123",
+      "source": "original",
+      "sha256": "c6c67b7f80cdd82030827aca830b854ac4a1ba82beb4493004358a9080904be5"
+    },
+    {
+      "path": "dataset_clean/51_광화문/01. 건축물/kbui_gb_fhd_51_m_010.jpg",
+      "label": 50,
+      "split": "train",
+      "group": "group_3162",
+      "source": "original",
+      "sha256": "18cf77a71d1d6cbe37a7b6467fdef4d84871817f50146db16923ec89c6e60e60"
+    },
+    {
+      "path": "dataset_clean/51_광화문/01. 건축물/kbui_gb_fhd_51_m_036.jpg",
+      "label": 50,
+      "split": "train",
+      "group": "group_3148",
+      "source": "original",
+      "sha256": "b7a40c2722fb3547fc6c150328291baf9d6d1529e56d005407260a23652346e9"
+    },
+    {
+      "path": "dataset_clean/51_광화문/01. 건축물/kbui_gb_fhd_51_m_011.jpg",
+      "label": 50,
+      "split": "train",
+      "group": "group_3162",
+      "source": "original",
+      "sha256": "5a9a6a72b4191c5b7293a3c59429342bd0ffe875c34bbcc6fdd08963760eaf6e"
+    },
+    {
+      "path": "dataset_clean/51_광화문/01. 건축물/kbui_gb_fhd_51_m_032.jpg",
+      "label": 50,
+      "split": "train",
+      "group": "group_3148",
+      "source": "original",
+      "sha256": "27056d7a777a4f9645e5eab98b6a5cc3dff58b0ddad5fd602738fe16130d7897"
+    },
+    {
+      "path": "dataset_clean/52_집경당/01. 건축물/kbui_gb_fhd_52_m_030.jpg",
+      "label": 51,
+      "split": "train",
+      "group": "group_3187",
+      "source": "original",
+      "sha256": "5fa137377a0831b9c7e25afb777e8afc2772425f44503745f833ddda2a6cf041"
+    },
+    {
+      "path": "dataset_clean/52_집경당/01. 건축물/kbui_gb_fhd_52_m_054.jpg",
+      "label": 51,
+      "split": "train",
+      "group": "group_3240",
+      "source": "original",
+      "sha256": "b822c776c78e0ec250350fdcf113516d2e6f7375e7112263d3e07bcabf2a7cb9"
+    },
+    {
+      "path": "dataset_clean/52_집경당/01. 건축물/kbui_gb_fhd_52_m_023.jpg",
+      "label": 51,
+      "split": "train",
+      "group": "group_3209",
+      "source": "original",
+      "sha256": "025dc2bbf8578321933bac57a5c6ef21d7f3968dc2bd3c09dcd27e279796ac99"
+    },
+    {
+      "path": "dataset_clean/52_집경당/01. 건축물/kbui_gb_fhd_52_r.jpg",
+      "label": 51,
+      "split": "train",
+      "group": "group_3227",
+      "source": "original",
+      "sha256": "2dcb372a54320064fc857a4ca4214f3cf30abf0b14302a5d39b6d35cdb561d49"
+    },
+    {
+      "path": "dataset_clean/53_제수합/01. 건축물/kbui_gb_fhd_53_m_001.jpg",
+      "label": 52,
+      "split": "train",
+      "group": "group_3245",
+      "source": "original",
+      "sha256": "59ab7e4ea0a9fcb5fd530ccb8587f9327654c3e841132996fba0f220f2715e80"
+    },
+    {
+      "path": "dataset_clean/53_제수합/01. 건축물/kbui_gb_fhd_53_m_011.jpg",
+      "label": 52,
+      "split": "train",
+      "group": "group_3256",
+      "source": "original",
+      "sha256": "de4337e37df87ac629ddcd5123f7872b20058250fa2ea102758e9fc2148d47b7"
+    },
+    {
+      "path": "dataset_clean/53_제수합/01. 건축물/kbui_gb_fhd_53_m_014.jpg",
+      "label": 52,
+      "split": "train",
+      "group": "group_3260",
+      "source": "original",
+      "sha256": "17503bf695fa29d84155a0d8e975752e5706c0eb67309371d40c9d227d989c6d"
+    },
+    {
+      "path": "dataset_clean/53_제수합/01. 건축물/kbui_gb_fhd_53_b.jpg",
+      "label": 52,
+      "split": "train",
+      "group": "group_3244",
+      "source": "original",
+      "sha256": "087c8148c6c5b342714d21bfedf7fcf3f548ad411047147f145dfb2ae8cbbcd3"
+    },
+    {
+      "path": "dataset_clean/54_계조당/01. 건축물/kbui_gb_fhd_54_m_006.jpg",
+      "label": 53,
+      "split": "train",
+      "group": "group_3272",
+      "source": "original",
+      "sha256": "b877e7fa5f491d669d5d4260bfbf4ec94ff8a23ebe363ae687a915326216948e"
+    },
+    {
+      "path": "dataset_clean/54_계조당/01. 건축물/kbui_gb_fhd_54_m_005.jpg",
+      "label": 53,
+      "split": "train",
+      "group": "group_3272",
+      "source": "original",
+      "sha256": "0f2c6fd166d9bc524566e9a9d239bef1f0ea340ba21398d9c79c7dca45dbb8a3"
+    },
+    {
+      "path": "dataset_clean/54_계조당/01. 건축물/kbui_gb_fhd_54_m_002.jpg",
+      "label": 53,
+      "split": "train",
+      "group": "group_3274",
+      "source": "original",
+      "sha256": "951021a1785380170cd6930ff6ad5f36429b9b80f95c7954924e2fe5ea66511b"
+    },
+    {
+      "path": "dataset_clean/54_계조당/01. 건축물/kbui_gb_fhd_54_r.jpg",
+      "label": 53,
+      "split": "train",
+      "group": "group_3270",
+      "source": "original",
+      "sha256": "7c8481b36e6112dd59da545a0f5d984814754b268908c14ea6fe2f00d0309dc3"
+    },
+    {
+      "path": "dataset_clean/55_원길헌/01. 건축물/kbui_gb_fhd_55_m_001.jpg",
+      "label": 54,
+      "split": "train",
+      "group": "group_3288",
+      "source": "original",
+      "sha256": "6ca116e3c0109421149338da51522f4659b02c7cda385bcc1bbb2f027e1b06fe"
+    },
+    {
+      "path": "dataset_clean/55_원길헌/01. 건축물/kbui_gb_fhd_55_f.jpg",
+      "label": 54,
+      "split": "train",
+      "group": "group_3288",
+      "source": "original",
+      "sha256": "6c0f85d6cf1f93dfd3aaacde01c8e4124b82ed1c6f395481414de1862b3be810"
+    },
+    {
+      "path": "dataset_clean/55_원길헌/01. 건축물/kbui_gb_fhd_55_m_013.jpg",
+      "label": 54,
+      "split": "train",
+      "group": "group_3289",
+      "source": "original",
+      "sha256": "eccb72fe1bd683823d941ff164eba3d77937030cf3be8aea69cb73b431682c22"
+    },
+    {
+      "path": "dataset_clean/55_원길헌/01. 건축물/kbui_gb_fhd_55_m_012.jpg",
+      "label": 54,
+      "split": "train",
+      "group": "group_3301",
+      "source": "original",
+      "sha256": "45aec660952d8215c64c6998f6fe72e9013039a7452123feb95a9593d7b66405"
+    },
+    {
+      "path": "dataset_clean/56_건춘문/01. 건축물/kbui_gb_fhd_56_m_009.jpg",
+      "label": 55,
+      "split": "train",
+      "group": "group_3316",
+      "source": "original",
+      "sha256": "bc0693340c56acf59283cb77e3e5f50c34d2b93266abb704678212a1367de2dd"
+    },
+    {
+      "path": "dataset_clean/56_건춘문/01. 건축물/kbui_gb_fhd_56_m_008.jpg",
+      "label": 55,
+      "split": "train",
+      "group": "group_3316",
+      "source": "original",
+      "sha256": "30ddad27ed4dc452dbec9efc46d0a5b8509a2006dc725a2ef015a95e9a8e6cdb"
+    },
+    {
+      "path": "dataset_clean/56_건춘문/01. 건축물/kbui_gb_fhd_56_m_010.jpg",
+      "label": 55,
+      "split": "train",
+      "group": "group_3320",
+      "source": "original",
+      "sha256": "65d18e245cdb30f9e9811edafb88be056ea103b2d339b4323bc66b990f75457b"
+    },
+    {
+      "path": "dataset_clean/56_건춘문/01. 건축물/kbui_gb_fhd_56_m_006.jpg",
+      "label": 55,
+      "split": "train",
+      "group": "group_3316",
+      "source": "original",
+      "sha256": "92027f8e185cea744e169df901f78b7a761912a0a17ca41c8bb411da22a37837"
+    },
+    {
+      "path": "dataset_clean/57_자경전/01. 건축물/kbui_gb_fhd_57_f.jpg",
+      "label": 56,
+      "split": "train",
+      "group": "group_3331",
+      "source": "original",
+      "sha256": "0bcaa1e475f071e07b2f3c8ece7666fa6b44c186798e721158e477c0bafbbaa6"
+    },
+    {
+      "path": "dataset_clean/57_자경전/01. 건축물/kbui_gb_fhd_57_l.jpg",
+      "label": 56,
+      "split": "train",
+      "group": "group_3332",
+      "source": "original",
+      "sha256": "b539e53dcbc7698464fff0e6a84d4a828f1659a7df2f606fbacd5258607cf33b"
+    },
+    {
+      "path": "dataset_clean/57_자경전/01. 건축물/kbui_gb_fhd_57_m_040.jpg",
+      "label": 56,
+      "split": "train",
+      "group": "group_3360",
+      "source": "original",
+      "sha256": "e4bbe537d959c6dc1ebca9647454dccd64643cedaa7a7a9e7dd0851e6bbb206f"
+    },
+    {
+      "path": "dataset_clean/57_자경전/01. 건축물/kbui_gb_fhd_57_m_002.jpg",
+      "label": 56,
+      "split": "train",
+      "group": "group_3331",
+      "source": "original",
+      "sha256": "d8e5ae0eb100ba022d48fe6c64f846e45001e198e123d8292f6bf66b9211f5cd"
+    },
+    {
+      "path": "dataset_clean/58_팔우정/01. 건축물/kbui_gb_fhd_58_m_023.jpg",
+      "label": 57,
+      "split": "train",
+      "group": "group_3394",
+      "source": "original",
+      "sha256": "57c095976d15fc370c872dafb00ab50bdc9893d6900db7e54424cf46c9cd538d"
+    },
+    {
+      "path": "dataset_clean/58_팔우정/01. 건축물/kbui_gb_fhd_58_m_018.jpg",
+      "label": 57,
+      "split": "train",
+      "group": "group_3394",
+      "source": "original",
+      "sha256": "120f9f33d3561d321ed177532ce4377a1a4b85e90518c6c26998825091f2e126"
+    },
+    {
+      "path": "dataset_clean/58_팔우정/01. 건축물/kbui_gb_fhd_58_m_009.jpg",
+      "label": 57,
+      "split": "train",
+      "group": "group_3384",
+      "source": "original",
+      "sha256": "fb2dd89fffc6bd1db62abb5b4b2eda680798b1e1a11aaa031dbfcafe035d47b1"
+    },
+    {
+      "path": "dataset_clean/58_팔우정/01. 건축물/kbui_gb_fhd_58_m_008.jpg",
+      "label": 57,
+      "split": "train",
+      "group": "group_3384",
+      "source": "original",
+      "sha256": "00ea6e94138cd3c2fc2ae75754fb2bffd32c7d5b2be6851d6a1b95b64eb3bd36"
+    },
+    {
+      "path": "dataset_clean/59_함홍각/01. 건축물/kbui_gb_fhd_59_m_005.jpg",
+      "label": 58,
+      "split": "train",
+      "group": "group_3405",
+      "source": "original",
+      "sha256": "5fd304949d11ac02d1a53d47bcf222180c481a59602c172b08d169043412fade"
+    },
+    {
+      "path": "dataset_clean/59_함홍각/01. 건축물/kbui_gb_fhd_59_m_012.jpg",
+      "label": 58,
+      "split": "train",
+      "group": "group_3400",
+      "source": "original",
+      "sha256": "740253a0a83769904c6edab19332d2a1e907750bce7f0389315f1bd0d1bbb730"
+    },
+    {
+      "path": "dataset_clean/59_함홍각/01. 건축물/kbui_gb_fhd_59_f.jpg",
+      "label": 58,
+      "split": "train",
+      "group": "group_3400",
+      "source": "original",
+      "sha256": "a7e503fd0245c7fb05c7d49cf9740a13ff05c886fb2a62dd42ac842cb5e43b90"
+    },
+    {
+      "path": "dataset_clean/59_함홍각/01. 건축물/kbui_gb_fhd_59_m_013.jpg",
+      "label": 58,
+      "split": "train",
+      "group": "group_3400",
+      "source": "original",
+      "sha256": "3ef0a2829da7fea25b128ff3f0bb7b09f1940d32902b3be47e8f14f673aae84a"
+    },
+    {
+      "path": "dataset_clean/60_건순각/01. 건축물/kbui_gb_fhd_60_f.jpg",
+      "label": 59,
+      "split": "train",
+      "group": "group_3420",
+      "source": "original",
+      "sha256": "dc61807f2358cdc6d67cc0746afa2c260e370fcd256e2b65d579d235beb4643d"
+    },
+    {
+      "path": "dataset_clean/60_건순각/01. 건축물/kbui_gb_fhd_60_m_001.jpg",
+      "label": 59,
+      "split": "train",
+      "group": "group_3422",
+      "source": "original",
+      "sha256": "bd3d14cf765d4cdc7db949f9f8e76c1740cbcc1a878c8fb266d9b38f9135a085"
+    },
+    {
+      "path": "dataset_clean/60_건순각/01. 건축물/kbui_gb_fhd_60_m_010.jpg",
+      "label": 59,
+      "split": "train",
+      "group": "group_3421",
+      "source": "original",
+      "sha256": "07aa46cabfcc9b30f0b78db8f3840a0b0dee2495d79f862a53d54827f24ccaa8"
+    },
+    {
+      "path": "dataset_clean/60_건순각/01. 건축물/kbui_gb_fhd_60_m_014.jpg",
+      "label": 59,
+      "split": "train",
+      "group": "group_3432",
+      "source": "original",
+      "sha256": "12adb6eceaabd4aead5c15e12f50847654e480f074ea0cb86f79894c68143c56"
+    },
+    {
+      "path": "0168.jpeg",
+      "label": 16,
+      "split": "train",
+      "group": "ext_0154",
+      "source": "added",
+      "sha256": "add40258f431c8c8adf776ff660df5b3705ee47116a04ea67c6685e8b3e58826"
+    },
+    {
+      "path": "0169.jpg",
+      "label": 16,
+      "split": "train",
+      "group": "ext_0155",
+      "source": "added",
+      "sha256": "26b507e2e0654e7c55bd9513257ec4a0e6e10501bc5ad66e1217198c8d89947f"
+    },
+    {
+      "path": "0207.jpg",
+      "label": 23,
+      "split": "train",
+      "group": "ext_0189",
+      "source": "added",
+      "sha256": "992c7ea0ecce272c186f32e8187d1c3d5eb91631b80b8cefa04d07f217a2cf2b"
+    },
+    {
+      "path": "0194.jpg",
+      "label": 23,
+      "split": "train",
+      "group": "ext_0177",
+      "source": "added",
+      "sha256": "44ebdc586c34fac8b1387f5901b912b4d43a2c8fdcad119f60660e775b5dacbd"
+    },
+    {
+      "path": "0040.jpg",
+      "label": 24,
+      "split": "train",
+      "group": "ext_0036",
+      "source": "added",
+      "sha256": "036a7b80da0cb6a9f84e4bca786021129b08f66de203834e075a02225f3b6a6a"
+    },
+    {
+      "path": "0019.jpg",
+      "label": 24,
+      "split": "train",
+      "group": "ext_0018",
+      "source": "added",
+      "sha256": "3c403a9129044070f4b6a763d72511e1c68b92b25b98b1629bb9c8d1a23a23dc"
+    },
+    {
+      "path": "0127.jpg",
+      "label": 30,
+      "split": "train",
+      "group": "ext_0114",
+      "source": "added",
+      "sha256": "2e744c92053dc5a645e45c9b582d39f483fa55bf64b0147ccd60682ca9cb40f3"
+    },
+    {
+      "path": "0135.jpg",
+      "label": 30,
+      "split": "train",
+      "group": "ext_0121",
+      "source": "added",
+      "sha256": "92c1fbcb473320ab417aabace84262a74eed35e58d6fd0728f7d239290fa8053"
+    },
+    {
+      "path": "0154.jpg",
+      "label": 34,
+      "split": "train",
+      "group": "ext_0140",
+      "source": "added",
+      "sha256": "076918788dce0623c54945014cfad0e4b99717c1e84fbeb164026618b78d022a"
+    },
+    {
+      "path": "0155.jpg",
+      "label": 34,
+      "split": "train",
+      "group": "ext_0141",
+      "source": "added",
+      "sha256": "700721a0dd223c440b2d28e37e910b20a743b2fcad9fe73ea17ebbe2f4af15d3"
+    },
+    {
+      "path": "0098.jpg",
+      "label": 35,
+      "split": "train",
+      "group": "ext_0090",
+      "source": "added",
+      "sha256": "03773e5f3af822dee93a62d893fef278b49ca9f7e910b4531e8a1fd798790dfe"
+    },
+    {
+      "path": "0101.jpeg",
+      "label": 35,
+      "split": "train",
+      "group": "ext_0092",
+      "source": "added",
+      "sha256": "6b14011324e1355d0daa3c2cc074dc46771d64f589f33509dd488d1d1b292414"
+    },
+    {
+      "path": "0016.jpg",
+      "label": 37,
+      "split": "train",
+      "group": "ext_0016",
+      "source": "added",
+      "sha256": "cf874447d540f411cfeea33ce0382e67ac424618917aee8100f8762a0876b230"
+    },
+    {
+      "path": "0015.jpg",
+      "label": 37,
+      "split": "train",
+      "group": "ext_0015",
+      "source": "added",
+      "sha256": "bfeacd3bdf92cddc370228f6ef624ddbb5111968cc21568e4db0306e141f93e1"
+    },
+    {
+      "path": "0158.jpg",
+      "label": 43,
+      "split": "train",
+      "group": "ext_0144",
+      "source": "added",
+      "sha256": "a396905dd386430ff76047f59c65ed60b2d2f83c40809a0e54523075329f5f58"
+    },
+    {
+      "path": "0157.jpg",
+      "label": 43,
+      "split": "train",
+      "group": "ext_0143",
+      "source": "added",
+      "sha256": "607829eb76c9baa2cc1d5d51e959cd8263ceeed68b544b0bbc8c10649f4df5fb"
+    },
+    {
+      "path": "0081.jpg",
+      "label": 50,
+      "split": "train",
+      "group": "ext_0074",
+      "source": "added",
+      "sha256": "5fc473a47009ca5eb9c4084ccc41bf23e505011be90bbe6db27ac4c25f8a3b47"
+    },
+    {
+      "path": "0088.jpg",
+      "label": 50,
+      "split": "train",
+      "group": "ext_0081",
+      "source": "added",
+      "sha256": "ea9ca6f0ffe9ac15e0d987816af8bcec57b596d40e327ebbdc5a291b8ef5f092"
+    },
+    {
+      "path": "0056.jpg",
+      "label": 53,
+      "split": "train",
+      "group": "ext_0051",
+      "source": "added",
+      "sha256": "eb7ee7b5eb4064d1933eadd1583c3973d567db23c79fea39f8d308272c562d9b"
+    },
+    {
+      "path": "0058.jpg",
+      "label": 53,
+      "split": "train",
+      "group": "ext_0053",
+      "source": "added",
+      "sha256": "084c13459bbd936a80e1be64ca63210c1cf9ddc72c4a36000c9c5a65145dc674"
+    },
+    {
+      "path": "0161.jpeg",
+      "label": 54,
+      "split": "train",
+      "group": "ext_0147",
+      "source": "added",
+      "sha256": "bb0251a49b0e334e8153709cd96dfedc83ecf1c582341fd10e5234c18dbe1129"
+    },
+    {
+      "path": "0163.jpg",
+      "label": 54,
+      "split": "train",
+      "group": "ext_0149",
+      "source": "added",
+      "sha256": "9f128f5799afde17c519ea24b5b73359681c00053ef2a1e50b31ee6aaba7938d"
+    },
+    {
+      "path": "0005.jpg",
+      "label": 55,
+      "split": "train",
+      "group": "ext_0005",
+      "source": "added",
+      "sha256": "39faec8e9a7b98324c622659ec022f7e34493065bd4673f886a00d587084ef86"
+    },
+    {
+      "path": "0004.jpg",
+      "label": 55,
+      "split": "train",
+      "group": "ext_0004",
+      "source": "added",
+      "sha256": "52c9a329d85ed577c649e3db75045d95dc830348fa4cbfe488219b9b8f3c797a"
+    },
+    {
+      "path": "0174.jpg",
+      "label": 58,
+      "split": "train",
+      "group": "ext_0160",
+      "source": "added",
+      "sha256": "6a5e437a792e657204e186b00abd8ca30c514a1c3a6cc0ce9bb935b0e54c6c92"
+    },
+    {
+      "path": "0170.jpg",
+      "label": 58,
+      "split": "train",
+      "group": "ext_0156",
+      "source": "added",
+      "sha256": "92e96b19572e73acb37931a507597fef1f4281f8aef4bcece73314ce0d4dd608"
+    },
+    {
+      "path": "0001.jpg",
+      "label": 59,
+      "split": "train",
+      "group": "ext_0001",
+      "source": "added",
+      "sha256": "4d5981e82740be2e1331bd201a6eb9253eb6dc77977a5180146f8f99175b899e"
+    },
+    {
+      "path": "0002.jpg",
+      "label": 59,
+      "split": "train",
+      "group": "ext_0002",
+      "source": "added",
+      "sha256": "648bc7a8eb033cf446da066f611c079bd8228f9b8787730ff82d7f513a2b498a"
+    }
+  ]
+}
