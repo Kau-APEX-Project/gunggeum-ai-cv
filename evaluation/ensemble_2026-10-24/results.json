@@ -1,0 +1,764 @@
+{
+  "method": "equal probability average EXP003 EXP004 at 320",
+  "status": "development_validation_not_independent_test",
+  "checkpoints": [
+    {
+      "experiment": "003",
+      "epoch": 4,
+      "sha256": "3cacede9672fb87fa43ee76322738a91f8b3c6cdd1052101e4639d6843fea9ad"
+    },
+    {
+      "experiment": "004",
+      "epoch": 2,
+      "sha256": "c9ddb60ad82a16f884b33e623e2e4ee01d98d788c677cef2f91e556728faff9d"
+    }
+  ],
+  "n": 57,
+  "correct": 43,
+  "top1": 0.7543859649122807,
+  "top3_correct": 51,
+  "top3": 0.8947368421052632,
+  "predictions": [
+    {
+      "file": "건순각/images.jpg",
+      "truth": "건순각",
+      "top3": [
+        "건순각",
+        "정시합",
+        "경회루"
+      ],
+      "individual_top1": [
+        "건순각",
+        "건순각"
+      ]
+    },
+    {
+      "file": "건춘문/images.jpeg",
+      "truth": "건춘문",
+      "top3": [
+        "건춘문",
+        "근정전",
+        "광화문"
+      ],
+      "individual_top1": [
+        "건춘문",
+        "건춘문"
+      ]
+    },
+    {
+      "file": "건춘문/스크린샷 2026-10-17 000940.png",
+      "truth": "건춘문",
+      "top3": [
+        "광화문",
+        "건춘문",
+        "만춘전"
+      ],
+      "individual_top1": [
+        "건춘문",
+        "광화문"
+      ]
+    },
+    {
+      "file": "경성전/images (2).jpeg",
+      "truth": "경성전",
+      "top3": [
+        "연생전",
+        "경성전",
+        "자선당"
+      ],
+      "individual_top1": [
+        "경성전",
+        "연생전"
+      ]
+    },
+    {
+      "file": "경성전/prolsk_155786_1[187482].jpg",
+      "truth": "경성전",
+      "top3": [
+        "자선당",
+        "경성전",
+        "응지당"
+      ],
+      "individual_top1": [
+        "자선당",
+        "경성전"
+      ]
+    },
+    {
+      "file": "경회루/18093-medium-size.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "광화문",
+        "근정전"
+      ],
+      "individual_top1": [
+        "경회루",
+        "경회루"
+      ]
+    },
+    {
+      "file": "경회루/2fe70ab5c2695dda96d080fa0d5d2121.jpeg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "향원정",
+        "흥복전"
+      ],
+      "individual_top1": [
+        "경회루",
+        "경회루"
+      ]
+    },
+    {
+      "file": "경회루/5002_3562_3017.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "근정전",
+        "광화문"
+      ],
+      "individual_top1": [
+        "경회루",
+        "경회루"
+      ]
+    },
+    {
+      "file": "경회루/Gyeonghoeru_108033706.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "근정전",
+        "연생전"
+      ],
+      "individual_top1": [
+        "경회루",
+        "경회루"
+      ]
+    },
+    {
+      "file": "경회루/Gyeonghoeru_25673873.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "근정전",
+        "광화문"
+      ],
+      "individual_top1": [
+        "경회루",
+        "경회루"
+      ]
+    },
+    {
+      "file": "경회루/Gyeonghoeru_flickr5550099497.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "근정전",
+        "광화문"
+      ],
+      "individual_top1": [
+        "경회루",
+        "경회루"
+      ]
+    },
+    {
+      "file": "경회루/Gyeonghoeru_375733.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "향원정",
+        "근정전"
+      ],
+      "individual_top1": [
+        "경회루",
+        "경회루"
+      ]
+    },
+    {
+      "file": "경회루/Gyeonghoeru_62839658.jpg",
+      "truth": "경회루",
+      "top3": [
+        "근정전",
+        "계조당",
+        "향원정"
+      ],
+      "individual_top1": [
+        "근정전",
+        "근정전"
+      ]
+    },
+    {
+      "file": "경회루/Gyeonghoeru_69723205.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "향원정",
+        "근정전"
+      ],
+      "individual_top1": [
+        "경회루",
+        "경회루"
+      ]
+    },
+    {
+      "file": "경회루/Gyeonghoeru_flickr41086487602.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "향원정",
+        "근정전"
+      ],
+      "individual_top1": [
+        "경회루",
+        "경회루"
+      ]
+    },
+    {
+      "file": "경회루/Gyeonghoeru_flickr22773244031.jpg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "광화문",
+        "근정전"
+      ],
+      "individual_top1": [
+        "경회루",
+        "경회루"
+      ]
+    },
+    {
+      "file": "경회루/images (1).jpeg",
+      "truth": "경회루",
+      "top3": [
+        "경회루",
+        "향원정",
+        "제수합"
+      ],
+      "individual_top1": [
+        "경회루",
+        "경회루"
+      ]
+    },
+    {
+      "file": "계조당/20230919_tdsPMX.jpg",
+      "truth": "계조당",
+      "top3": [
+        "계조당",
+        "흥복전",
+        "녹금당"
+      ],
+      "individual_top1": [
+        "계조당",
+        "계조당"
+      ]
+    },
+    {
+      "file": "계조당/20230920114827_1929957_1199_799.jpeg",
+      "truth": "계조당",
+      "top3": [
+        "계조당",
+        "광화문",
+        "근정전"
+      ],
+      "individual_top1": [
+        "계조당",
+        "계조당"
+      ]
+    },
+    {
+      "file": "계조당/PYH2023091903110000500_P4.jpg",
+      "truth": "계조당",
+      "top3": [
+        "계조당",
+        "흥복전",
+        "녹금당"
+      ],
+      "individual_top1": [
+        "계조당",
+        "계조당"
+      ]
+    },
+    {
+      "file": "광화문/Gwanghwamun_45011894.jpg",
+      "truth": "광화문",
+      "top3": [
+        "향원정",
+        "경회루",
+        "광화문"
+      ],
+      "individual_top1": [
+        "향원정",
+        "향원정"
+      ]
+    },
+    {
+      "file": "광화문/Gwanghwamun_53414461.jpg",
+      "truth": "광화문",
+      "top3": [
+        "근정전",
+        "광화문",
+        "경회루"
+      ],
+      "individual_top1": [
+        "근정전",
+        "근정전"
+      ]
+    },
+    {
+      "file": "광화문/Gwanghwamun_62117037.jpg",
+      "truth": "광화문",
+      "top3": [
+        "광화문",
+        "근정전",
+        "자선당"
+      ],
+      "individual_top1": [
+        "광화문",
+        "광화문"
+      ]
+    },
+    {
+      "file": "광화문/Gwanghwamun_62896370.jpg",
+      "truth": "광화문",
+      "top3": [
+        "광화문",
+        "근정전",
+        "계조당"
+      ],
+      "individual_top1": [
+        "광화문",
+        "광화문"
+      ]
+    },
+    {
+      "file": "광화문/Gwanghwamun_71443289.jpg",
+      "truth": "광화문",
+      "top3": [
+        "근정전",
+        "영사재",
+        "자경전"
+      ],
+      "individual_top1": [
+        "근정전",
+        "근정전"
+      ]
+    },
+    {
+      "file": "교태전/389728_473590_5121.jpg",
+      "truth": "교태전",
+      "top3": [
+        "교태전",
+        "태원전",
+        "수정전"
+      ],
+      "individual_top1": [
+        "교태전",
+        "교태전"
+      ]
+    },
+    {
+      "file": "교태전/Gyotaejeon_3339568.jpg",
+      "truth": "교태전",
+      "top3": [
+        "교태전",
+        "유화문",
+        "자경전"
+      ],
+      "individual_top1": [
+        "교태전",
+        "교태전"
+      ]
+    },
+    {
+      "file": "교태전/Gyotaejeon_flickr285840850.jpg",
+      "truth": "교태전",
+      "top3": [
+        "교태전",
+        "유화문",
+        "자경전"
+      ],
+      "individual_top1": [
+        "교태전",
+        "교태전"
+      ]
+    },
+    {
+      "file": "근정전/Geunjeongjeon_35512790.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "광화문",
+        "경회루"
+      ],
+      "individual_top1": [
+        "근정전",
+        "근정전"
+      ]
+    },
+    {
+      "file": "근정전/Geunjeongjeon_43967862.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "광화문",
+        "근정문"
+      ],
+      "individual_top1": [
+        "근정전",
+        "근정전"
+      ]
+    },
+    {
+      "file": "근정전/Geunjeongjeon_57828406.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "함화당",
+        "집옥재"
+      ],
+      "individual_top1": [
+        "근정전",
+        "근정전"
+      ]
+    },
+    {
+      "file": "근정전/Geunjeongjeon_61594285.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "광화문",
+        "경회루"
+      ],
+      "individual_top1": [
+        "근정전",
+        "근정전"
+      ]
+    },
+    {
+      "file": "근정전/Geunjeongjeon_62710423.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "광화문",
+        "경회루"
+      ],
+      "individual_top1": [
+        "근정전",
+        "근정전"
+      ]
+    },
+    {
+      "file": "근정전/Geunjeongjeon_62795700.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "광화문",
+        "경회루"
+      ],
+      "individual_top1": [
+        "근정전",
+        "근정전"
+      ]
+    },
+    {
+      "file": "근정전/Geunjeongjeon_83590987.jpg",
+      "truth": "근정전",
+      "top3": [
+        "경회루",
+        "자경전",
+        "제수합"
+      ],
+      "individual_top1": [
+        "경회루",
+        "경회루"
+      ]
+    },
+    {
+      "file": "근정전/Geunjeongjeon_9328705.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "광화문",
+        "경회루"
+      ],
+      "individual_top1": [
+        "근정전",
+        "근정전"
+      ]
+    },
+    {
+      "file": "근정전/Geunjeongjeon_flickr2338672707.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "광화문",
+        "경회루"
+      ],
+      "individual_top1": [
+        "근정전",
+        "근정전"
+      ]
+    },
+    {
+      "file": "근정전/Geunjeongjeon_flickr1509434791.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "경회루",
+        "광화문"
+      ],
+      "individual_top1": [
+        "근정전",
+        "근정전"
+      ]
+    },
+    {
+      "file": "근정전/Geunjeongjeon_flickr31665136.jpg",
+      "truth": "근정전",
+      "top3": [
+        "근정전",
+        "광화문",
+        "경회루"
+      ],
+      "individual_top1": [
+        "근정전",
+        "근정전"
+      ]
+    },
+    {
+      "file": "기별청/스크린샷 2026-10-17 002052.png",
+      "truth": "기별청",
+      "top3": [
+        "기별청",
+        "만춘전",
+        "용성문"
+      ],
+      "individual_top1": [
+        "기별청",
+        "기별청"
+      ]
+    },
+    {
+      "file": "연생전/연생전1.jpg",
+      "truth": "연생전",
+      "top3": [
+        "경성전",
+        "강녕전",
+        "연생전"
+      ],
+      "individual_top1": [
+        "경성전",
+        "경성전"
+      ]
+    },
+    {
+      "file": "원길헌/R2206-A001-5155.jpg",
+      "truth": "원길헌",
+      "top3": [
+        "함홍각",
+        "교태전",
+        "집경당"
+      ],
+      "individual_top1": [
+        "함홍각",
+        "함홍각"
+      ]
+    },
+    {
+      "file": "인유문/download.jpg",
+      "truth": "인유문",
+      "top3": [
+        "인유문",
+        "초양문",
+        "복수당"
+      ],
+      "individual_top1": [
+        "인유문",
+        "인유문"
+      ]
+    },
+    {
+      "file": "인유문/images (1).jpeg",
+      "truth": "인유문",
+      "top3": [
+        "녹금당",
+        "향원정",
+        "건순각"
+      ],
+      "individual_top1": [
+        "녹금당",
+        "녹금당"
+      ]
+    },
+    {
+      "file": "함홍각/R2206-A001-5166.jpg",
+      "truth": "함홍각",
+      "top3": [
+        "양의문",
+        "건순각",
+        "함홍각"
+      ],
+      "individual_top1": [
+        "양의문",
+        "양의문"
+      ]
+    },
+    {
+      "file": "함홍각/R2206-A001-5212.jpg",
+      "truth": "함홍각",
+      "top3": [
+        "응지당",
+        "건순각",
+        "교태전"
+      ],
+      "individual_top1": [
+        "응지당",
+        "응지당"
+      ]
+    },
+    {
+      "file": "향원정/Hyangwonjeong_108033707.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "집옥재"
+      ],
+      "individual_top1": [
+        "향원정",
+        "향원정"
+      ]
+    },
+    {
+      "file": "향원정/Hyangwonjeong_109137402.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "정시합"
+      ],
+      "individual_top1": [
+        "향원정",
+        "향원정"
+      ]
+    },
+    {
+      "file": "향원정/Hyangwonjeong_flickr15524420176.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "계조당"
+      ],
+      "individual_top1": [
+        "향원정",
+        "향원정"
+      ]
+    },
+    {
+      "file": "향원정/Hyangwonjeong_1705372.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "근정전"
+      ],
+      "individual_top1": [
+        "향원정",
+        "향원정"
+      ]
+    },
+    {
+      "file": "향원정/Hyangwonjeong_flickr17994549.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "근정전"
+      ],
+      "individual_top1": [
+        "향원정",
+        "향원정"
+      ]
+    },
+    {
+      "file": "향원정/Hyangwonjeong_3338906.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "제수합"
+      ],
+      "individual_top1": [
+        "향원정",
+        "향원정"
+      ]
+    },
+    {
+      "file": "향원정/Hyangwonjeong_59057282.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "근정전"
+      ],
+      "individual_top1": [
+        "향원정",
+        "향원정"
+      ]
+    },
+    {
+      "file": "향원정/Hyangwonjeong_62795692.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "제수합"
+      ],
+      "individual_top1": [
+        "향원정",
+        "향원정"
+      ]
+    },
+    {
+      "file": "향원정/Hyangwonjeong_flickr11318924513.jpg",
+      "truth": "향원정",
+      "top3": [
+        "경회루",
+        "향원정",
+        "정시합"
+      ],
+      "individual_top1": [
+        "경회루",
+        "경회루"
+      ]
+    },
+    {
+      "file": "향원정/Hyangwonjeong_flickr1510258602.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "제수합"
+      ],
+      "individual_top1": [
+        "향원정",
+        "향원정"
+      ]
+    },
+    {
+      "file": "향원정/Hyangwonjeong_flickr298496298.jpg",
+      "truth": "향원정",
+      "top3": [
+        "향원정",
+        "경회루",
+        "제수합"
+      ],
+      "individual_top1": [
+        "향원정",
+        "향원정"
+      ]
+    }
+  ]
+}

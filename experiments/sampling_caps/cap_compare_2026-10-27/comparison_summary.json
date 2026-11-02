@@ -1,0 +1,44 @@
+[
+  {
+    "model": "EXP005 cap2",
+    "selected_epoch": 16,
+    "epochs_run": 23,
+    "correct": 527,
+    "n": 568,
+    "accuracy": 0.9278169014084507,
+    "macro_f1": 0.9236171486015949,
+    "top3": 0.9788732394366197,
+    "small_recall": 0.9144088669950738,
+    "small_correct": 156,
+    "small_n": 170,
+    "checkpoint_sha256": "8eb9a40a380d2b43c4b75ff2b6fd7bcb86cef84825234944d16177c3bd2f4b37"
+  },
+  {
+    "model": "cap1.5",
+    "selected_epoch": 9,
+    "epochs_run": 16,
+    "correct": 528,
+    "n": 568,
+    "accuracy": 0.9295774647887324,
+    "macro_f1": 0.9222220206560575,
+    "top3": 0.9700704225352113,
+    "small_recall": 0.897783251231527,
+    "small_correct": 153,
+    "small_n": 170,
+    "checkpoint_sha256": "99553ad566dcf7688533c87c190698242b1feadd64e1ea549e66eeb5fe3904d2"
+  },
+  {
+    "model": "cap3",
+    "selected_epoch": 21,
+    "epochs_run": 25,
+    "correct": 527,
+    "n": 568,
+    "accuracy": 0.9278169014084507,
+    "macro_f1": 0.9270510655600719,
+    "top3": 0.977112676056338,
+    "small_recall": 0.9164614121510674,
+    "small_correct": 156,
+    "small_n": 170,
+    "checkpoint_sha256": "5dfbb8a5a91b0ce3d6745c4f73413cefaee10a93d4ff0722807c9e0f6fbafa27"
+  }
+]
