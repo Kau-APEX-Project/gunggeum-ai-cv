@@ -1,0 +1,564 @@
+{
+  "input_size": 320,
+  "batch_size": 32,
+  "experiment": "class60_exp003_resolution_only",
+  "seed": 20261023,
+  "start_checkpoint_sha256": "6bf77daa88bd07b24919ccd19f78eca1ac773a7b22a006e31d2059ef6daf5e0f",
+  "external_manifest_sha256": "6f5605553f822f222e23c4b358d3578d861f2cdb791acc08d9c7c36c84cd140f",
+  "classes": [
+    {
+      "index": 0,
+      "class": "01_기원문",
+      "name_ko": "기원문",
+      "service_id": "building:187",
+      "id_status": "provisional"
+    },
+    {
+      "index": 1,
+      "class": "02_건숙문",
+      "name_ko": "건숙문",
+      "service_id": "building:188",
+      "id_status": "provisional"
+    },
+    {
+      "index": 2,
+      "class": "03_경안문",
+      "name_ko": "경안문",
+      "service_id": "building:189",
+      "id_status": "provisional"
+    },
+    {
+      "index": 3,
+      "class": "04_인수문",
+      "name_ko": "인수문",
+      "service_id": "building:190",
+      "id_status": "provisional"
+    },
+    {
+      "index": 4,
+      "class": "05_공묵재",
+      "name_ko": "공묵재",
+      "service_id": "building:191",
+      "id_status": "provisional"
+    },
+    {
+      "index": 5,
+      "class": "06_숙문당",
+      "name_ko": "숙문당",
+      "service_id": "building:192",
+      "id_status": "provisional"
+    },
+    {
+      "index": 6,
+      "class": "07_태원전",
+      "name_ko": "태원전",
+      "service_id": "building:176",
+      "id_status": "provisional"
+    },
+    {
+      "index": 7,
+      "class": "08_건길문",
+      "name_ko": "건길문",
+      "service_id": "building:193",
+      "id_status": "provisional"
+    },
+    {
+      "index": 8,
+      "class": "09_영사재",
+      "name_ko": "영사재",
+      "service_id": "building:194",
+      "id_status": "provisional"
+    },
+    {
+      "index": 9,
+      "class": "10_보강문",
+      "name_ko": "보강문",
+      "service_id": "building:195",
+      "id_status": "provisional"
+    },
+    {
+      "index": 10,
+      "class": "11_홍경문",
+      "name_ko": "홍경문",
+      "service_id": "building:196",
+      "id_status": "provisional"
+    },
+    {
+      "index": 11,
+      "class": "12_일중문",
+      "name_ko": "일중문",
+      "service_id": "building:197",
+      "id_status": "provisional"
+    },
+    {
+      "index": 12,
+      "class": "13_필성문",
+      "name_ko": "필성문",
+      "service_id": "building:198",
+      "id_status": "provisional"
+    },
+    {
+      "index": 13,
+      "class": "14_장안당",
+      "name_ko": "장안당",
+      "service_id": "building:199",
+      "id_status": "provisional"
+    },
+    {
+      "index": 14,
+      "class": "15_초양문",
+      "name_ko": "초양문",
+      "service_id": "building:200",
+      "id_status": "provisional"
+    },
+    {
+      "index": 15,
+      "class": "16_건청궁",
+      "name_ko": "건청궁",
+      "service_id": "building:177",
+      "id_status": "provisional"
+    },
+    {
+      "index": 16,
+      "class": "17_인유문",
+      "name_ko": "인유문",
+      "service_id": "building:201",
+      "id_status": "provisional"
+    },
+    {
+      "index": 17,
+      "class": "18_정시합",
+      "name_ko": "정시합",
+      "service_id": "building:202",
+      "id_status": "provisional"
+    },
+    {
+      "index": 18,
+      "class": "19_복수당",
+      "name_ko": "복수당",
+      "service_id": "building:203",
+      "id_status": "provisional"
+    },
+    {
+      "index": 19,
+      "class": "20_녹금당",
+      "name_ko": "녹금당",
+      "service_id": "building:204",
+      "id_status": "provisional"
+    },
+    {
+      "index": 20,
+      "class": "21_곤녕합",
+      "name_ko": "곤녕합",
+      "service_id": "building:205",
+      "id_status": "provisional"
+    },
+    {
+      "index": 21,
+      "class": "22_협길당",
+      "name_ko": "협길당",
+      "service_id": "building:206",
+      "id_status": "provisional"
+    },
+    {
+      "index": 22,
+      "class": "23_집옥재",
+      "name_ko": "집옥재",
+      "service_id": "building:178",
+      "id_status": "provisional"
+    },
+    {
+      "index": 23,
+      "class": "24_향원정",
+      "name_ko": "향원정",
+      "service_id": "building:175",
+      "id_status": "provisional"
+    },
+    {
+      "index": 24,
+      "class": "25_경회루",
+      "name_ko": "경회루",
+      "service_id": "building:174",
+      "id_status": "provisional"
+    },
+    {
+      "index": 25,
+      "class": "26_수정전",
+      "name_ko": "수정전",
+      "service_id": "building:179",
+      "id_status": "provisional"
+    },
+    {
+      "index": 26,
+      "class": "27_함화당",
+      "name_ko": "함화당",
+      "service_id": "building:207",
+      "id_status": "provisional"
+    },
+    {
+      "index": 27,
+      "class": "28_흥복전",
+      "name_ko": "흥복전",
+      "service_id": "building:208",
+      "id_status": "provisional"
+    },
+    {
+      "index": 28,
+      "class": "29_함원전",
+      "name_ko": "함원전",
+      "service_id": "building:168",
+      "id_status": "provisional"
+    },
+    {
+      "index": 29,
+      "class": "30_흠경각",
+      "name_ko": "흠경각",
+      "service_id": "building:167",
+      "id_status": "provisional"
+    },
+    {
+      "index": 30,
+      "class": "31_근정전",
+      "name_ko": "근정전",
+      "service_id": "building:161",
+      "id_status": "provisional"
+    },
+    {
+      "index": 31,
+      "class": "32_용성문",
+      "name_ko": "용성문",
+      "service_id": "building:209",
+      "id_status": "provisional"
+    },
+    {
+      "index": 32,
+      "class": "33_협생문",
+      "name_ko": "협생문",
+      "service_id": "building:210",
+      "id_status": "provisional"
+    },
+    {
+      "index": 33,
+      "class": "34_유화문",
+      "name_ko": "유화문",
+      "service_id": "building:211",
+      "id_status": "provisional"
+    },
+    {
+      "index": 34,
+      "class": "35_기별청",
+      "name_ko": "기별청",
+      "service_id": "building:158",
+      "id_status": "provisional"
+    },
+    {
+      "index": 35,
+      "class": "36_교태전",
+      "name_ko": "교태전",
+      "service_id": "building:165",
+      "id_status": "provisional"
+    },
+    {
+      "index": 36,
+      "class": "37_양의문",
+      "name_ko": "양의문",
+      "service_id": "building:212",
+      "id_status": "provisional"
+    },
+    {
+      "index": 37,
+      "class": "38_경성전",
+      "name_ko": "경성전",
+      "service_id": "building:213",
+      "id_status": "provisional"
+    },
+    {
+      "index": 38,
+      "class": "39_응지당",
+      "name_ko": "응지당",
+      "service_id": "building:214",
+      "id_status": "provisional"
+    },
+    {
+      "index": 39,
+      "class": "40_강녕전",
+      "name_ko": "강녕전",
+      "service_id": "building:164",
+      "id_status": "provisional"
+    },
+    {
+      "index": 40,
+      "class": "41_만춘전",
+      "name_ko": "만춘전",
+      "service_id": "building:215",
+      "id_status": "provisional"
+    },
+    {
+      "index": 41,
+      "class": "42_사정전",
+      "name_ko": "사정전",
+      "service_id": "building:163",
+      "id_status": "provisional"
+    },
+    {
+      "index": 42,
+      "class": "43_연길당",
+      "name_ko": "연길당",
+      "service_id": "building:216",
+      "id_status": "provisional"
+    },
+    {
+      "index": 43,
+      "class": "44_연생전",
+      "name_ko": "연생전",
+      "service_id": "building:217",
+      "id_status": "provisional"
+    },
+    {
+      "index": 44,
+      "class": "45_근정문",
+      "name_ko": "근정문",
+      "service_id": "building:159",
+      "id_status": "provisional"
+    },
+    {
+      "index": 45,
+      "class": "46_천추전",
+      "name_ko": "천추전",
+      "service_id": "building:218",
+      "id_status": "provisional"
+    },
+    {
+      "index": 46,
+      "class": "47_흥례문",
+      "name_ko": "흥례문",
+      "service_id": "building:156",
+      "id_status": "provisional"
+    },
+    {
+      "index": 47,
+      "class": "48_자선당",
+      "name_ko": "자선당",
+      "service_id": "building:219",
+      "id_status": "provisional"
+    },
+    {
+      "index": 48,
+      "class": "49_비현각",
+      "name_ko": "비현각",
+      "service_id": "building:220",
+      "id_status": "provisional"
+    },
+    {
+      "index": 49,
+      "class": "50_중광문",
+      "name_ko": "중광문",
+      "service_id": "building:221",
+      "id_status": "provisional"
+    },
+    {
+      "index": 50,
+      "class": "51_광화문",
+      "name_ko": "광화문",
+      "service_id": "building:151",
+      "id_status": "provisional"
+    },
+    {
+      "index": 51,
+      "class": "52_집경당",
+      "name_ko": "집경당",
+      "service_id": "building:222",
+      "id_status": "provisional"
+    },
+    {
+      "index": 52,
+      "class": "53_제수합",
+      "name_ko": "제수합",
+      "service_id": "building:223",
+      "id_status": "provisional"
+    },
+    {
+      "index": 53,
+      "class": "54_계조당",
+      "name_ko": "계조당",
+      "service_id": "building:224",
+      "id_status": "provisional"
+    },
+    {
+      "index": 54,
+      "class": "55_원길헌",
+      "name_ko": "원길헌",
+      "service_id": "building:225",
+      "id_status": "provisional"
+    },
+    {
+      "index": 55,
+      "class": "56_건춘문",
+      "name_ko": "건춘문",
+      "service_id": "building:152",
+      "id_status": "provisional"
+    },
+    {
+      "index": 56,
+      "class": "57_자경전",
+      "name_ko": "자경전",
+      "service_id": "building:170",
+      "id_status": "provisional"
+    },
+    {
+      "index": 57,
+      "class": "58_팔우정",
+      "name_ko": "팔우정",
+      "service_id": "building:226",
+      "id_status": "provisional"
+    },
+    {
+      "index": 58,
+      "class": "59_함홍각",
+      "name_ko": "함홍각",
+      "service_id": "building:227",
+      "id_status": "provisional"
+    },
+    {
+      "index": 59,
+      "class": "60_건순각",
+      "name_ko": "건순각",
+      "service_id": "building:228",
+      "id_status": "provisional"
+    }
+  ],
+  "train_counts": [
+    43,
+    33,
+    24,
+    27,
+    37,
+    33,
+    70,
+    33,
+    25,
+    34,
+    44,
+    46,
+    32,
+    52,
+    35,
+    39,
+    14,
+    36,
+    52,
+    77,
+    34,
+    54,
+    43,
+    150,
+    92,
+    36,
+    44,
+    68,
+    40,
+    45,
+    103,
+    25,
+    28,
+    57,
+    20,
+    53,
+    27,
+    65,
+    36,
+    58,
+    52,
+    53,
+    38,
+    71,
+    14,
+    61,
+    45,
+    48,
+    43,
+    22,
+    50,
+    40,
+    18,
+    19,
+    18,
+    18,
+    31,
+    18,
+    16,
+    15
+  ],
+  "class_weights": [
+    0.9046548893659181,
+    1.0326667472764526,
+    1.210909096517768,
+    1.141656044730919,
+    0.975250766929972,
+    1.0326667472764526,
+    0.7090357653754392,
+    1.0326667472764526,
+    1.1864437645452472,
+    1.0173671348533089,
+    0.8943156367848527,
+    0.8746579475616572,
+    1.0486780392580497,
+    0.8226507362543102,
+    1.0027279956015338,
+    0.9499152480509396,
+    1.585452169858074,
+    0.9887031371210393,
+    0.8226507362543102,
+    0.6760390767225966,
+    1.0173671348533089,
+    0.8072727310118453,
+    0.9046548893659181,
+    0.4843636386071072,
+    0.6184765659395555,
+    0.9887031371210393,
+    0.8943156367848527,
+    0.7193872000111035,
+    0.937966152916877,
+    0.8843229696679759,
+    0.5845188890509475,
+    1.1864437645452472,
+    1.12108398055357,
+    0.78574157798912,
+    1.3264844545019638,
+    0.8148529229567039,
+    1.141656044730919,
+    0.7358011872019554,
+    0.9887031371210393,
+    0.7789384925554848,
+    0.8226507362543102,
+    0.8148529229567039,
+    0.9623329678813091,
+    0.704024849120383,
+    1.585452169858074,
+    0.7595427891410645,
+    0.8843229696679759,
+    0.8562420335481894,
+    0.9046548893659181,
+    1.2647533025834694,
+    0.8389424314064398,
+    0.937966152916877,
+    1.3982373856773997,
+    1.3609443346964991,
+    1.3982373856773997,
+    1.3982373856773997,
+    1.0654579533446646,
+    1.3982373856773997,
+    1.483054705681559,
+    1.5316923137651253
+  ],
+  "epochs_max": 25,
+  "patience": 7,
+  "optimizer": "AdamW",
+  "feature_lr": 1e-05,
+  "classifier_lr": 0.0001,
+  "weight_decay": 0.0001,
+  "augmentation": "existing affine degrees4 translate.025 scale.95-1.05; brightness.5 contrast.15 saturation.1",
+  "batchnorm": "running statistics frozen; affine parameters trainable",
+  "selection": "mean of internal 60-class MacroF1 and external present-class MacroF1",
+  "torch": "2.5.1+cu121"
+}
