@@ -1,0 +1,1310 @@
+{
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+  "scope": "12 fixed Pillow tensors; execution/parity smoke comparison, NOT full accuracy or mobile benchmark",
+  "results": [
+    {
+      "provider": "wasm",
+      "model": "weight_fp16",
+      "load_ms": 301.69999999995343,
+      "predictions": [
+        {
+          "truth": "기원문",
+          "top3": [
+            0,
+            3,
+            8
+          ],
+          "reference_top3": [
+            0,
+            3,
+            8
+          ],
+          "max_logit_error": 0.05162620544433594
+        },
+        {
+          "truth": "건숙문",
+          "top3": [
+            1,
+            11,
+            32
+          ],
+          "reference_top3": [
+            1,
+            11,
+            32
+          ],
+          "max_logit_error": 0.10168075561523438
+        },
+        {
+          "truth": "경안문",
+          "top3": [
+            2,
+            3,
+            49
+          ],
+          "reference_top3": [
+            2,
+            3,
+            49
+          ],
+          "max_logit_error": 0.06388473510742188
+        },
+        {
+          "truth": "인수문",
+          "top3": [
+            3,
+            34,
+            49
+          ],
+          "reference_top3": [
+            3,
+            34,
+            49
+          ],
+          "max_logit_error": 0.05458831787109375
+        },
+        {
+          "truth": "공묵재",
+          "top3": [
+            8,
+            6,
+            51
+          ],
+          "reference_top3": [
+            8,
+            6,
+            51
+          ],
+          "max_logit_error": 0.06517982482910156
+        },
+        {
+          "truth": "숙문당",
+          "top3": [
+            5,
+            34,
+            11
+          ],
+          "reference_top3": [
+            5,
+            34,
+            11
+          ],
+          "max_logit_error": 0.06150054931640625
+        },
+        {
+          "truth": "태원전",
+          "top3": [
+            6,
+            25,
+            40
+          ],
+          "reference_top3": [
+            6,
+            25,
+            40
+          ],
+          "max_logit_error": 0.06535530090332031
+        },
+        {
+          "truth": "건길문",
+          "top3": [
+            7,
+            34,
+            58
+          ],
+          "reference_top3": [
+            7,
+            34,
+            58
+          ],
+          "max_logit_error": 0.15625
+        },
+        {
+          "truth": "영사재",
+          "top3": [
+            8,
+            4,
+            34
+          ],
+          "reference_top3": [
+            8,
+            4,
+            34
+          ],
+          "max_logit_error": 0.06755828857421875
+        },
+        {
+          "truth": "보강문",
+          "top3": [
+            9,
+            10,
+            16
+          ],
+          "reference_top3": [
+            9,
+            10,
+            16
+          ],
+          "max_logit_error": 0.09096717834472656
+        },
+        {
+          "truth": "홍경문",
+          "top3": [
+            10,
+            9,
+            16
+          ],
+          "reference_top3": [
+            10,
+            9,
+            16
+          ],
+          "max_logit_error": 0.059814453125
+        },
+        {
+          "truth": "일중문",
+          "top3": [
+            11,
+            10,
+            9
+          ],
+          "reference_top3": [
+            11,
+            10,
+            9
+          ],
+          "max_logit_error": 0.1028172867372632
+        }
+      ],
+      "n": 36,
+      "median_ms": 100.4000000001397,
+      "top1_agree": 12,
+      "top3_order_agree": 12,
+      "status": "executed",
+      "parity_status": "matched_on_fixture"
+    },
+    {
+      "provider": "wasm",
+      "model": "fp32",
+      "load_ms": 59.699999999953434,
+      "predictions": [
+        {
+          "truth": "기원문",
+          "top3": [
+            0,
+            3,
+            8
+          ],
+          "reference_top3": [
+            0,
+            3,
+            8
+          ],
+          "max_logit_error": 0.0002079010009765625
+        },
+        {
+          "truth": "건숙문",
+          "top3": [
+            1,
+            11,
+            32
+          ],
+          "reference_top3": [
+            1,
+            11,
+            32
+          ],
+          "max_logit_error": 0.000545501708984375
+        },
+        {
+          "truth": "경안문",
+          "top3": [
+            2,
+            3,
+            49
+          ],
+          "reference_top3": [
+            2,
+            3,
+            49
+          ],
+          "max_logit_error": 0.00023555755615234375
+        },
+        {
+          "truth": "인수문",
+          "top3": [
+            3,
+            34,
+            49
+          ],
+          "reference_top3": [
+            3,
+            34,
+            49
+          ],
+          "max_logit_error": 0.0001583099365234375
+        },
+        {
+          "truth": "공묵재",
+          "top3": [
+            8,
+            6,
+            51
+          ],
+          "reference_top3": [
+            8,
+            6,
+            51
+          ],
+          "max_logit_error": 0.0003032684326171875
+        },
+        {
+          "truth": "숙문당",
+          "top3": [
+            5,
+            34,
+            11
+          ],
+          "reference_top3": [
+            5,
+            34,
+            11
+          ],
+          "max_logit_error": 0.000202178955078125
+        },
+        {
+          "truth": "태원전",
+          "top3": [
+            6,
+            25,
+            40
+          ],
+          "reference_top3": [
+            6,
+            25,
+            40
+          ],
+          "max_logit_error": 0.0002841949462890625
+        },
+        {
+          "truth": "건길문",
+          "top3": [
+            7,
+            34,
+            58
+          ],
+          "reference_top3": [
+            7,
+            34,
+            58
+          ],
+          "max_logit_error": 0.000209808349609375
+        },
+        {
+          "truth": "영사재",
+          "top3": [
+            8,
+            4,
+            34
+          ],
+          "reference_top3": [
+            8,
+            4,
+            34
+          ],
+          "max_logit_error": 0.000156402587890625
+        },
+        {
+          "truth": "보강문",
+          "top3": [
+            9,
+            10,
+            16
+          ],
+          "reference_top3": [
+            9,
+            10,
+            16
+          ],
+          "max_logit_error": 0.0001888275146484375
+        },
+        {
+          "truth": "홍경문",
+          "top3": [
+            10,
+            9,
+            16
+          ],
+          "reference_top3": [
+            10,
+            9,
+            16
+          ],
+          "max_logit_error": 0.000270843505859375
+        },
+        {
+          "truth": "일중문",
+          "top3": [
+            11,
+            10,
+            9
+          ],
+          "reference_top3": [
+            11,
+            10,
+            9
+          ],
+          "max_logit_error": 0.0003528594970703125
+        }
+      ],
+      "n": 36,
+      "median_ms": 102.19999999995343,
+      "top1_agree": 12,
+      "top3_order_agree": 12,
+      "status": "executed",
+      "parity_status": "matched_on_fixture"
+    },
+    {
+      "provider": "wasm",
+      "model": "fp16",
+      "load_ms": 108.39999999990687,
+      "predictions": [
+        {
+          "truth": "기원문",
+          "top3": [
+            0,
+            3,
+            8
+          ],
+          "reference_top3": [
+            0,
+            3,
+            8
+          ],
+          "max_logit_error": 0.05527162551879883
+        },
+        {
+          "truth": "건숙문",
+          "top3": [
+            1,
+            11,
+            32
+          ],
+          "reference_top3": [
+            1,
+            11,
+            32
+          ],
+          "max_logit_error": 0.10696220397949219
+        },
+        {
+          "truth": "경안문",
+          "top3": [
+            2,
+            3,
+            49
+          ],
+          "reference_top3": [
+            2,
+            3,
+            49
+          ],
+          "max_logit_error": 0.08409881591796875
+        },
+        {
+          "truth": "인수문",
+          "top3": [
+            3,
+            34,
+            49
+          ],
+          "reference_top3": [
+            3,
+            34,
+            49
+          ],
+          "max_logit_error": 0.061275482177734375
+        },
+        {
+          "truth": "공묵재",
+          "top3": [
+            8,
+            6,
+            51
+          ],
+          "reference_top3": [
+            8,
+            6,
+            51
+          ],
+          "max_logit_error": 0.07796096801757812
+        },
+        {
+          "truth": "숙문당",
+          "top3": [
+            5,
+            34,
+            11
+          ],
+          "reference_top3": [
+            5,
+            34,
+            11
+          ],
+          "max_logit_error": 0.065399169921875
+        },
+        {
+          "truth": "태원전",
+          "top3": [
+            6,
+            25,
+            40
+          ],
+          "reference_top3": [
+            6,
+            25,
+            40
+          ],
+          "max_logit_error": 0.08101272583007812
+        },
+        {
+          "truth": "건길문",
+          "top3": [
+            7,
+            34,
+            58
+          ],
+          "reference_top3": [
+            7,
+            34,
+            58
+          ],
+          "max_logit_error": 0.18749237060546875
+        },
+        {
+          "truth": "영사재",
+          "top3": [
+            8,
+            4,
+            34
+          ],
+          "reference_top3": [
+            8,
+            4,
+            34
+          ],
+          "max_logit_error": 0.07531929016113281
+        },
+        {
+          "truth": "보강문",
+          "top3": [
+            9,
+            10,
+            16
+          ],
+          "reference_top3": [
+            9,
+            10,
+            16
+          ],
+          "max_logit_error": 0.10572242736816406
+        },
+        {
+          "truth": "홍경문",
+          "top3": [
+            10,
+            9,
+            16
+          ],
+          "reference_top3": [
+            10,
+            9,
+            16
+          ],
+          "max_logit_error": 0.0713653564453125
+        },
+        {
+          "truth": "일중문",
+          "top3": [
+            11,
+            10,
+            9
+          ],
+          "reference_top3": [
+            11,
+            10,
+            9
+          ],
+          "max_logit_error": 0.10783414263278246
+        }
+      ],
+      "n": 36,
+      "median_ms": 98.5,
+      "top1_agree": 12,
+      "top3_order_agree": 12,
+      "status": "executed",
+      "parity_status": "matched_on_fixture"
+    },
+    {
+      "provider": "wasm",
+      "model": "weight_int8",
+      "load_ms": 57.60000000009313,
+      "predictions": [
+        {
+          "truth": "기원문",
+          "top3": [
+            3,
+            0,
+            8
+          ],
+          "reference_top3": [
+            0,
+            3,
+            8
+          ],
+          "max_logit_error": 1.944528579711914
+        },
+        {
+          "truth": "건숙문",
+          "top3": [
+            1,
+            11,
+            32
+          ],
+          "reference_top3": [
+            1,
+            11,
+            32
+          ],
+          "max_logit_error": 3.6089439392089844
+        },
+        {
+          "truth": "경안문",
+          "top3": [
+            2,
+            3,
+            49
+          ],
+          "reference_top3": [
+            2,
+            3,
+            49
+          ],
+          "max_logit_error": 2.5596965551376343
+        },
+        {
+          "truth": "인수문",
+          "top3": [
+            3,
+            34,
+            49
+          ],
+          "reference_top3": [
+            3,
+            34,
+            49
+          ],
+          "max_logit_error": 2.520275115966797
+        },
+        {
+          "truth": "공묵재",
+          "top3": [
+            34,
+            8,
+            51
+          ],
+          "reference_top3": [
+            8,
+            6,
+            51
+          ],
+          "max_logit_error": 1.7382783889770508
+        },
+        {
+          "truth": "숙문당",
+          "top3": [
+            5,
+            34,
+            11
+          ],
+          "reference_top3": [
+            5,
+            34,
+            11
+          ],
+          "max_logit_error": 2.300473213195801
+        },
+        {
+          "truth": "태원전",
+          "top3": [
+            6,
+            25,
+            40
+          ],
+          "reference_top3": [
+            6,
+            25,
+            40
+          ],
+          "max_logit_error": 2.176637649536133
+        },
+        {
+          "truth": "건길문",
+          "top3": [
+            7,
+            34,
+            58
+          ],
+          "reference_top3": [
+            7,
+            34,
+            58
+          ],
+          "max_logit_error": 2.711793899536133
+        },
+        {
+          "truth": "영사재",
+          "top3": [
+            8,
+            34,
+            4
+          ],
+          "reference_top3": [
+            8,
+            4,
+            34
+          ],
+          "max_logit_error": 2.9097213745117188
+        },
+        {
+          "truth": "보강문",
+          "top3": [
+            9,
+            16,
+            10
+          ],
+          "reference_top3": [
+            9,
+            10,
+            16
+          ],
+          "max_logit_error": 1.4431743621826172
+        },
+        {
+          "truth": "홍경문",
+          "top3": [
+            10,
+            9,
+            16
+          ],
+          "reference_top3": [
+            10,
+            9,
+            16
+          ],
+          "max_logit_error": 1.9084358215332031
+        },
+        {
+          "truth": "일중문",
+          "top3": [
+            11,
+            10,
+            9
+          ],
+          "reference_top3": [
+            11,
+            10,
+            9
+          ],
+          "max_logit_error": 2.9198551177978516
+        }
+      ],
+      "n": 36,
+      "median_ms": 99.70000000018626,
+      "top1_agree": 10,
+      "top3_order_agree": 8,
+      "status": "executed",
+      "parity_status": "prediction_difference"
+    },
+    {
+      "provider": "webgpu",
+      "model": "weight_fp16",
+      "load_ms": 197.5999999998603,
+      "predictions": [
+        {
+          "truth": "기원문",
+          "top3": [
+            0,
+            3,
+            8
+          ],
+          "reference_top3": [
+            0,
+            3,
+            8
+          ],
+          "max_logit_error": 0.0516815185546875
+        },
+        {
+          "truth": "건숙문",
+          "top3": [
+            1,
+            11,
+            32
+          ],
+          "reference_top3": [
+            1,
+            11,
+            32
+          ],
+          "max_logit_error": 0.10168266296386719
+        },
+        {
+          "truth": "경안문",
+          "top3": [
+            2,
+            3,
+            49
+          ],
+          "reference_top3": [
+            2,
+            3,
+            49
+          ],
+          "max_logit_error": 0.06383132934570312
+        },
+        {
+          "truth": "인수문",
+          "top3": [
+            3,
+            34,
+            49
+          ],
+          "reference_top3": [
+            3,
+            34,
+            49
+          ],
+          "max_logit_error": 0.05460929870605469
+        },
+        {
+          "truth": "공묵재",
+          "top3": [
+            8,
+            6,
+            51
+          ],
+          "reference_top3": [
+            8,
+            6,
+            51
+          ],
+          "max_logit_error": 0.06514358520507812
+        },
+        {
+          "truth": "숙문당",
+          "top3": [
+            5,
+            34,
+            11
+          ],
+          "reference_top3": [
+            5,
+            34,
+            11
+          ],
+          "max_logit_error": 0.06148719787597656
+        },
+        {
+          "truth": "태원전",
+          "top3": [
+            6,
+            25,
+            40
+          ],
+          "reference_top3": [
+            6,
+            25,
+            40
+          ],
+          "max_logit_error": 0.06537628173828125
+        },
+        {
+          "truth": "건길문",
+          "top3": [
+            7,
+            34,
+            58
+          ],
+          "reference_top3": [
+            7,
+            34,
+            58
+          ],
+          "max_logit_error": 0.1562957763671875
+        },
+        {
+          "truth": "영사재",
+          "top3": [
+            8,
+            4,
+            34
+          ],
+          "reference_top3": [
+            8,
+            4,
+            34
+          ],
+          "max_logit_error": 0.06755256652832031
+        },
+        {
+          "truth": "보강문",
+          "top3": [
+            9,
+            10,
+            16
+          ],
+          "reference_top3": [
+            9,
+            10,
+            16
+          ],
+          "max_logit_error": 0.09085273742675781
+        },
+        {
+          "truth": "홍경문",
+          "top3": [
+            10,
+            9,
+            16
+          ],
+          "reference_top3": [
+            10,
+            9,
+            16
+          ],
+          "max_logit_error": 0.05977630615234375
+        },
+        {
+          "truth": "일중문",
+          "top3": [
+            11,
+            10,
+            9
+          ],
+          "reference_top3": [
+            11,
+            10,
+            9
+          ],
+          "max_logit_error": 0.10280693788081408
+        }
+      ],
+      "n": 36,
+      "median_ms": 22.600000000093132,
+      "top1_agree": 12,
+      "top3_order_agree": 12,
+      "status": "executed",
+      "parity_status": "matched_on_fixture"
+    },
+    {
+      "provider": "webgpu",
+      "model": "fp32",
+      "load_ms": 1150.8999999999069,
+      "predictions": [
+        {
+          "truth": "기원문",
+          "top3": [
+            0,
+            3,
+            8
+          ],
+          "reference_top3": [
+            0,
+            3,
+            8
+          ],
+          "max_logit_error": 0.000026702880859375
+        },
+        {
+          "truth": "건숙문",
+          "top3": [
+            1,
+            11,
+            32
+          ],
+          "reference_top3": [
+            1,
+            11,
+            32
+          ],
+          "max_logit_error": 0.0000476837158203125
+        },
+        {
+          "truth": "경안문",
+          "top3": [
+            2,
+            3,
+            49
+          ],
+          "reference_top3": [
+            2,
+            3,
+            49
+          ],
+          "max_logit_error": 0.000034332275390625
+        },
+        {
+          "truth": "인수문",
+          "top3": [
+            3,
+            34,
+            49
+          ],
+          "reference_top3": [
+            3,
+            34,
+            49
+          ],
+          "max_logit_error": 0.000026702880859375
+        },
+        {
+          "truth": "공묵재",
+          "top3": [
+            8,
+            6,
+            51
+          ],
+          "reference_top3": [
+            8,
+            6,
+            51
+          ],
+          "max_logit_error": 0.000030517578125
+        },
+        {
+          "truth": "숙문당",
+          "top3": [
+            5,
+            34,
+            11
+          ],
+          "reference_top3": [
+            5,
+            34,
+            11
+          ],
+          "max_logit_error": 0.0000247955322265625
+        },
+        {
+          "truth": "태원전",
+          "top3": [
+            6,
+            25,
+            40
+          ],
+          "reference_top3": [
+            6,
+            25,
+            40
+          ],
+          "max_logit_error": 0.000049591064453125
+        },
+        {
+          "truth": "건길문",
+          "top3": [
+            7,
+            34,
+            58
+          ],
+          "reference_top3": [
+            7,
+            34,
+            58
+          ],
+          "max_logit_error": 0.000030517578125
+        },
+        {
+          "truth": "영사재",
+          "top3": [
+            8,
+            4,
+            34
+          ],
+          "reference_top3": [
+            8,
+            4,
+            34
+          ],
+          "max_logit_error": 0.00003814697265625
+        },
+        {
+          "truth": "보강문",
+          "top3": [
+            9,
+            10,
+            16
+          ],
+          "reference_top3": [
+            9,
+            10,
+            16
+          ],
+          "max_logit_error": 0.000049591064453125
+        },
+        {
+          "truth": "홍경문",
+          "top3": [
+            10,
+            9,
+            16
+          ],
+          "reference_top3": [
+            10,
+            9,
+            16
+          ],
+          "max_logit_error": 0.000019073486328125
+        },
+        {
+          "truth": "일중문",
+          "top3": [
+            11,
+            10,
+            9
+          ],
+          "reference_top3": [
+            11,
+            10,
+            9
+          ],
+          "max_logit_error": 0.00002956390380859375
+        }
+      ],
+      "n": 36,
+      "median_ms": 28.700000000186265,
+      "top1_agree": 12,
+      "top3_order_agree": 12,
+      "status": "executed",
+      "parity_status": "matched_on_fixture"
+    },
+    {
+      "provider": "webgpu",
+      "model": "fp16",
+      "load_ms": 92.5,
+      "status": "failed",
+      "error": "Error: Invalid logits: expected 60 finite numbers; FP16 numerical compatibility must be checked."
+    },
+    {
+      "provider": "webgpu",
+      "model": "weight_int8",
+      "load_ms": 119.4000000001397,
+      "predictions": [
+        {
+          "truth": "기원문",
+          "top3": [
+            3,
+            0,
+            8
+          ],
+          "reference_top3": [
+            0,
+            3,
+            8
+          ],
+          "max_logit_error": 1.9442253112792969
+        },
+        {
+          "truth": "건숙문",
+          "top3": [
+            1,
+            11,
+            32
+          ],
+          "reference_top3": [
+            1,
+            11,
+            32
+          ],
+          "max_logit_error": 3.6086559295654297
+        },
+        {
+          "truth": "경안문",
+          "top3": [
+            2,
+            3,
+            49
+          ],
+          "reference_top3": [
+            2,
+            3,
+            49
+          ],
+          "max_logit_error": 2.559601664543152
+        },
+        {
+          "truth": "인수문",
+          "top3": [
+            3,
+            34,
+            49
+          ],
+          "reference_top3": [
+            3,
+            34,
+            49
+          ],
+          "max_logit_error": 2.5202255249023438
+        },
+        {
+          "truth": "공묵재",
+          "top3": [
+            34,
+            8,
+            51
+          ],
+          "reference_top3": [
+            8,
+            6,
+            51
+          ],
+          "max_logit_error": 1.7386045455932617
+        },
+        {
+          "truth": "숙문당",
+          "top3": [
+            5,
+            34,
+            11
+          ],
+          "reference_top3": [
+            5,
+            34,
+            11
+          ],
+          "max_logit_error": 2.300295829772949
+        },
+        {
+          "truth": "태원전",
+          "top3": [
+            6,
+            25,
+            40
+          ],
+          "reference_top3": [
+            6,
+            25,
+            40
+          ],
+          "max_logit_error": 2.1766433715820312
+        },
+        {
+          "truth": "건길문",
+          "top3": [
+            7,
+            34,
+            58
+          ],
+          "reference_top3": [
+            7,
+            34,
+            58
+          ],
+          "max_logit_error": 2.711700439453125
+        },
+        {
+          "truth": "영사재",
+          "top3": [
+            8,
+            34,
+            4
+          ],
+          "reference_top3": [
+            8,
+            4,
+            34
+          ],
+          "max_logit_error": 2.9096813201904297
+        },
+        {
+          "truth": "보강문",
+          "top3": [
+            9,
+            16,
+            10
+          ],
+          "reference_top3": [
+            9,
+            10,
+            16
+          ],
+          "max_logit_error": 1.4431953430175781
+        },
+        {
+          "truth": "홍경문",
+          "top3": [
+            10,
+            9,
+            16
+          ],
+          "reference_top3": [
+            10,
+            9,
+            16
+          ],
+          "max_logit_error": 1.908426284790039
+        },
+        {
+          "truth": "일중문",
+          "top3": [
+            11,
+            10,
+            9
+          ],
+          "reference_top3": [
+            11,
+            10,
+            9
+          ],
+          "max_logit_error": 2.9197311401367188
+        }
+      ],
+      "n": 36,
+      "median_ms": 26.299999999813735,
+      "top1_agree": 10,
+      "top3_order_agree": 8,
+      "status": "executed",
+      "parity_status": "prediction_difference"
+    }
+  ],
+  "webgpu": true,
+  "adapter": {
+    "vendor": "intel",
+    "architecture": "gen-12lp",
+    "device": "",
+    "description": "",
+    "features": [
+      "depth32float-stencil8",
+      "rg11b10ufloat-renderable",
+      "bgra8unorm-storage",
+      "texture-formats-tier1",
+      "texture-compression-bc",
+      "dual-source-blending",
+      "core-features-and-limits",
+      "float32-filterable",
+      "indirect-first-instance",
+      "float32-blendable",
+      "subgroup-size-control",
+      "texture-compression-unaligned",
+      "depth-clip-control",
+      "texture-compression-bc-sliced-3d",
+      "clip-distances",
+      "texture-formats-tier2",
+      "timestamp-query",
+      "shader-f16",
+      "primitive-index",
+      "texture-component-swizzle",
+      "subgroups"
+    ]
+  }
+}

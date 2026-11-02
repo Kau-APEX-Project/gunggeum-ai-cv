@@ -1,0 +1,137 @@
+{
+  "created": "2026-10-31T14:34:52.332Z",
+  "reported_device": "iPhone 14 Pro Max",
+  "reported_os": "27.0.1 (user supplied)",
+  "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0.1 Mobile/15E148 Safari/604.1",
+  "secure_context": true,
+  "requested_mode": "wasm",
+  "model": "exp005_weight_fp16_fp32_compute",
+  "ort_version": "1.30.0",
+  "model_sha256": "48f165745903ccb7dfa791411f1475874183f868020a4a09ecefe482d81a46c4",
+  "events": [],
+  "photos": [
+    {
+      "bytes": 381534,
+      "mime": "image/jpeg",
+      "provider": "wasm",
+      "preprocessing_ms": 26,
+      "first_inference_ms": 92,
+      "end_to_end_first_ms": 118,
+      "repeat_inference_ms": [
+        71,
+        69,
+        69
+      ],
+      "candidates": [
+        {
+          "rank": 1,
+          "class_index": 24,
+          "name_ko": "경회루",
+          "score": 0.9999947267035691,
+          "card_id": "b-173",
+          "mapping_status": "confirmed"
+        },
+        {
+          "rank": 2,
+          "class_index": 23,
+          "name_ko": "향원정",
+          "score": 0.0000035716312768425278,
+          "card_id": "b-174",
+          "mapping_status": "confirmed"
+        },
+        {
+          "rank": 3,
+          "class_index": 30,
+          "name_ko": "근정전",
+          "score": 0.0000015737862106519477,
+          "card_id": "b-160",
+          "mapping_status": "confirmed"
+        }
+      ]
+    },
+    {
+      "bytes": 45393,
+      "mime": "image/jpeg",
+      "provider": "wasm",
+      "preprocessing_ms": 9,
+      "first_inference_ms": 73,
+      "end_to_end_first_ms": 82,
+      "repeat_inference_ms": [
+        72,
+        70,
+        69
+      ],
+      "candidates": [
+        {
+          "rank": 1,
+          "class_index": 53,
+          "name_ko": "계조당",
+          "score": 0.9990155810347233,
+          "card_id": "b-223",
+          "mapping_status": "confirmed"
+        },
+        {
+          "rank": 2,
+          "class_index": 27,
+          "name_ko": "흥복전",
+          "score": 0.0009483577913285452,
+          "card_id": "b-207",
+          "mapping_status": "confirmed"
+        },
+        {
+          "rank": 3,
+          "class_index": 19,
+          "name_ko": "녹금당",
+          "score": 0.00003343186124993977,
+          "card_id": "b-203",
+          "mapping_status": "confirmed"
+        }
+      ]
+    },
+    {
+      "bytes": 35187,
+      "mime": "image/jpeg",
+      "provider": "wasm",
+      "preprocessing_ms": 9,
+      "first_inference_ms": 72,
+      "end_to_end_first_ms": 81,
+      "repeat_inference_ms": [
+        72,
+        71,
+        68
+      ],
+      "candidates": [
+        {
+          "rank": 1,
+          "class_index": 55,
+          "name_ko": "건춘문",
+          "score": 0.977081911359193,
+          "card_id": "b-152",
+          "mapping_status": "confirmed"
+        },
+        {
+          "rank": 2,
+          "class_index": 30,
+          "name_ko": "근정전",
+          "score": 0.012464571104057586,
+          "card_id": "b-160",
+          "mapping_status": "confirmed"
+        },
+        {
+          "rank": 3,
+          "class_index": 50,
+          "name_ko": "광화문",
+          "score": 0.009558859693200654,
+          "card_id": "b-151",
+          "mapping_status": "confirmed"
+        }
+      ]
+    }
+  ],
+  "download_ms": 1051,
+  "model_bytes": 8219422,
+  "session_create_ms": 4236,
+  "preparation_total_ms": 5675,
+  "provider": "wasm",
+  "status": "completed"
+}

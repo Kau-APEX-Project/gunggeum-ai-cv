@@ -1,0 +1,8 @@
+<!doctype html><meta charset="utf-8"><title>전각 사진 입력 검증</title>
+<style>body{font:16px system-ui;max-width:900px;margin:30px auto;padding:16px}button,input{margin:8px;padding:8px}img{max-width:100%;max-height:360px}pre{white-space:pre-wrap}table{border-collapse:collapse}td,th{padding:12px;border:1px solid #ddd}</style>
+<h1>전각 사진 입력 검증</h1>
+<p>가중치 FP16 모델과 FP32 원본에 같은 브라우저 전처리 사진을 입력합니다. 점수는 Softmax 값이며 정확도가 아닙니다.</p>
+<button id="load">1. 모델 준비</button><button id="test" disabled>비공개 fixture 비교 제외</button>
+<input id="photo" type="file" accept="image/*" disabled><button id="save" disabled>결과 다운로드</button>
+<p id="status">준비 전</p><img id="preview" alt="선택한 사진" hidden><div id="predictions"></div><pre id="result"></pre>
+<script type="module" src="photo_check.js"></script>

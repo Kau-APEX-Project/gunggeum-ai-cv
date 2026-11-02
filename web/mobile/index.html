@@ -1,0 +1,10 @@
+<!doctype html><html lang="ko"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>전각 모델 모바일 점검</title>
+<style>body{font:16px system-ui;margin:20px;max-width:700px}button,select,input{font:inherit;padding:12px;max-width:100%;margin:6px 0}pre{white-space:pre-wrap;overflow-wrap:anywhere}img{max-width:100%;max-height:280px}li{margin:12px 0}</style>
+<h1>전각 모델 모바일 점검</h1><p>선택한 사진은 기기 안에서 처리하며 서버에 업로드하지 않습니다.</p>
+<label>실행 방식 <select id="mode"><option value="auto">자동 WebGPU 우선</option><option value="wasm">CPU WASM 강제</option></select></label>
+<button id="load">모델 준비</button><p id="status">준비 전</p>
+<label>사진 선택 <input id="photo" type="file" accept="image/*" disabled></label>
+<img id="preview" hidden alt="선택 사진"><ol id="candidates"></ol><p>점수는 Softmax 값이며 정답 확률을 보장하지 않습니다.</p>
+<button id="save" disabled>결과 JSON 다운로드</button><pre id="result"></pre>
+<script type="module" src="app.js?v=2"></script></html>
+

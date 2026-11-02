@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "provider": "webgpu",
+      "preparation_total_ms": 5320,
+      "download_ms": 1069,
+      "session_create_ms": 3857,
+      "repeat_median_ms": 61
+    },
+    {
+      "provider": "wasm",
+      "preparation_total_ms": 5675,
+      "download_ms": 1051,
+      "session_create_ms": 4236,
+      "repeat_median_ms": 70
+    }
+  ],
+  "cache_state": "Not independently recorded; cold-cache procedure requires user confirmation",
+  "scope": "3 photos per provider; same ordered Top-3, not an accuracy evaluation"
+}

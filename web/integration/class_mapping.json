@@ -1,0 +1,1031 @@
+{
+  "model_version": "exp005_epoch16",
+  "mapping_version": "source-matched-20261030",
+  "classes": [
+    {
+      "class_index": 0,
+      "dataset_class": "01_기원문",
+      "name_ko": "기원문",
+      "legacy_provisional_id": "building:187",
+      "building_serial": 186,
+      "card_id": "b-186",
+      "poi_id": "place:p-3",
+      "mapping_status": "confirmed",
+      "name_en": "Giwonmun (Gate to Laundry Quarters)",
+      "name_th": "คีวอนมุน (ประตูสู่ตำหนักซักรีด)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 1,
+      "dataset_class": "02_건숙문",
+      "name_ko": "건숙문",
+      "legacy_provisional_id": "building:188",
+      "building_serial": 187,
+      "card_id": "b-187",
+      "poi_id": "place:geonsukmun-gate",
+      "mapping_status": "confirmed",
+      "name_en": "Geonsungmun (Outer Gate)",
+      "name_th": "คอนซุงมุน (ประตูชั้นนอก)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 2,
+      "dataset_class": "03_경안문",
+      "name_ko": "경안문",
+      "legacy_provisional_id": "building:189",
+      "building_serial": 188,
+      "card_id": "b-188",
+      "poi_id": "place:gyeonganmun-gate",
+      "mapping_status": "confirmed",
+      "name_en": "Gyeonganmun (Inner Gate)",
+      "name_th": "คยองอันมุน (ประตูชั้นใน)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 3,
+      "dataset_class": "04_인수문",
+      "name_ko": "인수문",
+      "legacy_provisional_id": "building:190",
+      "building_serial": 189,
+      "card_id": "b-189",
+      "poi_id": "place:p-8",
+      "mapping_status": "confirmed",
+      "name_en": "Insumun (Courtyard Gate)",
+      "name_th": "อินซูมุน (ประตูสู่ลาน)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 4,
+      "dataset_class": "05_공묵재",
+      "name_ko": "공묵재",
+      "legacy_provisional_id": "building:191",
+      "building_serial": 190,
+      "card_id": "b-190",
+      "poi_id": "place:gongbukjae",
+      "mapping_status": "confirmed",
+      "name_en": "Gongmukjae (Royal Mourning Residence)",
+      "name_th": "คงมุกแจ (ที่ประทับหลวงช่วงไว้ทุกข์)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 5,
+      "dataset_class": "06_숙문당",
+      "name_ko": "숙문당",
+      "legacy_provisional_id": "building:192",
+      "building_serial": 191,
+      "card_id": "b-191",
+      "poi_id": "place:sungmundang",
+      "mapping_status": "confirmed",
+      "name_en": "Sungmundang (Royal Hall)",
+      "name_th": "ซุงมุนดัง (ตำหนักหลวง)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 6,
+      "dataset_class": "07_태원전",
+      "name_ko": "태원전",
+      "legacy_provisional_id": "building:176",
+      "building_serial": 175,
+      "card_id": "b-175",
+      "poi_id": "place:taewonjeon",
+      "mapping_status": "confirmed",
+      "name_en": "Taewonjeon (Funeral Hall)",
+      "name_th": "แทวอนจอน (ตำหนักประดิษฐานพระศพ)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 7,
+      "dataset_class": "08_건길문",
+      "name_ko": "건길문",
+      "legacy_provisional_id": "building:193",
+      "building_serial": 192,
+      "card_id": "b-192",
+      "poi_id": "place:p-2",
+      "mapping_status": "confirmed",
+      "name_en": "Geongilmun (Gate to Yeongsajae)",
+      "name_th": "คอนกิลมุน (ประตูสู่ยองซาแจ)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 8,
+      "dataset_class": "09_영사재",
+      "name_ko": "영사재",
+      "legacy_provisional_id": "building:194",
+      "building_serial": 193,
+      "card_id": "b-193",
+      "poi_id": "place:yeongsajae",
+      "mapping_status": "confirmed",
+      "name_en": "Yeongsajae (Inner Mourning Residence)",
+      "name_th": "ยองซาแจ (ที่ประทับฝ่ายในช่วงไว้ทุกข์)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 9,
+      "dataset_class": "10_보강문",
+      "name_ko": "보강문",
+      "legacy_provisional_id": "building:195",
+      "building_serial": 194,
+      "card_id": "b-194",
+      "poi_id": "place:p-28",
+      "mapping_status": "confirmed",
+      "name_en": "Bogangmun (Wall Gate)",
+      "name_th": "โพกังมุน (ประตูช่องกำแพง)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 10,
+      "dataset_class": "11_홍경문",
+      "name_ko": "홍경문",
+      "legacy_provisional_id": "building:196",
+      "building_serial": 195,
+      "card_id": "b-195",
+      "poi_id": "place:honggyeongmun",
+      "mapping_status": "confirmed",
+      "name_en": "Honggyeongmun (Gate to Gongmukjae)",
+      "name_th": "ฮงคยองมุน (ประตูสู่คงมุกแจ)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 11,
+      "dataset_class": "12_일중문",
+      "name_ko": "일중문",
+      "legacy_provisional_id": "building:197",
+      "building_serial": 196,
+      "card_id": "b-196",
+      "poi_id": "place:iljungmun-gate",
+      "mapping_status": "confirmed",
+      "name_en": "Iljungmun (Gate)",
+      "name_th": "อิลจุงมุน (ประตู)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 12,
+      "dataset_class": "13_필성문",
+      "name_ko": "필성문",
+      "legacy_provisional_id": "building:198",
+      "building_serial": 197,
+      "card_id": "b-197",
+      "poi_id": "place:p-29",
+      "mapping_status": "confirmed",
+      "name_en": "Pilseongmun (Gate)",
+      "name_th": "พิลซองมุน (ประตู)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 13,
+      "dataset_class": "14_장안당",
+      "name_ko": "장안당",
+      "legacy_provisional_id": "building:199",
+      "building_serial": 198,
+      "card_id": "b-198",
+      "poi_id": "place:jangandang",
+      "mapping_status": "confirmed",
+      "name_en": "Jangandang (Residence Hall)",
+      "name_th": "จังอันดัง (เรือนประทับ)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 14,
+      "dataset_class": "15_초양문",
+      "name_ko": "초양문",
+      "legacy_provisional_id": "building:200",
+      "building_serial": 199,
+      "card_id": "b-199",
+      "poi_id": "place:p-11",
+      "mapping_status": "confirmed",
+      "name_en": "Choyangmun (Gate)",
+      "name_th": "โชยังมุน (ประตู)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 15,
+      "dataset_class": "16_건청궁",
+      "name_ko": "건청궁",
+      "legacy_provisional_id": "building:177",
+      "building_serial": 176,
+      "card_id": "b-176",
+      "poi_id": "place:p-25",
+      "mapping_status": "confirmed",
+      "name_en": "Geoncheonggung (Royal Residence)",
+      "name_th": "คอนชองกุง (ที่ประทับหลวง)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 16,
+      "dataset_class": "17_인유문",
+      "name_ko": "인유문",
+      "legacy_provisional_id": "building:201",
+      "building_serial": 200,
+      "card_id": "b-200",
+      "poi_id": "place:p-30",
+      "mapping_status": "confirmed",
+      "name_en": "Inyumun (Gate)",
+      "name_th": "อินยูมุน (ประตู)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 17,
+      "dataset_class": "18_정시합",
+      "name_ko": "정시합",
+      "legacy_provisional_id": "building:202",
+      "building_serial": 201,
+      "card_id": "b-201",
+      "poi_id": "place:p-31",
+      "mapping_status": "confirmed",
+      "name_en": "Jeongsihap (Bedchamber)",
+      "name_th": "จองซีฮับ (ห้องบรรทม)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 18,
+      "dataset_class": "19_복수당",
+      "name_ko": "복수당",
+      "legacy_provisional_id": "building:203",
+      "building_serial": 202,
+      "card_id": "b-202",
+      "poi_id": "place:boksudang",
+      "mapping_status": "confirmed",
+      "name_en": "Boksudang (Residence Hall)",
+      "name_th": "พกซูดัง (เรือนพัก)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 19,
+      "dataset_class": "20_녹금당",
+      "name_ko": "녹금당",
+      "legacy_provisional_id": "building:204",
+      "building_serial": 203,
+      "card_id": "b-203",
+      "poi_id": "place:p-32",
+      "mapping_status": "confirmed",
+      "name_en": "Nokgeumdang (Residence Hall)",
+      "name_th": "นกกึมดัง (เรือนพัก)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 20,
+      "dataset_class": "21_곤녕합",
+      "name_ko": "곤녕합",
+      "legacy_provisional_id": "building:205",
+      "building_serial": 204,
+      "card_id": "b-204",
+      "poi_id": "place:gonnyeonghap",
+      "mapping_status": "confirmed",
+      "name_en": "Gonnyeonghap (Queen’s Residence)",
+      "name_th": "คน-นยองฮับ (ตำหนักพระมเหสี)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 21,
+      "dataset_class": "22_협길당",
+      "name_ko": "협길당",
+      "legacy_provisional_id": "building:206",
+      "building_serial": 205,
+      "card_id": "b-205",
+      "poi_id": "place:hyeopgildang",
+      "mapping_status": "confirmed",
+      "name_en": "Hyeopgildang (Residence Hall)",
+      "name_th": "ฮยอบกิลดัง (เรือนประทับ)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 22,
+      "dataset_class": "23_집옥재",
+      "name_ko": "집옥재",
+      "legacy_provisional_id": "building:178",
+      "building_serial": 177,
+      "card_id": "b-177",
+      "poi_id": "place:jibokjae",
+      "mapping_status": "confirmed",
+      "name_en": "Jibokjae (Royal Library)",
+      "name_th": "ชิบกแจ (หอพระสมุดหลวง)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 23,
+      "dataset_class": "24_향원정",
+      "name_ko": "향원정",
+      "legacy_provisional_id": "building:175",
+      "building_serial": 174,
+      "card_id": "b-174",
+      "poi_id": "place:hyangwonjeong",
+      "mapping_status": "confirmed",
+      "name_en": "Hyangwonjeong (Pond Pavilion)",
+      "name_th": "ฮยังวอนจอง (พลับพลากลางสระ)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 24,
+      "dataset_class": "25_경회루",
+      "name_ko": "경회루",
+      "legacy_provisional_id": "building:174",
+      "building_serial": 173,
+      "card_id": "b-173",
+      "poi_id": "place:gyeonghoeru-pavilion",
+      "mapping_status": "confirmed",
+      "name_en": "Gyeonghoeru (Banquet Pavilion)",
+      "name_th": "คยองฮเวรู (พลับพลาจัดงานเลี้ยง)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 25,
+      "dataset_class": "26_수정전",
+      "name_ko": "수정전",
+      "legacy_provisional_id": "building:179",
+      "building_serial": 178,
+      "card_id": "b-178",
+      "poi_id": "place:sujeongjeon",
+      "mapping_status": "confirmed",
+      "name_en": "Sujeongjeon (Royal Hall)",
+      "name_th": "ซูจองจอน (ตำหนักหลวง)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 26,
+      "dataset_class": "27_함화당",
+      "name_ko": "함화당",
+      "legacy_provisional_id": "building:207",
+      "building_serial": 206,
+      "card_id": "b-206",
+      "poi_id": "place:hamhwadang",
+      "mapping_status": "confirmed",
+      "name_en": "Hamhwadang (Bedchamber)",
+      "name_th": "ฮัมฮวาดัง (ห้องบรรทม)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 27,
+      "dataset_class": "28_흥복전",
+      "name_ko": "흥복전",
+      "legacy_provisional_id": "building:208",
+      "building_serial": 207,
+      "card_id": "b-207",
+      "poi_id": "place:heungbokjeon",
+      "mapping_status": "confirmed",
+      "name_en": "Heungbokjeon (Bedchamber)",
+      "name_th": "ฮึงบกจอน (ห้องบรรทม)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 28,
+      "dataset_class": "29_함원전",
+      "name_ko": "함원전",
+      "legacy_provisional_id": "building:168",
+      "building_serial": 167,
+      "card_id": "b-167",
+      "poi_id": "place:hamwonjeon",
+      "mapping_status": "confirmed",
+      "name_en": "Hamwonjeon (Buddhist Ritual Hall)",
+      "name_th": "ฮัมวอนจอน (ศาลาประกอบพิธีพุทธ)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 29,
+      "dataset_class": "30_흠경각",
+      "name_ko": "흠경각",
+      "legacy_provisional_id": "building:167",
+      "building_serial": 166,
+      "card_id": "b-166",
+      "poi_id": "place:heumgyeonggak",
+      "mapping_status": "confirmed",
+      "name_en": "Heumgyeonggak (Astronomical Clock Pavilion)",
+      "name_th": "ฮึมกยองกัก (หอนาฬิกาดาราศาสตร์)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 30,
+      "dataset_class": "31_근정전",
+      "name_ko": "근정전",
+      "legacy_provisional_id": "building:161",
+      "building_serial": 160,
+      "card_id": "b-160",
+      "poi_id": "place:geunjeongjeon-hall",
+      "mapping_status": "confirmed",
+      "name_en": "Geunjeongjeon (Throne Hall)",
+      "name_th": "คึนจองจอน (ท้องพระโรง)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 31,
+      "dataset_class": "32_용성문",
+      "name_ko": "용성문",
+      "legacy_provisional_id": "building:209",
+      "building_serial": 208,
+      "card_id": "b-208",
+      "poi_id": "place:yongseongmun-gate",
+      "mapping_status": "confirmed",
+      "name_en": "Yongseongmun (Gate)",
+      "name_th": "ยงซองมุน (ประตู)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 32,
+      "dataset_class": "33_협생문",
+      "name_ko": "협생문",
+      "legacy_provisional_id": "building:210",
+      "building_serial": 209,
+      "card_id": "b-209",
+      "poi_id": "place:hyupsaengmun-gate",
+      "mapping_status": "confirmed",
+      "name_en": "Hyeopsaengmun (Gate)",
+      "name_th": "ฮยอบแซงมุน (ประตู)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 33,
+      "dataset_class": "34_유화문",
+      "name_ko": "유화문",
+      "legacy_provisional_id": "building:211",
+      "building_serial": 210,
+      "card_id": "b-210",
+      "poi_id": "place:yuhwamun-gate",
+      "mapping_status": "confirmed",
+      "name_en": "Yuhwamun (Gate)",
+      "name_th": "ยูฮวามุน (ประตู)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 34,
+      "dataset_class": "35_기별청",
+      "name_ko": "기별청",
+      "legacy_provisional_id": "building:158",
+      "building_serial": 157,
+      "card_id": "b-157",
+      "poi_id": "place:p-18",
+      "mapping_status": "confirmed",
+      "name_en": "Gibyeolcheong (News Office)",
+      "name_th": "คีบยอลชอง (สำนักงานข่าว)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 35,
+      "dataset_class": "36_교태전",
+      "name_ko": "교태전",
+      "legacy_provisional_id": "building:165",
+      "building_serial": 164,
+      "card_id": "b-164",
+      "poi_id": "place:gyotaejeon",
+      "mapping_status": "confirmed",
+      "name_en": "Gyotaejeon (Queen’s Bedchamber)",
+      "name_th": "คโยแทจอน (พระตำหนักบรรทมราชินี)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 36,
+      "dataset_class": "37_양의문",
+      "name_ko": "양의문",
+      "legacy_provisional_id": "building:212",
+      "building_serial": 211,
+      "card_id": "b-211",
+      "poi_id": "place:p-33",
+      "mapping_status": "confirmed",
+      "name_en": "Yanguimun (Gate)",
+      "name_th": "ยังอึยมุน (ประตู)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 37,
+      "dataset_class": "38_경성전",
+      "name_ko": "경성전",
+      "legacy_provisional_id": "building:213",
+      "building_serial": 212,
+      "card_id": "b-212",
+      "poi_id": "place:gyeongseongjeon",
+      "mapping_status": "confirmed",
+      "name_en": "Gyeongseongjeon (Bedchamber)",
+      "name_th": "คยองซองจอน (ห้องบรรทม)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 38,
+      "dataset_class": "39_응지당",
+      "name_ko": "응지당",
+      "legacy_provisional_id": "building:214",
+      "building_serial": 213,
+      "card_id": "b-213",
+      "poi_id": "place:eungjidang",
+      "mapping_status": "confirmed",
+      "name_en": "Eungjidang (Auxiliary Hall)",
+      "name_th": "อึงจีดัง (อาคารเสริม)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 39,
+      "dataset_class": "40_강녕전",
+      "name_ko": "강녕전",
+      "legacy_provisional_id": "building:164",
+      "building_serial": 163,
+      "card_id": "b-163",
+      "poi_id": "place:gangnyeongjeon",
+      "mapping_status": "confirmed",
+      "name_en": "Gangnyeongjeon (King’s Bedchamber)",
+      "name_th": "คังนยองจอน (พระตำหนักบรรทมกษัตริย์)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 40,
+      "dataset_class": "41_만춘전",
+      "name_ko": "만춘전",
+      "legacy_provisional_id": "building:215",
+      "building_serial": 214,
+      "card_id": "b-214",
+      "poi_id": "place:manchunjeon",
+      "mapping_status": "confirmed",
+      "name_en": "Manchunjeon (Royal Study Hall)",
+      "name_th": "มันชุนจอน (ท้องพระโรงทรงงาน)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 41,
+      "dataset_class": "42_사정전",
+      "name_ko": "사정전",
+      "legacy_provisional_id": "building:163",
+      "building_serial": 162,
+      "card_id": "b-162",
+      "poi_id": "place:seojeongjeon",
+      "mapping_status": "confirmed",
+      "name_en": "Sajeongjeon (Royal Council Hall)",
+      "name_th": "ซาจองจอน (ท้องพระโรงทรงงาน)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 42,
+      "dataset_class": "43_연길당",
+      "name_ko": "연길당",
+      "legacy_provisional_id": "building:216",
+      "building_serial": 215,
+      "card_id": "b-215",
+      "poi_id": "place:yeongildang",
+      "mapping_status": "confirmed",
+      "name_en": "Yeongildang (Auxiliary Hall)",
+      "name_th": "ยอนกิลดัง (อาคารเสริม)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 43,
+      "dataset_class": "44_연생전",
+      "name_ko": "연생전",
+      "legacy_provisional_id": "building:217",
+      "building_serial": 216,
+      "card_id": "b-216",
+      "poi_id": "place:yeonsaengjeon",
+      "mapping_status": "confirmed",
+      "name_en": "Yeonsaengjeon (Royal Bedchamber Hall)",
+      "name_th": "ยอนแซงจอน (ห้องบรรทมกษัตริย์)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 44,
+      "dataset_class": "45_근정문",
+      "name_ko": "근정문",
+      "legacy_provisional_id": "building:159",
+      "building_serial": 158,
+      "card_id": "b-158",
+      "poi_id": "place:geunjeongmun-gate",
+      "mapping_status": "confirmed",
+      "name_en": "Geunjeongmun (Palace Gate)",
+      "name_th": "คึนจองมุน (ประตูพระราชวัง)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 45,
+      "dataset_class": "46_천추전",
+      "name_ko": "천추전",
+      "legacy_provisional_id": "building:218",
+      "building_serial": 217,
+      "card_id": "b-217",
+      "poi_id": "place:cheonchujeon",
+      "mapping_status": "confirmed",
+      "name_en": "Cheonchujeon (Royal Council Hall)",
+      "name_th": "ชอนชูจอน (ท้องพระโรงว่าราชการ)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 46,
+      "dataset_class": "47_흥례문",
+      "name_ko": "흥례문",
+      "legacy_provisional_id": "building:156",
+      "building_serial": 155,
+      "card_id": "b-155",
+      "poi_id": "place:heungnyemun-gate",
+      "mapping_status": "confirmed",
+      "name_en": "Heungnyemun (Palace Gate)",
+      "name_th": "ฮึงนเยมุน (ประตูพระราชวัง)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 47,
+      "dataset_class": "48_자선당",
+      "name_ko": "자선당",
+      "legacy_provisional_id": "building:219",
+      "building_serial": 218,
+      "card_id": "b-218",
+      "poi_id": "place:jaseondang",
+      "mapping_status": "confirmed",
+      "name_en": "Jaseondang (Crown Prince’s Residence)",
+      "name_th": "จาซอนดัง (ที่ประทับองค์รัชทายาท)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 48,
+      "dataset_class": "49_비현각",
+      "name_ko": "비현각",
+      "legacy_provisional_id": "building:220",
+      "building_serial": 219,
+      "card_id": "b-219",
+      "poi_id": "place:bihyeongak",
+      "mapping_status": "confirmed",
+      "name_en": "Bihyeongak (Crown Prince’s Study)",
+      "name_th": "บีฮยองกัก (ห้องทรงงานองค์รัชทายาท)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 49,
+      "dataset_class": "50_중광문",
+      "name_ko": "중광문",
+      "legacy_provisional_id": "building:221",
+      "building_serial": 220,
+      "card_id": "b-220",
+      "poi_id": "place:p-34",
+      "mapping_status": "confirmed",
+      "name_en": "Junggwangmun (Gate)",
+      "name_th": "จุงกวังมุน (ประตู)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 50,
+      "dataset_class": "51_광화문",
+      "name_ko": "광화문",
+      "legacy_provisional_id": "building:151",
+      "building_serial": 151,
+      "card_id": "b-151",
+      "poi_id": "place:gwanghwamun-gate",
+      "mapping_status": "confirmed",
+      "name_en": "Gwanghwamun (Palace Gate)",
+      "name_th": "ควังฮวามุน (ประตูพระราชวัง)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 51,
+      "dataset_class": "52_집경당",
+      "name_ko": "집경당",
+      "legacy_provisional_id": "building:222",
+      "building_serial": 221,
+      "card_id": "b-221",
+      "poi_id": "place:jipgyeongdang",
+      "mapping_status": "confirmed",
+      "name_en": "Jipgyeongdang (Royal Bedchamber Hall)",
+      "name_th": "จิบคยองดัง (ห้องบรรทมหลวง)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 52,
+      "dataset_class": "53_제수합",
+      "name_ko": "제수합",
+      "legacy_provisional_id": "building:223",
+      "building_serial": 222,
+      "card_id": "b-222",
+      "poi_id": "place:p-35",
+      "mapping_status": "confirmed",
+      "name_en": "Jesuhap (Royal Annex)",
+      "name_th": "เจซูฮับ (อาคารประกอบเขตพระราชฐาน)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 53,
+      "dataset_class": "54_계조당",
+      "name_ko": "계조당",
+      "legacy_provisional_id": "building:224",
+      "building_serial": 223,
+      "card_id": "b-223",
+      "poi_id": "place:gyejodang",
+      "mapping_status": "confirmed",
+      "name_en": "Gyejodang (Crown Prince’s Audience Hall)",
+      "name_th": "คเยโจดัง (ท้องพระโรงองค์รัชทายาท)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 54,
+      "dataset_class": "55_원길헌",
+      "name_ko": "원길헌",
+      "legacy_provisional_id": "building:225",
+      "building_serial": 224,
+      "card_id": "b-224",
+      "poi_id": "place:p-36",
+      "mapping_status": "confirmed",
+      "name_en": "Wongilheon (Royal Annex)",
+      "name_th": "วอนกิลฮอน (อาคารประกอบพระตำหนัก)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 55,
+      "dataset_class": "56_건춘문",
+      "name_ko": "건춘문",
+      "legacy_provisional_id": "building:152",
+      "building_serial": 152,
+      "card_id": "b-152",
+      "poi_id": "place:geonchunmun-gate",
+      "mapping_status": "confirmed",
+      "name_en": "Geonchunmun (Palace Gate)",
+      "name_th": "คอนชุนมุน (ประตูพระราชวัง)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 56,
+      "dataset_class": "57_자경전",
+      "name_ko": "자경전",
+      "legacy_provisional_id": "building:170",
+      "building_serial": 169,
+      "card_id": "b-169",
+      "poi_id": "place:jagyeongjeon",
+      "mapping_status": "confirmed",
+      "name_en": "Jagyeongjeon (Queen Dowager’s Residence)",
+      "name_th": "จากยองจอน (ตำหนักพระพันปีหลวง)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 57,
+      "dataset_class": "58_팔우정",
+      "name_ko": "팔우정",
+      "legacy_provisional_id": "building:226",
+      "building_serial": 225,
+      "card_id": "b-225",
+      "poi_id": "place:parujeong",
+      "mapping_status": "confirmed",
+      "name_en": "Parujeong (Octagonal Pavilion)",
+      "name_th": "พารูจอง (ศาลาแปดเหลี่ยม)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 58,
+      "dataset_class": "59_함홍각",
+      "name_ko": "함홍각",
+      "legacy_provisional_id": "building:227",
+      "building_serial": 226,
+      "card_id": "b-226",
+      "poi_id": "place:p-13",
+      "mapping_status": "confirmed",
+      "name_en": "Hamhonggak (Royal Annex)",
+      "name_th": "ฮัมฮงกัก (อาคารประกอบพระตำหนัก)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    },
+    {
+      "class_index": 59,
+      "dataset_class": "60_건순각",
+      "name_ko": "건순각",
+      "legacy_provisional_id": "building:228",
+      "building_serial": 227,
+      "card_id": "b-227",
+      "poi_id": "place:p-37",
+      "mapping_status": "confirmed",
+      "name_en": "Geonsungak (Royal Annex)",
+      "name_th": "คอนซุนกัก (อาคารประกอบพระตำหนัก)",
+      "verification": {
+        "identity": "exact_name_and_pin_serial_match",
+        "card_id_rule": "BE v0.2 b-<serial>",
+        "card_api": "not_tested"
+      }
+    }
+  ],
+  "verification_scope": "Confirmed identity against attached POI/pin files; card IDs derived using documented serial rule. Live card API not tested; team approval pending.",
+  "source_sha256": {
+    "pois.json": "bd0d90f881c17c4a8624e8fff377f5b7bbc41e2745d8a86e07f418fa062ab481",
+    "pins.geojson": "08d54f79ac06adbc7c37217bbc5fb591fbec0b543b1d3b859867f6138ad38266"
+  }
+}
