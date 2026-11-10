@@ -1,0 +1,22 @@
+{
+  "mode": "fp32",
+  "seed": 20261109,
+  "epochs_max": 20,
+  "batch_size": 16,
+  "train_images": 3059,
+  "field_train_images": 505,
+  "input_size": 320,
+  "sampling": "per-image min(sqrt(max_class_count/n),2)",
+  "loss": "CrossEntropy normalized inverse sqrt class weights",
+  "feature_lr": 1e-05,
+  "classifier_lr": 0.0001,
+  "weight_decay": 0.0001,
+  "selection": "mean of combined and field present-class Macro F1; tie: field Top1",
+  "patience": 5,
+  "bn": "running statistics frozen",
+  "augmentation": "affine degrees4 translate.025 scale.95-1.05; brightness.5 contrast.15 saturation.1",
+  "qat": null,
+  "checkpoint_sha256": "8eb9a40a380d2b43c4b75ff2b6fd7bcb86cef84825234944d16177c3bd2f4b37",
+  "manifest_sha256": "99973561e856bd70fb0d115a72d6b560e4217e1a8a3b43bc90b4223ddeaac8ce",
+  "torch": "2.5.1+cu121"
+}
