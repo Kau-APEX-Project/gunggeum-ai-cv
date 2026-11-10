@@ -1,0 +1,16 @@
+{
+  "download_location": null,
+  "note": "Team Drive/S3 URL not yet registered. Obtain field_expand_gpu data package separately.",
+  "files": [
+    {
+      "file": "start.pt",
+      "sha256": "8eb9a40a380d2b43c4b75ff2b6fd7bcb86cef84825234944d16177c3bd2f4b37",
+      "bytes": 16645150
+    },
+    {
+      "file": "manifest.json",
+      "sha256": "99973561e856bd70fb0d115a72d6b560e4217e1a8a3b43bc90b4223ddeaac8ce",
+      "bytes": 1274202
+    }
+  ]
+}

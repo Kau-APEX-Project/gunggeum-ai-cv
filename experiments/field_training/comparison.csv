@@ -1,0 +1,5 @@
+﻿model,validation_set,total,top1_correct,top2_correct,top3_correct,top1_percent,top2_percent,top3_percent,macro_f1_percent
+EXP005 epoch16,Combined 568,568,527,550,556,92.7817,96.831,97.8873,92.3617
+EXP005 epoch16,Combined + field 718,718,592,631,648,82.4513,87.883,90.2507,81.3666
+Field FP32 epoch12,Combined 568,568,528,550,559,92.9577,96.831,98.4155,93.0461
+Field FP32 epoch12,Combined + field 718,718,637,668,685,88.7187,93.0362,95.4039,88.2156
