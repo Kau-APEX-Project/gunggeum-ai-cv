@@ -59,7 +59,7 @@ class Reader(CalibrationDataReader):
   if self.n%60==0:print('Calibration',self.n,flush=True)
   return {'image':tensor(r)}
 pre=O/'preprocessed_fp32.onnx';quant_pre_process(str(src),str(pre),skip_optimization=True,skip_symbolic_shape=True)
-quantize_static(str(pre),str(paths['static_int8']),Reader(),quant_format=QuantFormat.QDQ,activation_type=QuantType.QInt8,weight_type=QuantType.QInt8,per_channel=True,calibrate_method=CalibrationMethod.MinMax,op_types_to_quantize=['Conv','Gemm','MatMul'],extra_options={'CalibMaxIntermediateOutputs':8})
+quantize_static(str(pre),str(paths['static_int8']),Reader(),quant_format=QuantFormat.QDQ,activation_type=QuantType.QInt8,weight_type=QuantType.QInt8,per_channel=True,calibrate_method=CalibrationMethod.MinMax,op_types_to_quantize=['Conv','Gemm','MatMul'])
 opt=ort.SessionOptions();opt.intra_op_num_threads=4;opt.inter_op_num_threads=1
 sessions={}
 for k,f in paths.items():onnx.checker.check_model(str(f));sessions[k]=ort.InferenceSession(str(f),sess_options=opt,providers=['CPUExecutionProvider'])
